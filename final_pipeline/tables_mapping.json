@@ -1,0 +1,267 @@
+PUT _index_template/latency_template_1
+{
+  "index_patterns": ["curr-udplatency-*", "curr-ping-*", "curr-ulping-*", "curr-dlping-*"],
+  "template": {
+    "settings": {
+      "number_of_shards": 2,
+      "number_of_replicas": 1
+    },
+    "mappings": {
+      "_source": {
+        "enabled": true
+      },
+      "properties": {
+        "dtime": {
+          "type": "date",
+          "format": "yyyy-MM-dd HH:mm:ss"
+        },
+        "unit_id": {
+          "type": "long"
+        },
+        "rtt_avg": {
+            "type": "integer"
+        },
+        "rtt_min": {
+            "type": "integer"
+        },
+        "rtt_max": {
+            "type": "integer"
+        },
+        "rtt_std": {
+            "type": "integer"
+        },
+        "successes": {
+            "type": "integer"
+        },
+        "failures": {
+            "type": "integer"
+        },
+        "target": {
+            "type": "keyword"
+        },
+        "operator_name": {
+            "type": "keyword"
+        },
+        "operator_technology": {
+            "type": "keyword"
+        },
+        "test_type": {
+          "type": "keyword"
+        },
+        "download_speed": {
+          "type": "long"
+        },
+        "upload_speed": {
+          "type": "long"
+        },
+        "validation_type": {
+          "type": "keyword"
+        },
+        "time_category": {
+          "type": "keyword"
+        },
+        "dtime_local": {
+          "type": "date",
+          "format": "yyyy-MM-dd HH:mm:ss"
+        }
+      }
+    },
+    "aliases": {
+      "mydata": { }
+    }
+  },
+  "priority": 500, 
+  "version": 7,
+  "_meta": {
+    "description": "Latency templates"
+  }
+}
+
+
+PUT _index_template/jitter_template_1
+{
+  "index_patterns": ["curr-udpjitter-*"],
+  "template": {
+    "settings": {
+      "number_of_shards": 2,
+      "number_of_replicas": 1
+    },
+    "mappings": {
+      "_source": {
+        "enabled": true
+      },
+      "properties": {
+        "dtime": {
+          "type": "date",
+          "format": "yyyy-MM-dd HH:mm:ss"
+        },
+        "unit_id": {
+          "type": "long"
+        },
+        "packet_size": {
+            "type": "integer"
+        },
+        "stream_rate": {
+            "type": "integer"
+        },
+        "duration": {
+            "type": "long"
+        },
+        "packets_up_sent": {
+            "type": "integer"
+        },
+        "packets_down_sent": {
+            "type": "integer"
+        },
+        "packets_up_recv": {
+            "type": "integer"
+        },
+        "packets_down_recv": {
+            "type": "integer"
+        },
+        "jitter_up": {
+            "type": "integer"
+        },
+        "jitter_down": {
+            "type": "integer"
+        },
+        "latency": {
+            "type": "long"
+        },
+        "successes": {
+          "type": "integer"
+        },
+        "failures": {
+            "type": "integer"
+        },
+        "target": {
+            "type": "keyword"
+        },
+        "operator_name": {
+            "type": "keyword"
+        },
+        "operator_technology": {
+            "type": "keyword"
+        },
+        "test_type": {
+          "type": "keyword"
+        },
+        "download_speed": {
+          "type": "long"
+        },
+        "upload_speed": {
+          "type": "long"
+        },
+        "validation_type": {
+          "type": "keyword"
+        },
+        "time_category": {
+          "type": "keyword"
+        },
+        "dtime_local": {
+          "type": "date",
+          "format": "yyyy-MM-dd HH:mm:ss"
+        }
+      }
+    },
+    "aliases": {
+      "mydata": { }
+    }
+  },
+  "priority": 500, 
+  "version": 1,
+  "_meta": {
+    "description": "Jitter templates"
+  }
+}
+
+
+PUT _index_template/speed_template_1
+{
+  "index_patterns": ["curr-httpgetmt-*", "curr-httppostmt-*"],
+  "template": {
+    "settings": {
+      "number_of_shards": 2,
+      "number_of_replicas": 1
+    },
+    "mappings": {
+      "_source": {
+        "enabled": true
+      },
+      "properties": {
+        "dtime": {
+          "type": "date",
+          "format": "yyyy-MM-dd HH:mm:ss"
+        },
+        "unit_id": {
+          "type": "long"
+        },
+        "fetch_time": {
+            "type": "long"
+        },
+        "bytes_total": {
+            "type": "long"
+        },
+        "bytes_sec": {
+            "type": "long"
+        },
+        "bytes_sec_interval": {
+            "type": "long"
+        },
+        "warmup_time": {
+            "type": "long"
+        },
+        "warmup_bytes": {
+            "type": "long"
+        },
+        "sequence": {
+            "type": "integer"
+        },
+        "threads": {
+            "type": "integer"
+        },
+        "successes": {
+            "type": "integer"
+        },
+        "failures": {
+            "type": "integer"
+        },
+        "target": {
+            "type": "keyword"
+        },
+        "address": {
+            "type": "keyword"
+        },
+        "operator_name": {
+            "type": "keyword"
+        },
+        "operator_technology": {
+            "type": "keyword"
+        },
+        "test_type": {
+          "type": "keyword"
+        },
+        "download_speed": {
+          "type": "long"
+        },
+        "upload_speed": {
+          "type": "long"
+        },
+        "validation_type": {
+          "type": "keyword"
+        },
+        "time_category": {
+          "type": "keyword"
+        }
+      }
+    },
+    "aliases": {
+      "mydata": { }
+    }
+  },
+  "priority": 500, 
+  "version": 5,
+  "_meta": {
+    "description": "speed templates"
+  }
+}
