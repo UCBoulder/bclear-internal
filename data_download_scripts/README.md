@@ -1,0 +1,2 @@
+
+This folder contains a bash script for each year to download the raw data from FCC's website. Link for the website - https://www.fcc.gov/oet/mba/raw-data-releases. Each script downloads the compressed files for each month of an year, un-compresses it and keeps only the speed and latency data files. This data can be consumed by the scripts in the [data_pipeline](../final_pipeline/README.md). 

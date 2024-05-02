@@ -1,11 +1,11 @@
 # B-Clear Project
 
 ## Installation and project setup steps
-- Have a elasticsearch cluster setup on cloud, copy the security.ini file to this folder
+- Have a elasticsearch cluster setup on cloud, and update the username and password in the security.ini file to this folder.
 - create a local virtualenv - ```virtualenv -p python3 venv```
 - activate the env - ```source venv/bin/activate```
 - install the python client libraries using the command ```pip install -r requirements.txt```
-- download the raw data to validate and upload to elasticsearch. link - https://www.fcc.gov/oet/mba/raw-data-releases
+- download the raw data to validate and upload to elasticsearch. link - https://www.fcc.gov/oet/mba/raw-data-releases. The raw data is already present on the kibana instance at path `~/BMCP/.` in an archived format for each year.
 
 ## Folder structure
 
@@ -19,7 +19,6 @@ b-clear
         *scripts*
     unit_profile_files
         *10 years for unit-profile files*
-    unit-profile-combined.csv
 ```
 
 
@@ -31,7 +30,7 @@ b-clear
 ## download certs for elasticsearch access
 - update the username and password in security.ini file
 - copy the http_ca.crt file from an elasticsearch server. the filepath for it would be /etc/elasticsearch/config/certs/http_ca.crt 
-- Create the index template on elasticsearch cluster. See the API query in tables_mapping.json file. If adding new fields to the dataset then update the template in the file before pushing the new data. 
+- Create the index template on elasticsearch cluster. See the API query in [tables_mapping.json](tables_mapping.json) file. If adding new fields to the dataset then update the template in the file before pushing the new data. 
 
 
 ## steps to run the pipeline 
