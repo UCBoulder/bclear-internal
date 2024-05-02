@@ -10,13 +10,11 @@
 ## Folder structure
 
 ```
-b-clear
-    - 202201
-    - 202202
-    .. data directories
-    ..
-    filtering_scripts
-        *scripts*
+bclear-internal
+    - 2022.tar.gz
+    - 2021.tar.gz
+    ... other archived raw data
+    ...
     unit_profile_files
         *10 years for unit-profile files*
 ```
@@ -24,8 +22,9 @@ b-clear
 
 ## generate combined unit-profile files 
 
-- download all the unit-profile files from back in 2011. link - https://www.fcc.gov/general/measuring-broadband-america-measuring-fixed-broadband
--  run the script - `combine_profile_files.py` to get a combined unit-profile file later used for ISP mapping
+- download all the unit-profile files from back in 2011. link - https://www.fcc.gov/general/measuring-broadband-america-measuring-fixed-broadband. 
+- run the script - `combine_profile_files.py` to get a combined unit-profile file later used for ISP mapping
+- All the unit and excluded files are already downloaded and available in the folder [unit_profile_files](../unit_profile_files/) along with there combined versions.
 
 ## download certs for elasticsearch access
 - update the username and password in security.ini file
@@ -36,6 +35,9 @@ b-clear
 ## steps to run the pipeline 
 
 once all the files are downloaded and setup as defined in the folder structure above run the bash script `run_pipeline.sh`, it takes the data folder path as an argument. example usage - ```./run_pipeline.sh '../202201'```   
+
+## Debugging errors on running the pipeline 
+- check the [get_transform_load.log](get_transform_load.log) file.
 
 # Steps that are run by the pipeline script 
 
@@ -87,4 +89,4 @@ An additional task of this script is to classify each test as either an on-net v
 
 This step is performed by the script `bulk_upload.py`, it requires the security.ini file to access the elastic cloud cluster. The script spawns 4 threads and does an parallel bulk push of 500 documents for each thread at a time.
 
-To create the visualizations and dashboards in Kibana go to the menu and select Stack Management -> Saved Objects and click on the Import button located in the top-right and upload the export.ndjson file in this repo. 
+To create the visualizations and dashboards in Kibana go to the menu and select Stack Management -> Saved Objects and click on the Import button located in the top-right and upload the [export.ndjson](../export.ndjson) file in this repo. 
