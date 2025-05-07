@@ -1,0 +1,2932 @@
+﻿Unit ID,ISP,Technology,State,Census,timezone_offset,timezone_offset_dst,Download,Upload,Whitebox Model
+447,Verizon,Fiber,PA,Northeast,-5,-4,75,75,wnr3500l-high
+566,Comcast,Cable,NH,Northeast,-5,-4,60,5,wnr3500l-high
+576,Verizon,Fiber,PA,Northeast,-5,-4,100,100,wnr3500l-high
+602,CenturyLink,DSL,CO,West,-7,-6,1.5,0.896,wnr3500l-high
+636,Frontier,Fiber,TX,South,-6,-5,75,75,wnr3500l-high
+763,Verizon,Fiber,MD,South,-5,-4,100,100,wnr3500l-high
+767,Comcast,Cable,CO,West,-7,-6,70,5,wnr3500l-high
+782,CenturyLink,DSL,FL,South,-5,-4,10,0.768,wnr3500l-high
+786,Optimum,Cable,NY,Northeast,-5,-4,100,35,wnr3500l-high
+858,Verizon,Fiber,VA,South,-5,-4,75,75,wnr3500l-high
+866,Comcast,Cable,CT,Northeast,-5,-4,60,5,wnr3500l-high
+870,Comcast,Cable,CA,West,-8,-7,75,5,wnr3500l-high
+1014,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,wnr3500l-high
+1026,Frontier,Fiber,CA,West,-8,-7,100,100,wnr3500l-high
+1074,CenturyLink,DSL,FL,South,-5,-4,1.5,0.256,wnr3500l-high
+1220,Frontier,Fiber,CA,West,-8,-7,50,50,wnr3500l-high
+1290,Comcast,Cable,TX,South,-6,-5,60,5,wnr3500l-high
+5056,Comcast,Cable,MA,Northeast,-5,-4,60,5,wnr3500l-high
+5216,Frontier,Fiber,TX,South,-6,-5,50,50,wnr3500l-high
+5299,CenturyLink,DSL,CO,West,-7,-6,12,5,wnr3500l-high
+5347,Comcast,Cable,CT,Northeast,-5,-4,60,5,wnr3500l-high
+5381,Comcast,Cable,CO,West,-7,-6,75,5,wnr3500l-high
+5431,Frontier,Fiber,FL,South,-5,-4,50,50,wnr3500l-high
+5440,Comcast,Cable,MD,South,-5,-4,60,5,wnr3500l-high
+5518,Comcast,Cable,WA,West,-8,-7,75,5,wnr3500l-high
+5521,Verizon,Fiber,MD,South,-5,-4,100,100,wnr3500l-high
+5552,Comcast,Cable,CA,West,-8,-7,75,5,wnr3500l-high
+5606,Comcast,Cable,MD,South,-5,-4,60,5,wnr3500l-high
+5711,Verizon,Fiber,NY,Northeast,-5,-4,75,35,wnr3500l-high
+5728,CenturyLink,DSL,WA,West,-8,-7,40,2,wnr3500l-high
+5734,Comcast,Cable,CO,West,-7,-6,75,5,wnr3500l-high
+5767,Cox,Cable,CA,West,-8,-7,30,3,wnr3500l-high
+5774,Comcast,Cable,IL,Midwest,-6,-5,60,5,wnr3500l-high
+5831,Mediacom,Cable,IA,Midwest,-6,-5,75,10,wnr3500l-high
+5851,CenturyLink,DSL,AZ,West,-7,-7,10,0.768,wnr3500l-high
+5859,CenturyLink,DSL,CO,West,-7,-6,12,0.896,wnr3500l-high
+5868,Comcast,Cable,VA,South,-5,-4,60,5,wnr3500l-high
+5871,Comcast,Cable,CO,West,-7,-6,105,10,wnr3500l-high
+5875,Verizon,Fiber,VA,South,-5,-4,100,100,wnr3500l-high
+5953,Comcast,Cable,TX,South,-6,-5,105,10,wnr3500l-high
+5968,Verizon,Fiber,MA,Northeast,-5,-4,75,75,wnr3500l-high
+5985,Verizon,Fiber,VA,South,-5,-4,100,100,wnr3500l-high
+6007,Frontier,Fiber,TX,South,-6,-5,50,50,wnr3500l-high
+6018,Comcast,Cable,PA,Northeast,-5,-4,60,5,wnr3500l-high
+6053,CenturyLink,DSL,OR,West,-8,-7,40,5,wnr3500l-high
+6071,Comcast,Cable,GA,South,-5,-4,60,5,wnr3500l-high
+6085,Verizon,Fiber,PA,Northeast,-5,-4,100,100,wnr3500l-high
+6098,Verizon,Fiber,VA,South,-5,-4,100,100,wnr3500l-high
+6099,Comcast,Cable,OR,West,-8,-7,70,5,wnr3500l-high
+6106,CenturyLink,DSL,AZ,West,-7,-7,7,0.896,wnr3500l-high
+6177,Verizon,Fiber,NJ,Northeast,-5,-4,75,75,wnr3500l-high
+6417,CenturyLink,DSL,NM,West,-7,-6,20,0.896,wnr3500l-high
+6457,Verizon,Fiber,MD,South,-5,-4,100,100,wnr3500l-high
+6490,Comcast,Cable,IL,Midwest,-6,-5,60,5,wnr3500l-high
+6521,Frontier,Fiber,OR,West,-8,-7,75,75,wnr3500l-high
+6613,Comcast,Cable,CA,West,-8,-7,75,5,wnr3500l-high
+6669,Comcast,Cable,CT,Northeast,-5,-4,60,5,wnr3500l-high
+6690,Verizon,Fiber,MD,South,-5,-4,100,100,wnr3500l-high
+6737,Comcast,Cable,PA,Northeast,-5,-4,100,5,wnr3500l-high
+7120,CenturyLink,DSL,CO,West,-7,-6,40,5,wnr3500l-high
+7149,Mediacom,Cable,MO,Midwest,-6,-5,60,5,wnr3500l-high
+7211,Cox,Cable,AZ,West,-7,-7,30,3,wnr3500l-high
+7227,Frontier,DSL,NY,Northeast,-5,-4,12,1,wnr3500l-high
+7392,Frontier,DSL,WV,South,-5,-4,6,0.768,wnr3500l-high
+7400,Comcast,Cable,TN,South,-6,-5,100,5,wnr3500l-high
+7466,Verizon,Fiber,VA,South,-5,-4,100,100,wnr3500l-high
+7489,Comcast,Cable,MA,Northeast,-5,-4,100,5,wnr3500l-high
+7611,CenturyLink,DSL,MN,Midwest,-6,-5,40,2,wnr3500l-high
+7637,Comcast,Cable,NM,West,-7,-6,105,10,wnr3500l-high
+7749,CenturyLink,DSL,AZ,West,-7,-7,40,5,wnr3500l-high
+7772,Comcast,Cable,MN,Midwest,-6,-5,75,5,wnr3500l-high
+7774,CenturyLink,DSL,NE,Midwest,-6,-5,20,0.896,wnr3500l-high
+7842,Verizon,Fiber,MA,Northeast,-5,-4,75,75,wnr3500l-high
+7918,CenturyLink,DSL,VA,South,-5,-4,8,0.768,wnr3500l-high
+7937,Verizon,Fiber,VA,South,-5,-4,100,100,wnr3500l-high
+7940,CenturyLink,DSL,NM,West,-7,-6,40,2,wnr3500l-high
+7942,Windstream,DSL,NM,West,-7,-6,25,1.5,wnr3500l-high
+7994,CenturyLink,DSL,FL,South,-5,-4,25,2,wnr3500l-high
+8069,CenturyLink,DSL,FL,South,-5,-4,40,2,wnr3500l-high
+8071,Verizon,Fiber,NY,Northeast,-5,-4,75,75,wnr3500l-high
+8103,CenturyLink,DSL,MN,Midwest,-6,-5,10,0.768,wnr3500l-high
+8105,Frontier,Fiber,TX,South,-6,-5,75,75,wnr3500l-high
+8423,Comcast,Cable,OR,West,-8,-7,75,5,wnr3500l-high
+8491,CenturyLink,DSL,WA,West,-8,-7,20,2,wnr3500l-high
+8691,Verizon,Fiber,VA,South,-5,-4,75,75,wnr3500l-high
+8799,CenturyLink,DSL,MN,Midwest,-6,-5,5,0.896,wnr3500l-high
+8850,Comcast,Cable,MA,Northeast,-5,-4,60,5,wnr3500l-high
+9019,CenturyLink,DSL,MN,Midwest,-6,-5,20,2,wnr3500l-high
+9041,Optimum,Cable,NJ,Northeast,-5,-4,100,35,wnr3500l-high
+9150,CenturyLink,DSL,AZ,West,-7,-7,60,5,wnr3500l-high
+9319,Frontier,DSL,IL,Midwest,-6,-5,12,1,wnr3500l-high
+9370,Optimum,Cable,CT,Northeast,-5,-4,100,35,wnr3500l-high
+9555,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,wnr3500l-high
+9560,Verizon,Fiber,NY,Northeast,-5,-4,75,75,wnr3500l-high
+9632,Mediacom,Cable,GA,South,-5,-4,60,5,wnr3500l-high
+9707,Frontier,DSL,WA,West,-8,-7,6,0.768,wnr3500l-high
+9760,Comcast,Cable,MN,Midwest,-6,-5,70,5,wnr3500l-high
+9846,Windstream,DSL,WI,Midwest,-6,-5,20,1.5,wnr3500l-high
+9916,Mediacom,Cable,IL,Midwest,-6,-5,60,5,wnr3500l-high
+9961,Mediacom,Cable,MO,Midwest,-6,-5,60,5,wnr3500l-high
+9967,Windstream,DSL,NC,South,-5,-4,25,1.5,wnr3500l-high
+10090,Mediacom,Cable,IA,Midwest,-6,-5,100,10,wnr3500l-high
+10096,Windstream,DSL,NC,South,-5,-4,3,0.768,wnr3500l-high
+10117,Mediacom,Cable,IA,Midwest,-6,-5,100,10,wnr3500l-high
+10147,Windstream,DSL,PA,Northeast,-5,-4,6,1.5,wnr3500l-high
+10149,Windstream,DSL,KY,South,-5,-4,15,1.5,wnr3500l-high
+10152,Windstream,DSL,NY,Northeast,-5,-4,4,1,wnr3500l-high
+10157,Windstream,DSL,FL,South,-5,-4,3,1.5,wnr3500l-high
+10181,Mediacom,Cable,IL,Midwest,-6,-5,60,5,wnr3500l-high
+10205,Windstream,DSL,FL,South,-5,-4,15,1.5,wnr3500l-high
+10221,Windstream,DSL,GA,South,-5,-4,3,0.768,wnr3500l-high
+10239,Windstream,DSL,GA,South,-5,-4,25,1.1,wnr3500l-high
+10339,Verizon,Fiber,MD,South,-5,-4,75,75,wnr3500l-high
+10389,Comcast,Cable,MA,Northeast,-5,-4,60,5,wnr3500l-high
+10434,Verizon,Fiber,PA,Northeast,-5,-4,75,75,wnr3500l-high
+10451,Frontier,Fiber,CA,West,-8,-7,50,50,wnr3500l-high
+10477,Comcast,Cable,CA,West,-8,-7,75,5,wnr3500l-high
+10514,Mediacom,Cable,IA,Midwest,-6,-5,75,10,wnr3500l-high
+10571,Verizon,Fiber,MA,Northeast,-5,-4,100,100,wnr3500l-high
+10745,CenturyLink,DSL,az,West,-7,-7,40,5,wnr3500l-high
+10856,Frontier,DSL,CA,West,-8,-7,15,1,wnr3500l-high
+10861,Comcast,Cable,WA,West,-8,-7,25,10,wnr3500l-high
+10922,Comcast,Cable,OR,West,-8,-7,75,5,wnr3500l-high
+11094,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,wnr3500l-high
+11161,Cox,Cable,AZ,West,-7,-7,30,3,wnr3500l-high
+11310,Verizon,Fiber,MD,South,-5,-4,100,100,wnr3500l-high
+11316,CenturyLink,DSL,MO,Midwest,-6,-5,10,0.75,wnr3500l-high
+11324,Optimum,Cable,NY,Northeast,-5,-4,100,35,wnr3500l-high
+11382,Comcast,Cable,GA,South,-5,-4,60,5,wnr3500l-high
+11386,Comcast,Cable,MA,Northeast,-5,-4,100,5,wnr3500l-high
+11434,Comcast,Cable,CA,West,-8,-7,75,5,wnr3500l-high
+11453,Frontier,Fiber,CA,West,-8,-7,100,100,wnr3500l-high
+11457,Verizon,Fiber,VA,South,-5,-4,75,75,wnr3500l-high
+11494,Windstream,DSL,GA,South,-5,-4,15,1.5,wnr3500l-high
+11502,Windstream,DSL,NC,South,-5,-4,3,1,wnr3500l-high
+11718,CenturyLink,DSL,NV,West,-8,-7,20,2,wnr3500l-high
+11878,Frontier,DSL,CA,West,-8,-7,3,0.384,wnr3500l-high
+11932,CenturyLink,DSL,UT,West,-7,-6,20,0.896,wnr3500l-high
+11955,Mediacom,Cable,IA,Midwest,-6,-5,60,5,wnr3500l-high
+12116,Optimum,Cable,UT,West,-7,-6,100,35,wnr3500l-high
+12266,Frontier,DSL,CA,West,-8,-7,15,1,wnr3500l-high
+12445,CenturyLink,DSL,MO,Midwest,-6,-5,10,0.768,wnr3500l-high
+12460,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,wnr3500l-high
+12485,Verizon,Fiber,VA,South,-5,-4,100,100,wnr3500l-high
+12532,Verizon,Fiber,VA,South,-5,-4,100,100,wnr3500l-high
+12581,CenturyLink,DSL,WA,West,-8,-7,10,0.768,wnr3500l-high
+12757,Verizon,Fiber,MA,Northeast,-5,-4,75,75,wnr3500l-high
+12891,CenturyLink,DSL,IA,Midwest,-6,-5,40,5,wnr3500l-high
+12915,CenturyLink,DSL,MN,Midwest,-6,-5,20,0.896,wnr3500l-high
+12957,CenturyLink,DSL,WA,West,-8,-7,8,0.768,wnr3500l-high
+12959,Frontier,Fiber,CA,West,-8,-7,100,100,wnr3500l-high
+12979,Verizon,Fiber,MD,South,-5,-4,100,100,wnr3500l-high
+13047,CenturyLink,DSL,FL,South,-5,-4,10,0.768,wnr3500l-high
+13059,CenturyLink,DSL,FL,South,-5,-4,25,2,wnr3500l-high
+13150,Verizon,Fiber,PA,Northeast,-5,-4,75,75,wnr3500l-high
+13226,CenturyLink,DSL,WI,Midwest,-6,-5,10,0.768,wnr3500l-high
+13256,CenturyLink,DSL,WA,West,-8,-7,3,0.512,wnr3500l-high
+13277,CenturyLink,DSL,MI,Midwest,-5,-4,10,0.768,wnr3500l-high
+13309,CenturyLink,DSL,WI,Midwest,-6,-5,20,2,wnr3500l-high
+13339,CenturyLink,DSL,IL,Midwest,-6,-5,10,0.768,wnr3500l-high
+13341,CenturyLink,DSL,CO,West,-7,-6,10,0.768,wnr3500l-high
+13365,CenturyLink,DSL,WA,West,-8,-7,10,0.768,wnr3500l-high
+13461,CenturyLink,DSL,TN,South,-5,-4,10,0.768,wnr3500l-high
+13574,CenturyLink,DSL,AZ,West,-7,-7,20,0.896,wnr3500l-high
+13723,CenturyLink,DSL,OR,West,-8,-7,3,0.64,wnr3500l-high
+14666,CenturyLink,DSL,IA,Midwest,-6,-5,12,0.896,wnr3500l-high
+14672,Comcast,Cable,CO,West,-7,-6,75,5,wnr3500l-high
+14684,Verizon,Fiber,RI,Northeast,-5,-4,75,75,wnr3500l-high
+14735,Comcast,Cable,MD,South,-5,-4,60,5,wnr3500l-high
+18316,Comcast,Cable,TX,South,-6,-5,70,5,wnr3500l-high
+26073,Cox,Cable,CA,West,-8,-7,30,3,wnr3500l-high
+26334,Frontier,DSL,NY,Northeast,-5,-4,9,1,wr741nd
+26340,Frontier,DSL,NY,Northeast,-5,-4,3,0.384,wr741nd
+26471,Comcast,Cable,MA,Northeast,-5,-4,60,5,wr1043nd
+26477,Verizon,Fiber,MA,Northeast,-5,-4,75,75,wr1043nd
+26506,Optimum,Cable,NJ,Northeast,-5,-4,100,35,wr1043nd
+26518,Optimum,Cable,NJ,Northeast,-5,-4,75,35,wr1043nd
+26529,Verizon,Fiber,NY,Northeast,-5,-4,75,75,wr1043nd
+26583,Verizon,Fiber,PA,Northeast,-5,-4,75,75,wr1043nd
+26584,Verizon,Fiber,PA,Northeast,-5,-4,75,75,wr1043nd
+26603,Verizon,Fiber,MD,South,-5,-4,100,100,wr1043nd
+26613,Verizon,Fiber,MD,South,-5,-4,100,100,wr1043nd
+26614,Verizon,Fiber,MD,South,-5,-4,100,100,wr1043nd
+26623,Verizon,Fiber,VA,South,-5,-4,100,100,wr1043nd
+26624,Verizon,Fiber,VA,South,-5,-4,75,75,wr1043nd
+26636,Frontier,Fiber,FL,South,-5,-4,100,100,wr1043nd
+26672,Verizon,Fiber,NJ,Northeast,-5,-4,75,75,wr741nd
+26693,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,wr1043nd
+26761,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,wr1043nd
+26829,Frontier,DSL,NY,Northeast,-5,-4,12,1,wr741nd
+26838,Frontier,DSL,NY,Northeast,-5,-4,24,1,wr741nd
+26852,Frontier,DSL,PA,Northeast,-5,-4,12,1,wr741nd
+26867,Verizon,Fiber,DE,South,-5,-4,75,75,wr741nd
+26944,Comcast,Cable,CA,West,-8,-7,175,5,wr1043nd
+26954,Frontier,DSL,WA,West,-8,-7,3,0.384,wr1043nd
+26974,Frontier,Fiber,OR,West,-8,-7,50,50,wr741nd
+27005,Frontier,Fiber,WA,West,-8,-7,50,50,wr741nd
+27027,CenturyLink,DSL,WA,West,-8,-7,8,0.768,wr741nd
+27053,Frontier,DSL,OR,West,-8,-7,6,0.384,wr741nd
+27069,Frontier,Fiber,OR,West,-8,-7,50,50,wr741nd
+27122,Frontier,Fiber,OR,West,-8,-7,100,100,wr1043nd
+27147,Windstream,DSL,NM,West,-7,-6,3,0.768,wr741nd
+27168,Frontier,Fiber,CA,West,-8,-7,150,150,wr1043nd
+27182,CenturyLink,DSL,CO,West,-7,-6,40,5,wr741nd
+27198,Cox,Cable,AZ,West,-7,-7,30,3,wr741nd
+27211,Frontier,Fiber,CA,West,-8,-7,75,75,wr741nd
+27240,Comcast,Cable,CO,West,-7,-6,75,5,wr741nd
+27241,CenturyLink,DSL,CO,West,-7,-6,12,0.896,wr741nd
+27255,Windstream,DSL,NM,West,-7,-6,25,1.5,wr741nd
+27273,CenturyLink,DSL,CO,West,-7,-6,20,0.896,wr1043nd
+27274,CenturyLink,DSL,ID,West,-7,-6,12,0.896,wr1043nd
+27276,Comcast,Cable,WA,West,-8,-7,25,5,wr1043nd
+27281,Frontier,Fiber,CA,West,-8,-7,100,100,wr1043nd
+27337,Mediacom,Cable,IA,Midwest,-6,-5,60,5,wr1043nd
+27338,Mediacom,Cable,IA,Midwest,-6,-5,100,10,wr1043nd
+27345,Mediacom,Cable,IA,Midwest,-6,-5,100,10,wr1043nd
+27367,Frontier,Fiber,TX,South,-6,-5,100,100,wr1043nd
+27390,Frontier,DSL,OH,Midwest,-5,-4,6,0.768,wr741nd
+27403,Frontier,DSL,OH,Midwest,-5,-4,6,0.768,wr741nd
+27416,Frontier,DSL,OH,Midwest,-5,-4,3,0.768,wr741nd
+27452,Mediacom,Cable,IA,Midwest,-6,-5,60,5,wr741nd
+27526,Mediacom,Cable,IA,Midwest,-6,-5,60,5,wr741nd
+27550,CenturyLink,DSL,WI,Midwest,-6,-5,25,2,wr741nd
+27662,Mediacom,Cable,IA,Midwest,-6,-5,100,10,wr1043nd
+27678,Comcast,Cable,IL,Midwest,-6,-5,150,10,wr1043nd
+27681,Mediacom,Cable,IL,Midwest,-6,-5,100,10,wr1043nd
+27741,CenturyLink,DSL,TX,South,-6,-5,25,2,wr741nd
+27784,Frontier,DSL,OH,Midwest,-5,-4,6,0.768,wr741nd
+27797,Frontier,DSL,OH,Midwest,-5,-4,3,0.768,wr741nd
+27804,Frontier,DSL,OH,Midwest,-5,-4,6,0.768,wr741nd
+27807,CenturyLink,DSL,IN,Midwest,-5,-4,60,5,wr741nd
+27831,Mediacom,Cable,IA,Midwest,-6,-5,60,5,wr741nd
+27906,Frontier,DSL,WI,Midwest,-6,-5,12,1,wr741nd
+27911,Frontier,DSL,MN,Midwest,-6,-5,10,1,wr741nd
+27912,Frontier,DSL,MN,Midwest,-6,-5,12,1,wr741nd
+27917,Frontier,DSL,MN,Midwest,-6,-5,6,0.384,wr741nd
+27919,Frontier,DSL,MN,Midwest,-6,-5,12,2,wr741nd
+27934,Frontier,DSL,IL,Midwest,-6,-5,12,1,wr741nd
+27941,Frontier,DSL,IL,Midwest,-6,-5,6,1,wr741nd
+28053,Verizon,Fiber,VA,South,-5,-4,100,100,wnr3500l-high
+28054,Comcast,Cable,PA,Northeast,-5,-4,60,5,wnr3500l-high
+28093,Charter,Cable,MI,Midwest,-5,-4,100,10,wr1043nd
+28097,Mediacom,Cable,IA,Midwest,-6,-5,60,5,wr741nd
+28140,Cox,Cable,AZ,West,-7,-7,30,3,wr741nd
+28209,CenturyLink,DSL,PA,Northeast,-5,-4,25,2,wr741nd
+28241,Comcast,Cable,NJ,Northeast,-5,-4,60,5,wr741nd
+28244,Verizon,Fiber,PA,Northeast,-5,-4,100,100,wr1043nd
+28245,Windstream,DSL,PA,Northeast,-5,-4,25,1.5,wr1043nd
+28702,Charter,Cable,KY,South,-5,-4,100,10,wr1043nd
+28729,Charter,Cable,MI,Midwest,-5,-4,100,10,wr1043nd
+28773,Mediacom,Cable,MO,Midwest,-6,-5,60,5,wr741nd
+28798,Windstream,DSL,TX,South,-6,-5,25,1.1,wr741nd
+28862,Frontier,Fiber,WA,West,-8,-7,50,50,wr741nd
+28936,Frontier,DSL,IL,Midwest,-6,-5,6,0.768,wr1043nd
+28970,Comcast,Cable,CO,West,-7,-6,60,5,wr1043nd
+28973,Frontier,DSL,ID,West,-8,-7,3,0.768,wr1043nd
+29590,Windstream,DSL,OH,Midwest,-5,-4,10,1,wr1043nd
+29591,Windstream,DSL,OH,Midwest,-5,-4,15,1.5,wr1043nd
+29599,CenturyLink,DSL,ID,West,-7,-6,40,20,wr1043nd
+29605,CenturyLink,DSL,MN,Midwest,-6,-5,10,0.768,wr1043nd
+29624,Frontier,Fiber,TX,South,-6,-5,50,50,wr1043nd
+29670,Cox,Cable,AZ,West,-7,-7,150,10,wr1043nd
+29686,CenturyLink,DSL,NM,West,-7,-6,5,0.896,wr1043nd
+29688,Frontier,DSL,NV,West,-8,-7,3,0.768,wr1043nd
+29723,Windstream,DSL,GA,South,-5,-4,10,1,wr1043nd
+29731,Charter,Cable,CA,West,-8,-7,100,10,wr1043nd
+29743,Frontier,DSL,WA,West,-8,-7,3,0.768,wr1043nd
+29744,Comcast,Cable,WA,West,-8,-7,150,5,wr1043nd
+29753,Frontier,Fiber,WA,West,-8,-7,50,50,wr1043nd
+30637,Charter,Cable,MI,Midwest,-5,-4,100,10,wr1043nd
+87304,CenturyLink,DSL,MT,West,-7,-6,1.5,0.256,wr741ndv4
+132354,Optimum,Cable,NY,Northeast,-5,-4,75,35,wr741ndv4
+150222,CenturyLink,DSL,AZ,West,-7,-7,7,0.896,wr741ndv4
+186934,Charter,Cable,MI,Midwest,-5,-4,100,10,wdr3600
+207290,Verizon,Fiber,NJ,Northeast,-5,-4,75,75,wr741ndv4
+209694,CenturyLink,DSL,MO,Midwest,-6,-5,8,0.768,wr741ndv4
+210444,CenturyLink,DSL,AZ,West,-7,-7,5,0.896,wr741ndv4
+210462,Frontier,Fiber,OR,West,-8,-7,50,50,wr741ndv4
+210920,CenturyLink,DSL,CO,West,-7,-6,12,0.896,wr741ndv4
+211226,Comcast,Cable,FL,South,-5,-4,60,5,wr741ndv4
+211528,CenturyLink,DSL,AZ,West,-7,-7,40,5,wr741ndv4
+211530,Frontier,Fiber,CA,West,-8,-7,50,50,wr741ndv4
+213472,CenturyLink,DSL,IA,Midwest,-6,-5,20,0.896,wr741ndv4
+213498,CenturyLink,DSL,MN,Midwest,-6,-5,10,0.768,wr741ndv4
+213548,CenturyLink,DSL,CO,West,-7,-6,12,0.896,wr741ndv4
+213582,CenturyLink,DSL,NM,West,-7,-6,40,5,wr741ndv4
+213662,CenturyLink,DSL,WA,West,-8,-7,40,5,wr741ndv4
+213670,CenturyLink,DSL,CO,West,-7,-6,12,0.896,wr741ndv4
+214144,Comcast,Cable,MD,South,-5,-4,250,10,wdr3600
+214520,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,wr741ndv4
+214546,CenturyLink,DSL,MN,Midwest,-6,-5,40,20,wr741ndv4
+214624,Frontier,Fiber,OR,West,-8,-7,50,50,wr741ndv4
+214628,Frontier,Fiber,OR,West,-8,-7,50,50,wr741ndv4
+214634,Frontier,Fiber,OR,West,-8,-7,75,75,wr741ndv4
+214684,CenturyLink,DSL,MO,Midwest,-6,-5,25,2,wr741ndv4
+215084,Comcast,Cable,CO,West,-7,-6,60,5,wr741ndv4
+215230,Frontier,DSL,MN,Midwest,-6,-5,12,1,wr741ndv4
+215250,CenturyLink,DSL,AZ,West,-7,-7,40,2,wr741ndv4
+215298,Frontier,Fiber,WA,West,-8,-7,75,75,wr741ndv4
+215314,Comcast,Cable,CO,West,-7,-6,60,5,wr741ndv4
+215700,CenturyLink,DSL,NM,West,-7,-6,20,0.896,wr741ndv4
+215708,CenturyLink,DSL,ID,West,-8,-7,10,0.768,wr741ndv4
+215716,CenturyLink,DSL,NC,South,-5,-4,8,0.768,wr741ndv4
+215738,Comcast,Cable,NM,West,-7,-6,70,5,wr741ndv4
+215998,CenturyLink,DSL,NM,West,-7,-6,40,5,wdr3600
+216030,Windstream,DSL,PA,Northeast,-5,-4,3,0.768,wr741ndv4
+216034,Windstream,DSL,GA,South,-5,-4,20,1.5,wr741ndv4
+216122,CenturyLink,DSL,VA,South,-5,-4,40,5,wr741ndv4
+216148,Frontier,DSL,NY,Northeast,-5,-4,6,0.768,wr741ndv4
+216614,Frontier,Fiber,OR,West,-8,-7,50,50,wr741ndv4
+216668,Comcast,Cable,CO,West,-7,-6,60,5,wr741ndv4
+216710,Frontier,DSL,wa,West,-8,-7,6,0.768,wdr3600
+216718,Charter,Cable,OH,Midwest,-5,-4,100,10,wdr3600
+216720,Windstream,DSL,NC,South,-5,-4,10,1.1,wdr3600
+216722,Comcast,Cable,FL,South,-5,-4,150,10,wdr3600
+216760,Cox,Cable,CA,West,-8,-7,300,30,wdr3600
+216778,Cox,Cable,AZ,West,-7,-7,200,10,wdr3600
+216800,Verizon,Fiber,MD,South,-5,-4,75,75,wdr3600
+216812,Windstream,DSL,OH,Midwest,-5,-4,25,1.5,wdr3600
+216820,Frontier,DSL,NC,South,-5,-4,3,0.384,wdr3600
+217196,Frontier,DSL,CA,West,-8,-7,6,0.384,wr741ndv4
+217202,Mediacom,Cable,IA,Midwest,-6,-5,200,20,wdr3600
+217204,Optimum,Cable,NJ,Northeast,-5,-4,300,35,wdr3600
+217759,Frontier,DSL,CA,West,-8,-7,10,1,wr741ndv4
+232350,Charter,Cable,OR,West,-8,-7,300,20,wdr3600
+232364,Windstream,DSL,OH,Midwest,-5,-4,25,1.5,wdr3600
+232408,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,wr741ndv4
+232428,Verizon,Fiber,NJ,Northeast,-5,-4,75,75,wr741ndv4
+232938,CenturyLink,DSL,UT,West,-7,-6,40,5,wr741ndv4
+233006,CenturyLink,DSL,WA,West,-8,-7,20,5,wr741ndv4
+233010,Frontier,Fiber,OR,West,-8,-7,50,50,wr741ndv4
+234162,Frontier,Fiber,WA,West,-8,-7,50,10,wr741ndv4
+234180,Frontier,Fiber,WA,West,-8,-7,50,50,wr741ndv4
+234206,CenturyLink,DSL,CO,West,-7,-6,60,5,wr741ndv4
+234276,CenturyLink,DSL,AZ,West,-7,-7,20,0.896,wr741ndv4
+234798,Windstream,DSL,OH,Midwest,-5,-4,20,1.5,wdr3600
+234802,CenturyLink,DSL,MO,Midwest,-6,-5,1.5,0.256,wdr3600
+234826,Frontier,DSL,ID,West,-7,-6,10,1,wr741ndv4
+235328,Frontier,Fiber,OR,West,-8,-7,50,50,wr741ndv4
+241847,Charter,Cable,MN,Midwest,-6,-5,200,10,wdr3600
+241889,Charter,Cable,NC,South,-5,-4,200,20,wdr3600
+241891,Cox,Cable,OH,Midwest,-5,-4,200,10,wdr3600
+243216,Comcast,Cable,NH,Northeast,-5,-4,250,10,wdr3600
+243300,Comcast,Cable,FL,South,-5,-4,100,5,wdr3600
+244816,Frontier,Fiber,OR,West,-8,-7,50,50,wr741ndv4
+248166,Frontier,Fiber,WA,West,-8,-7,200,200,wdr3600
+256968,Charter,Cable,CA,West,-8,-7,100,10,wdr3600
+256980,Charter,Cable,TX,South,-6,-5,200,20,wdr3600
+362340,Frontier,Fiber,FL,South,-5,-4,75,75,wdr3600
+444644,Charter,Cable,NC,South,-5,-4,200,10,wdr3600
+506836,Frontier,Fiber,OR,West,-8,-7,50,50,wr741ndv4
+510154,Cox,Cable,AZ,West,-7,-7,30,3,wdr3600
+510160,Frontier,Fiber,WA,West,-8,-7,50,50,wr741ndv4
+528788,Comcast,Cable,MA,Northeast,-5,-4,150,5,wdr3600
+566342,Charter,Cable,MO,Midwest,-6,-5,200,10,wdr3600
+566354,Verizon,Fiber,MD,South,-5,-4,75,75,wr741ndv4
+573248,Verizon,Fiber,VA,South,-5,-4,75,75,wr741ndv4
+578296,Charter,Cable,TX,South,-6,-5,100,10,wdr3600
+589696,Optimum,Cable,NY,Northeast,-5,-4,200,35,wdr3600
+589700,Optimum,Cable,NJ,Northeast,-5,-4,400,35,wdr3600
+589702,Optimum,Cable,NY,Northeast,-5,-4,400,35,wdr3600
+589704,Charter,Cable,Il,Midwest,-6,-5,100,5,wdr3600
+589720,Optimum,Cable,NJ,Northeast,-5,-4,300,35,wdr3600
+589734,Comcast,Cable,MA,Northeast,-5,-4,250,10,wdr3600
+589748,Optimum,Cable,NJ,Northeast,-5,-4,200,35,wdr3600
+589766,Optimum,Cable,NJ,Northeast,-5,-4,100,35,wdr3600
+589820,Optimum,Cable,NJ,Northeast,-5,-4,400,35,wdr3600
+598598,Charter,Cable,MI,Midwest,-5,-4,100,10,wdr3600
+598644,Optimum,Cable,NJ,Northeast,-5,-4,100,35,wdr3600
+598658,Optimum,Cable,NJ,Northeast,-5,-4,200,35,wdr3600
+598678,Optimum,Cable,NJ,Northeast,-5,-4,100,35,wdr3600
+598720,Optimum,Cable,NJ,Northeast,-5,-4,400,35,wdr3600
+598742,Optimum,Cable,NJ,Northeast,-5,-4,300,35,wdr3600
+598744,Optimum,Cable,NJ,Northeast,-5,-4,100,35,wdr3600
+598776,Optimum,Cable,NJ,Northeast,-5,-4,200,35,wdr3600
+598778,Optimum,Cable,NJ,Northeast,-5,-4,100,35,wdr3600
+598798,Optimum,Cable,NY,Northeast,-5,-4,100,35,wdr3600
+599690,Optimum,Cable,NY,Northeast,-5,-4,100,35,wdr3600
+599712,Optimum,Cable,NY,Northeast,-5,-4,400,35,wdr3600
+599720,Optimum,Cable,NY,Northeast,-5,-4,400,35,wdr3600
+599758,Verizon,Fiber,VA,South,-5,-4,100,100,wr1043nd
+599762,Verizon,Fiber,VA,South,-5,-4,100,100,wr1043nd
+599770,CenturyLink,DSL,NC,South,-5,-4,10,0.768,wr741ndv4
+599808,CenturyLink,DSL,FL,South,-5,-4,10,0.768,wr741ndv4
+599812,Windstream,DSL,KY,South,-5,-4,10,1.1,wr741ndv4
+599858,CenturyLink,DSL,MO,Midwest,-6,-5,20,2,wr1043nd
+599874,Frontier,Fiber,TX,South,-6,-5,75,75,wr1043nd
+599880,CenturyLink,DSL,TX,South,-6,-5,8,0.768,wr741ndv4
+599930,CenturyLink,DSL,OR,West,-8,-7,40,20,wr1043nd
+599952,Charter,Cable,OH,Midwest,-5,-4,100,10,wr1043nd
+600880,Cox,Cable,NE,Midwest,-6,-5,150,10,wdr3600
+600882,Charter,Cable,PA,Northeast,-5,-4,100,10,wdr3600
+605946,Comcast,Cable,PA,Northeast,-5,-4,150,5,wr1043nd
+608582,Optimum,Cable,CT,Northeast,-5,-4,100,35,wdr3600
+614084,CenturyLink,DSL,IA,Midwest,-6,-5,10,1,wr741ndv4
+614150,Charter,Cable,TX,South,-6,-5,200,10,wdr3600
+614236,Optimum,Cable,NJ,Northeast,-5,-4,200,35,wdr3600
+614978,CenturyLink,DSL,NC,South,-5,-4,25,2,wr1043nd
+615000,Comcast,Cable,PA,Northeast,-5,-4,60,5,wr741ndv4
+615224,Comcast,Cable,WA,West,-8,-7,75,5,wr1043nd
+615232,Optimum,Cable,NJ,Northeast,-5,-4,300,35,wdr3600
+615248,Windstream,DSL,TX,South,-6,-5,30,1.5,wr741ndv4
+615258,CenturyLink,DSL,CO,West,-7,-6,40,2,wr741ndv4
+615260,CenturyLink,DSL,CO,West,-7,-6,12,0.896,wr1043nd
+615354,Comcast,Cable,MI,Midwest,-5,-4,60,5,wr741ndv4
+615404,Comcast,Cable,VA,South,-5,-4,60,5,wr741ndv4
+615438,Comcast,Cable,GA,South,-5,-4,60,5,wr741ndv4
+615484,Windstream,DSL,KY,South,-5,-4,20,1.5,wr741ndv4
+615570,Windstream,DSL,AR,South,-6,-5,25,1.5,wr741ndv4
+619826,Frontier,DSL,OH,Midwest,-5,-4,3,0.768,wr741ndv4
+619840,Windstream,DSL,NE,Midwest,-6,-5,6,1,wr741ndv4
+620664,Charter,Cable,MO,Midwest,-6,-5,100,10,wdr3600
+620666,CenturyLink,DSL,MN,Midwest,-6,-5,60,5,wdr3600
+620682,Cox,Cable,AZ,West,-7,-7,300,30,wdr3600
+621668,CenturyLink,DSL,CO,West,-7,-6,40,5,wr741ndv4
+625894,Charter,Cable,NC,South,-5,-4,100,10,wdr3600
+625896,Charter,Cable,MA,Northeast,-5,-4,100,10,wdr3600
+625898,Charter,Cable,NV,West,-8,-7,100,10,wdr3600
+625940,CenturyLink,DSL,CO,West,-7,-6,20,2,wr741ndv4
+625944,Comcast,Cable,CA,West,-8,-7,75,5,wr741ndv4
+625968,Comcast,Cable,WA,West,-8,-7,75,5,wr741ndv4
+626778,Cox,Cable,VA,South,-5,-4,150,10,wdr3600
+626788,Charter,Cable,NY,Northeast,-5,-4,300,20,wdr3600
+631652,Comcast,Cable,FL,South,-5,-4,150,10,wdr3600
+633010,Optimum,Cable,NJ,Northeast,-5,-4,75,35,wr741ndv4
+634636,Charter,Cable,CA,West,-8,-7,200,10,wdr3600
+636358,Comcast,Cable,NM,West,-7,-6,75,5,wr741ndv4
+636364,CenturyLink,DSL,OR,West,-8,-7,1.5,0.896,wr741ndv4
+636368,Comcast,Cable,WA,West,-8,-7,75,5,wr741ndv4
+637784,Comcast,Cable,TN,South,-6,-5,60,5,wdr3600
+638368,Optimum,Cable,NY,Northeast,-5,-4,200,35,wdr3600
+638372,Verizon,Fiber,MA,Northeast,-5,-4,100,100,wdr3600
+638376,Optimum,Cable,NJ,Northeast,-5,-4,100,35,wdr3600
+649216,Charter,Cable,TX,South,-6,-5,200,10,wdr3600
+654734,Optimum,Cable,NY,Northeast,-5,-4,200,35,wdr3600
+656776,Optimum,Cable,NY,Northeast,-5,-4,400,35,wdr3600
+656778,Charter,Cable,AL,South,-6,-5,400,20,wdr3600
+656782,Verizon,Fiber,DC,South,-5,-4,100,100,wdr3600
+656870,Windstream,DSL,KY,South,-5,-4,10,1,wr741ndv4
+657038,Frontier,Fiber,CA,West,-8,-7,75,75,wdr3600
+657040,Mediacom,Cable,GA,South,-5,-4,100,10,wdr3600
+657938,Charter,Cable,CA,West,-8,-7,200,10,wdr3600
+658042,Charter,Cable,HI,West,-10,-10,200,10,wdr3600
+658048,Charter,Cable,HI,West,-10,-10,100,10,wdr3600
+658054,Charter,Cable,HI,West,-10,-10,300,20,wdr3600
+658316,Cox,Cable,AZ,West,-7,-7,200,10,wdr3600
+658330,Charter,Cable,MA,Northeast,-5,-4,400,20,wdr3600
+658420,Windstream,DSL,KY,South,-6,-5,25,1.5,wdr3600
+658474,Charter,Cable,HI,West,-10,-10,200,20,wdr3600
+658551,Charter,Cable,HI,West,-10,-10,200,10,wdr3600
+658577,Charter,Cable,HI,West,-10,-10,200,10,wdr3600
+659056,Comcast,Cable,WA,West,-8,-7,75,5,wdr3600
+660266,Comcast,Cable,NJ,Northeast,-5,-4,250,10,wdr3600
+660268,Frontier,Fiber,FL,South,-5,-4,75,75,wdr3600
+660296,Comcast,Cable,MA,Northeast,-5,-4,250,10,wdr3600
+660300,Optimum,Cable,NJ,Northeast,-5,-4,100,35,wdr3600
+660302,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,wdr3600
+660866,Charter,Cable,NC,South,-5,-4,100,10,wdr3600
+660966,Cox,Cable,AZ,West,-7,-7,150,10,wdr3600
+660970,CenturyLink,DSL,CO,West,-7,-6,20,2,wr741ndv4
+660982,Charter,Cable,CA,West,-8,-7,200,10,wdr3600
+661056,Charter,Cable,CT,Northeast,-5,-4,100,10,wdr3600
+661058,CenturyLink,DSL,AZ,West,-7,-7,20,0.896,wdr3600
+661060,Verizon,Fiber,VA,South,-5,-4,100,100,wdr3600
+661090,Comcast,Cable,WA,West,-8,-7,175,5,wdr3600
+661092,Mediacom,Cable,IA,Midwest,-6,-5,100,10,wdr3600
+661122,Charter,Cable,TX,South,-6,-5,200,10,wdr3600
+661124,Charter,Cable,CA,West,-8,-7,200,10,wdr3600
+661128,Charter,Cable,NC,South,-5,-4,200,10,wdr3600
+662404,Cox,Cable,LA,South,-6,-5,300,30,wdr3600
+662412,Cox,Cable,AZ,West,-7,-7,30,3,wdr3600
+663122,Comcast,Cable,TN,South,-6,-5,150,10,wdr3600
+663416,Mediacom,Cable,FL,South,-5,-4,100,10,wdr3600
+663420,Charter,Cable,MO,Midwest,-6,-5,200,10,wdr3600
+665186,CenturyLink,DSL,MO,Midwest,-6,-5,25,2,wdr3600
+665188,Charter,Cable,TX,South,-7,-6,100,10,wdr3600
+665196,Cox,Cable,NE,Midwest,-6,-5,200,10,wdr3600
+665198,Frontier,Fiber,CA,West,-8,-7,75,75,wdr3600
+665200,Charter,Cable,WI,Midwest,-6,-5,100,10,wdr3600
+665210,Charter,Cable,WI,Midwest,-6,-5,100,10,wdr3600
+665718,Mediacom,Cable,IL,Midwest,-6,-5,200,20,wdr3600
+668494,Cox,Cable,AZ,West,-7,-7,300,30,wdr3600
+669080,Charter,Cable,MO,Midwest,-6,-5,300,20,wdr3600
+670115,Charter,Cable,WI,Midwest,-6,-5,100,10,wdr3600
+675970,Comcast,Cable,MI,Midwest,-5,-4,150,10,wdr3600
+675974,Charter,Cable,MA,Northeast,-5,-4,100,10,wdr3600
+676020,Comcast,Cable,CA,West,-8,-7,150,10,wdr3600
+676064,Comcast,Cable,IN,Midwest,-5,-4,150,10,wdr3600
+775728,Comcast,Cable,TN,South,-5,-4,250,20,wdr3600
+775730,Charter,Cable,CA,West,-8,-7,200,10,wdr3600
+775732,Charter,Cable,NC,South,-5,-4,200,10,wdr3600
+775810,Charter,Cable,HI,West,-10,-10,300,20,wdr3600
+775816,Frontier,Fiber,TX,South,-6,-5,75,75,wdr3600
+796858,Charter,Cable,HI,West,-10,-10,300,20,wdr3600
+797068,Charter,Cable,NY,Northeast,-5,-4,200,10,wdr3600
+797080,Verizon,Fiber,NY,Northeast,-5,-4,100,100,wdr3600
+797082,Optimum,Cable,NY,Northeast,-5,-4,400,35,wdr3600
+797090,Charter,Cable,PA,Northeast,-5,-4,100,10,wdr3600
+797156,Frontier,Fiber,FL,South,-5,-4,200,200,wdr3600
+797176,CenturyLink,DSL,IA,Midwest,-6,-5,60,5,wdr3600
+797194,Cox,Cable,OK,South,-6,-5,150,10,wdr3600
+797242,Verizon,Fiber,MA,Northeast,-5,-4,75,75,wr741ndv4
+797244,Comcast,Cable,AZ,West,-7,-7,60,5,wr741ndv4
+797290,Frontier,DSL,WV,South,-5,-4,6,0.768,wr741ndv4
+797292,Frontier,DSL,WV,South,-5,-4,12,2,wr741ndv4
+797340,Frontier,DSL,MI,Midwest,-5,-4,6,0.768,wr741ndv4
+797352,CenturyLink,DSL,WI,Midwest,-6,-5,1.5,0.256,wr741ndv4
+797380,Comcast,Cable,TX,South,-6,-5,275,10,wdr3600
+797424,Cox,Cable,AZ,West,-7,-7,150,10,wdr3600
+797444,Charter,Cable,CA,West,-8,-7,300,20,wdr3600
+797452,Charter,Cable,CA,West,-8,-7,200,20,wdr3600
+797494,Comcast,Cable,WA,West,-8,-7,175,5,wdr3600
+797504,Charter,Cable,TX,South,-6,-5,200,10,wdr3600
+797634,Frontier,Fiber,FL,South,-5,-4,50,50,wdr3600
+797640,Mediacom,Cable,IA,Midwest,-6,-5,100,10,wdr3600
+797694,CenturyLink,DSL,IN,Midwest,-5,-4,10,0.768,wdr3600
+797746,Charter,Cable,WI,Midwest,-6,-5,200,10,wdr3600
+797784,CenturyLink,DSL,MN,Midwest,-6,-5,20,0.896,wr741ndv4
+797788,CenturyLink,DSL,MN,Midwest,-6,-5,20,0.896,wr741ndv4
+797794,Windstream,DSL,NE,Midwest,-6,-5,3,1.1,wr741ndv4
+797816,CenturyLink,DSL,WA,West,-8,-7,8,0.768,wr741ndv4
+798128,Optimum,Cable,NY,Northeast,-5,-4,75,35,wr741ndv4
+798160,Comcast,Cable,PA,Northeast,-5,-4,250,25,wdr3600
+798162,Comcast,Cable,PA,Northeast,-5,-4,250,10,wdr3600
+798188,Comcast,Cable,PA,Northeast,-5,-4,250,10,wdr3600
+798194,Comcast,Cable,PA,Northeast,-5,-4,150,5,wdr3600
+798226,Comcast,Cable,WV,South,-5,-4,150,5,wdr3600
+798276,Comcast,Cable,MD,South,-5,-4,250,10,wdr3600
+798298,Comcast,Cable,VA,South,-5,-4,250,10,wdr3600
+798424,Comcast,Cable,NH,Northeast,-5,-4,150,5,wdr3600
+798428,Charter,Cable,VT,Northeast,-5,-4,100,10,wdr3600
+798462,Comcast,Cable,NJ,Northeast,-5,-4,250,10,wdr3600
+798468,Comcast,Cable,NJ,Northeast,-5,-4,150,5,wdr3600
+798486,Comcast,Cable,NJ,Northeast,-5,-4,250,10,wdr3600
+798490,Comcast,Cable,NJ,Northeast,-5,-4,100,5,wdr3600
+798698,Mediacom,Cable,IA,Midwest,-6,-5,60,5,wr741ndv4
+799112,CenturyLink,DSL,IN,Midwest,-5,-4,25,2,wdr3600
+799114,Comcast,Cable,OR,West,-8,-7,75,5,wdr3600
+799116,CenturyLink,DSL,OR,West,-8,-7,20,0.896,wdr3600
+799118,CenturyLink,DSL,UT,West,-7,-6,12,0.896,wdr3600
+799126,Cox,Cable,AZ,West,-7,-7,150,10,wdr3600
+799148,Frontier,Fiber,OR,West,-8,-7,50,50,wdr3600
+799192,Mediacom,Cable,IA,Midwest,-6,-5,200,20,wdr3600
+799194,Mediacom,Cable,IA,Midwest,-6,-5,100,10,wdr3600
+799204,Mediacom,Cable,IA,Midwest,-6,-5,200,20,wdr3600
+799210,Mediacom,Cable,IA,Midwest,-6,-5,200,20,wdr3600
+799228,Mediacom,Cable,IA,Midwest,-6,-5,200,20,wdr3600
+799296,CenturyLink,DSL,NC,South,-5,-4,20,2,wr741ndv4
+799342,Mediacom,Cable,FL,South,-5,-4,200,20,wdr3600
+799346,Mediacom,Cable,IA,Midwest,-6,-5,200,20,wdr3600
+799358,CenturyLink,DSL,OR,West,-8,-7,1.5,0.896,wr741ndv4
+799416,CenturyLink,DSL,OR,West,-8,-7,1.5,0.896,wr741ndv4
+799418,CenturyLink,DSL,WA,West,-8,-7,12,0.896,wr741ndv4
+799428,CenturyLink,DSL,AZ,West,-7,-7,12,0.896,wr741ndv4
+799458,CenturyLink,DSL,OH,Midwest,-5,-4,20,2,wr741ndv4
+799468,CenturyLink,DSL,CO,West,-7,-6,12,2,wr741ndv4
+799472,Comcast,Cable,MN,Midwest,-6,-5,60,5,wr741ndv4
+799478,CenturyLink,DSL,OH,Midwest,-5,-4,20,2,wr741ndv4
+799518,Windstream,DSL,KY,South,-5,-4,25,1.1,wr741ndv4
+799590,Charter,Cable,SC,South,-5,-4,200,10,wdr3600
+799594,Cox,Cable,CA,West,-8,-7,300,30,wdr3600
+799602,Charter,Cable,FL,South,-5,-4,200,20,wdr3600
+799876,Charter,Cable,MO,Midwest,-6,-5,200,10,wdr3600
+799906,Charter,Cable,AL,South,-6,-5,400,20,wdr3600
+799922,Charter,Cable,MO,Midwest,-6,-5,100,10,wdr3600
+799936,Charter,Cable,CA,West,-8,-7,400,20,wdr3600
+799942,Charter,Cable,MO,Midwest,-6,-5,100,10,wdr3600
+799952,Comcast,Cable,MN,Midwest,-6,-5,175,5,wdr3600
+799956,Comcast,Cable,WA,West,-8,-7,250,10,wdr3600
+800002,Mediacom,Cable,IA,Midwest,-6,-5,100,10,wdr3600
+800006,Mediacom,Cable,IA,Midwest,-6,-5,60,5,wdr3600
+800012,Comcast,Cable,NM,West,-7,-6,275,10,wdr3600
+800056,Mediacom,Cable,IA,Midwest,-6,-5,100,10,wdr3600
+800082,Charter,Cable,NY,Northeast,-5,-4,200,10,wdr3600
+801262,CenturyLink,DSL,MN,Midwest,-6,-5,7,0.896,wr741ndv4
+805000,Frontier,DSL,WA,West,-8,-7,3,0.768,wr741ndv4
+805188,CenturyLink,DSL,AZ,West,-7,-7,20,0.896,wr741ndv4
+805686,Verizon,Fiber,VA,South,-5,-4,100,100,wdr3600
+805692,Charter,Cable,WA,West,-8,-7,100,10,wdr3600
+805694,CenturyLink,DSL,AZ,West,-7,-7,20,0.896,wdr3600
+805696,Frontier,Fiber,WA,West,-8,-7,50,50,wdr3600
+805700,Comcast,Cable,OR,West,-8,-7,250,10,wdr3600
+805720,Comcast,Cable,MI,Midwest,-5,-4,150,10,wdr3600
+805730,Comcast,Cable,UT,West,-7,-6,75,5,wdr3600
+805734,Verizon,Fiber,DC,South,-5,-4,100,100,wdr3600
+805814,Comcast,Cable,CA,West,-8,-7,75,5,wr741ndv4
+806158,Comcast,Cable,TX,South,-6,-5,75,5,wr741ndv4
+806222,Cox,Cable,CA,West,-8,-7,150,10,wdr3600
+806714,Charter,Cable,VA,South,-5,-4,100,10,wdr3600
+811888,Comcast,Cable,GA,South,-5,-4,150,10,wdr3600
+811934,Windstream,DSL,OH,Midwest,-5,-4,15,1.5,wr741ndv4
+811962,Cox,Cable,KS,Midwest,-6,-5,30,3,wr741ndv4
+814967,Charter,Cable,IN,Midwest,-5,-4,100,10,wdr3600
+849838,CenturyLink,DSL,OR,West,-8,-7,5,0.896,wr741ndv4
+849860,Comcast,Cable,PA,Northeast,-5,-4,60,5,wr741ndv4
+849888,Frontier,DSL,CA,West,-8,-7,6,0.768,wr741ndv4
+849896,Frontier,DSL,OR,West,-8,-7,6,0.768,wr741ndv4
+868640,Cox,Cable,AZ,West,-7,-7,150,10,wdr3600
+882108,Comcast,Cable,MN,Midwest,-6,-5,75,5,wr1043nd
+889037,Charter,Cable,KY,South,-5,-4,100,10,wr1043nd
+889041,Comcast,Cable,OR,West,-8,-7,175,5,wr1043nd
+889043,Mediacom,Cable,IA,Midwest,-6,-5,60,5,wr741ndv4
+889770,Charter,Cable,NC,South,-5,-4,100,10,wr1043nd
+889772,Charter,Cable,TX,South,-6,-5,100,10,wr1043nd
+890404,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,wr741ndv4
+890430,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,wr741ndv4
+890472,Comcast,Cable,CA,West,-8,-7,150,10,ac1750v2
+890486,Comcast,Cable,CT,Northeast,-5,-4,250,10,ac1750v2
+890494,Comcast,Cable,MA,Northeast,-5,-4,250,10,ac1750v2
+890508,Comcast,Cable,CT,Northeast,-5,-4,150,5,ac1750v2
+890822,Charter,Cable,NC,South,-5,-4,200,20,ac1750v2
+890842,Comcast,Cable,CO,West,-7,-6,250,10,ac1750v2
+890886,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,wr741ndv4
+901580,Windstream,DSL,GA,South,-5,-4,20,1.5,wr1043nd
+901590,Mediacom,Cable,IA,Midwest,-6,-5,60,5,wr1043nd
+901598,Frontier,Fiber,IN,Midwest,-5,-4,50,50,wr1043nd
+901608,CenturyLink,DSL,LA,South,-6,-5,1.5,0.256,wr1043nd
+901638,CenturyLink,DSL,MO,Midwest,-6,-5,1.5,0.256,wr1043nd
+901640,CenturyLink,DSL,AZ,West,-7,-7,20,0.896,wr1043nd
+901648,Mediacom,Cable,CA,West,-8,-7,60,5,wr1043nd
+901650,Mediacom,Cable,IL,Midwest,-6,-5,60,5,wr1043nd
+901652,CenturyLink,DSL,MO,Midwest,-6,-5,20,1.5,wr1043nd
+901654,CenturyLink,DSL,FL,South,-5,-4,1.5,0.256,wr1043nd
+901658,CenturyLink,DSL,NC,South,-5,-4,3,0.512,wr1043nd
+901670,Mediacom,Cable,CA,West,-8,-7,60,5,wr1043nd
+901680,Mediacom,Cable,IA,Midwest,-6,-5,60,5,wr1043nd
+901690,Comcast,Cable,CO,West,-7,-6,75,5,wr1043nd
+901692,CenturyLink,DSL,CO,West,-7,-6,1.5,0.896,wr1043nd
+901694,Comcast,Cable,CA,West,-8,-7,60,5,wr1043nd
+901696,CenturyLink,DSL,TX,South,-6,-5,1.5,0.256,wr1043nd
+901698,CenturyLink,DSL,CO,West,-7,-6,60,5,wr1043nd
+901730,Comcast,Cable,WA,West,-8,-7,75,5,wr1043nd
+901792,Comcast,Cable,MA,Northeast,-5,-4,250,10,ac1750v2
+901822,CenturyLink,DSL,WI,Midwest,-6,-5,20,2,wr1043nd
+901840,CenturyLink,DSL,VA,South,-5,-4,3,0.64,wr1043nd
+901844,CenturyLink,DSL,AZ,West,-7,-7,5,0.896,wr1043nd
+901866,CenturyLink,DSL,AZ,West,-7,-7,1.5,0.896,wr1043nd
+901880,CenturyLink,DSL,VA,South,-5,-4,1.5,0.256,wr1043nd
+901888,Comcast,Cable,WA,West,-8,-7,175,5,wr1043nd
+901892,CenturyLink,DSL,IN,Midwest,-5,-4,10,1,wr1043nd
+901906,CenturyLink,DSL,MO,Midwest,-6,-5,1.5,0.256,wr1043nd
+901908,CenturyLink,DSL,MO,Midwest,-6,-5,1.5,0.256,wr1043nd
+901910,CenturyLink,DSL,MO,Midwest,-6,-5,1.5,0.256,wr1043nd
+915644,CenturyLink,DSL,WA,West,-8,-7,7,0.896,wr1043nd
+915650,CenturyLink,DSL,NC,South,-5,-4,1.5,0.256,wr1043nd
+915662,Cincinnati Bell,Fiber,KY,South,-5,-4,50,10,wr1043nd
+915678,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,wr1043nd
+915744,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,wr1043nd
+915824,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,wr1043nd
+915828,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,wr1043nd
+925798,Charter,Cable,CA,West,-8,-7,100,10,ac1750v2
+925800,Charter,Cable,FL,South,-5,-4,100,10,ac1750v2
+925806,Charter,Cable,NY,Northeast,-5,-4,200,10,ac1750v2
+925826,CenturyLink,DSL,CO,West,-7,-6,7,0.896,ac1750v2
+925844,Mediacom,Cable,IA,Midwest,-6,-5,60,5,ac1750v2
+925860,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,ac1750v2
+925864,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,ac1750v2
+925872,CenturyLink,DSL,MN,Midwest,-6,-5,7,0.896,ac1750v2
+925874,CenturyLink,DSL,MN,Midwest,-6,-5,10,1,ac1750v2
+925884,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,ac1750v2
+925886,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,ac1750v2
+925920,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,ac1750v2
+925928,Charter,Cable,OH,Midwest,-5,-4,200,10,ac1750v2
+925938,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,ac1750v2
+925962,CenturyLink,DSL,WA,West,-8,-7,10,0.768,ac1750v2
+939012,,Fiber,OH,Midwest,-5,-4,250,100,ac1750v2
+939192,Windstream,DSL,KY,South,-5,-4,10,1.1,ac1750v2
+939196,Comcast,Cable,NM,West,-7,-6,75,5,ac1750v2
+939546,Windstream,DSL,GA,South,-5,-4,10,1.1,ac1750v2
+939548,Windstream,DSL,TX,South,-6,-5,15,1.5,ac1750v2
+939552,Charter,Cable,TX,South,-6,-5,200,10,ac1750v2
+939554,Windstream,DSL,MN,Midwest,-6,-5,25,1.1,ac1750v2
+939574,Windstream,DSL,PA,Northeast,-5,-4,20,1.5,ac1750v2
+939582,Windstream,DSL,SC,South,-5,-4,10,1.1,ac1750v2
+939616,Windstream,DSL,GA,South,-5,-4,6,1.5,ac1750v2
+939618,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,ac1750v2
+939620,CenturyLink,DSL,FL,South,-5,-4,20,2,ac1750v2
+939622,Cincinnati Bell,Fiber,KY,South,-5,-4,250,100,ac1750v2
+939628,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,ac1750v2
+940674,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,ac1750v2
+940682,CenturyLink,DSL,FL,South,-5,-4,20,2,ac1750v2
+940694,Cox,Cable,AR,South,-6,-5,30,3,ac1750v2
+940708,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,ac1750v2
+940722,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,ac1750v2
+940732,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,ac1750v2
+940734,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,ac1750v2
+940736,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,ac1750v2
+940756,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,ac1750v2
+940762,Charter,Cable,OH,Midwest,-5,-4,200,10,ac1750v2
+940778,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,ac1750v2
+940798,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,ac1750v2
+940816,Charter,Cable,HI,West,-10,-10,100,10,ac1750v2
+940820,Charter,Cable,HI,West,-10,-10,200,10,ac1750v2
+940832,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,ac1750v2
+940840,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,ac1750v2
+940858,Cox,Cable,CA,West,-8,-7,30,3,ac1750v2
+941616,Cincinnati Bell,Fiber,KY,South,-5,-4,50,10,ac1750v2
+941642,CenturyLink,DSL,MO,Midwest,-6,-5,25,2,ac1750v2
+941686,Charter,Cable,CA,West,-8,-7,200,10,ac1750v2
+941688,Frontier,Fiber,CA,West,-8,-7,50,50,ac1750v2
+941694,Frontier,Fiber,FL,South,-5,-4,75,75,ac1750v2
+941700,Frontier,Fiber,IN,Midwest,-5,-4,150,150,ac1750v2
+941704,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,ac1750v2
+941706,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,ac1750v2
+941708,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,ac1750v2
+941740,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,ac1750v2
+941742,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,ac1750v2
+941758,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,ac1750v2
+941764,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,ac1750v2
+941772,Frontier,Fiber,OR,West,-8,-7,200,200,ac1750v2
+941782,Frontier,Fiber,TX,South,-6,-5,50,50,ac1750v2
+941790,Frontier,Fiber,TX,South,-6,-5,100,100,ac1750v2
+941794,Frontier,Fiber,TX,South,-6,-5,75,75,ac1750v2
+941810,Charter,Cable,TX,South,-6,-5,300,20,ac1750v2
+941818,Charter,Cable,CA,West,-8,-7,200,10,ac1750v2
+941940,CenturyLink,DSL,CO,West,-7,-6,40,5,ac1750v2
+941962,Charter,Cable,KY,South,-5,-4,200,10,ac1750v2
+941974,Verizon,Fiber,VA,South,-5,-4,100,100,ac1750v2
+941984,CenturyLink,DSL,WA,West,-8,-7,7,0.896,ac1750v2
+941992,Charter,Cable,NC,South,-5,-4,200,10,ac1750v2
+942012,Verizon,Fiber,MD,South,-5,-4,100,100,ac1750v2
+942014,Verizon,Fiber,MD,South,-5,-4,100,100,ac1750v2
+942020,Verizon,Fiber,MD,South,-5,-4,100,100,ac1750v2
+942034,Frontier,DSL,MN,Midwest,-6,-5,12,1,ac1750v2
+942040,CenturyLink,DSL,NC,South,-5,-4,20,2,ac1750v2
+942052,Verizon,Fiber,NY,Northeast,-5,-4,100,100,ac1750v2
+942070,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,ac1750v2
+942092,Cox,Cable,VA,South,-5,-4,300,30,ac1750v2
+942104,Optimum,Cable,CT,Northeast,-5,-4,200,35,ac1750v2
+942118,Charter,Cable,MA,Northeast,-5,-4,100,10,ac1750v2
+942126,Verizon,Fiber,MA,Northeast,-5,-4,100,100,ac1750v2
+942138,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,ac1750v2
+942166,Charter,Cable,OH,Midwest,-5,-4,200,10,ac1750v2
+942214,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,ac1750v2
+942216,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,ac1750v2
+942250,Verizon,Fiber,PA,Northeast,-5,-4,100,100,ac1750v2
+942262,Comcast,Cable,PA,Northeast,-5,-4,60,5,ac1750v2
+942264,Verizon,Fiber,PA,Northeast,-5,-4,100,100,ac1750v2
+942268,Verizon,Fiber,RI,Northeast,-5,-4,100,100,ac1750v2
+942280,Charter,Cable,TX,South,-6,-5,200,10,ac1750v2
+942288,Verizon,Fiber,VA,South,-5,-4,100,100,ac1750v2
+942530,CenturyLink,DSL,NC,South,-5,-4,10,0.768,ac1750v2
+942538,Verizon,Fiber,PA,Northeast,-5,-4,100,100,ac1750v2
+942546,CenturyLink,DSL,NC,South,-5,-4,20,2,ac1750v2
+942556,Frontier,Fiber,WA,West,-8,-7,100,100,ac1750v2
+942568,Windstream,DSL,NM,West,-7,-6,20,1.5,ac1750v2
+942574,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,ac1750v2
+942580,Verizon,Fiber,PA,Northeast,-5,-4,100,100,ac1750v2
+942606,Charter,Cable,NY,Northeast,-5,-4,200,10,ac1750v2
+942608,Frontier,Fiber,FL,South,-5,-4,75,75,ac1750v2
+942616,Frontier,DSL,IL,Midwest,-6,-5,12,1,ac1750v2
+942618,CenturyLink,DSL,MO,Midwest,-6,-5,1.5,0.256,ac1750v2
+942622,Charter,Cable,KY,South,-5,-4,200,10,ac1750v2
+942630,Frontier,Fiber,FL,South,-5,-4,200,200,ac1750v2
+942638,CenturyLink,DSL,PA,Northeast,-5,-4,20,2,ac1750v2
+942644,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,ac1750v2
+942652,Frontier,Fiber,TX,South,-6,-5,200,200,ac1750v2
+942822,Charter,Cable,OH,Midwest,-5,-4,200,10,ac1750v2
+942840,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,ac1750v2
+943190,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,ac1750v2
+943196,Charter,Cable,MO,Midwest,-6,-5,400,20,ac1750v2
+943198,Cox,Cable,AR,South,-6,-5,150,10,ac1750v2
+943226,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,ac1750v2
+943230,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,ac1750v2
+943232,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,ac1750v2
+943236,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,ac1750v2
+943240,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,ac1750v2
+943242,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,ac1750v2
+943244,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,ac1750v2
+943248,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,ac1750v2
+943288,CenturyLink,DSL,AR,South,-6,-5,1.5,0.256,ac1750v2
+943294,CenturyLink,DSL,IN,Midwest,-5,-4,20,2,ac1750v2
+943304,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,ac1750v2
+943306,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,ac1750v2
+943314,Cincinnati Bell,Fiber,KY,South,-5,-4,250,100,ac1750v2
+943316,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,ac1750v2
+943330,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,ac1750v2
+943334,CenturyLink,DSL,FL,South,-5,-4,10,0.768,ac1750v2
+945122,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,ac1750v2
+945126,Charter,Cable,AL,South,-6,-5,100,10,ac1750v2
+945142,Charter,Cable,OH,Midwest,-5,-4,400,20,ac1750v2
+945154,Charter,Cable,NY,Northeast,-5,-4,100,10,ac1750v2
+947064,Frontier,DSL,OR,West,-8,-7,12,1,ac1750v2
+947082,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,ac1750v2
+947084,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,ac1750v2
+947086,Frontier,DSL,CA,West,-8,-7,12,1,ac1750v2
+947088,Frontier,DSL,IL,Midwest,-6,-5,12,1,ac1750v2
+947104,Frontier,DSL,WI,Midwest,-6,-5,12,1,ac1750v2
+947116,Frontier,DSL,MI,Midwest,-5,-4,12,1,ac1750v2
+947136,Frontier,DSL,CA,West,-8,-7,12,1,ac1750v2
+947906,Comcast,Cable,IN,Midwest,-5,-4,200,10,skwb8
+948126,Cox,Cable,CA,West,-8,-7,150,10,ac1750v2
+948128,Cox,Cable,LA,South,-6,-5,300,30,ac1750v2
+948516,Comcast,Cable,VA,South,-5,-4,150,5,skwb8
+948522,Mediacom,Cable,IA,Midwest,-6,-5,200,20,ac1750v2
+948532,Comcast,Cable,MA,Northeast,-5,-4,250,10,ac1750v2
+948536,Windstream,DSL,TX,South,-6,-5,20,1.5,ac1750v2
+948538,Charter,Cable,CA,West,-8,-7,100,10,ac1750v2
+948548,Verizon,Fiber,NY,Northeast,-5,-4,100,100,ac1750v2
+948552,Mediacom,Cable,IA,Midwest,-6,-5,100,10,ac1750v2
+948646,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+948648,Comcast,Cable,WA,West,-8,-7,75,5,skwb8
+948666,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+948692,Charter,Cable,OH,Midwest,-5,-4,400,20,skwb8
+948696,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+948722,Comcast,Cable,FL,South,-5,-4,60,5,skwb8
+948764,Charter,Cable,OH,Midwest,-5,-4,200,10,skwb8
+948772,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+948776,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+948778,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+948830,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+948832,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+948836,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+948842,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+948844,Charter,Cable,KY,South,-5,-4,200,10,skwb8
+948960,Charter,Cable,KY,South,-5,-4,300,20,ac1750v2
+948966,Optimum,Cable,CT,Northeast,-5,-4,100,35,ac1750v2
+949064,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,ac1750v2
+949080,Cincinnati Bell,Fiber,KY,South,-5,-4,250,100,ac1750v2
+949102,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,ac1750v2
+949160,CenturyLink,DSL,WA,West,-8,-7,7,0.896,ac1750v2
+949464,Charter,Cable,KY,South,-5,-4,300,20,ac1750v2
+949466,Charter,Cable,CA,West,-8,-7,200,10,ac1750v2
+949678,Charter,Cable,KY,South,-5,-4,200,10,ac1750v2
+950054,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+950176,Verizon,Fiber,MD,South,-5,-4,100,100,skwb8
+950366,Mediacom,Cable,IA,Midwest,-6,-5,100,10,ac1750v2
+950370,Optimum,Cable,NJ,Northeast,-5,-4,400,35,ac1750v2
+950374,Comcast,Cable,PA,Northeast,-5,-4,150,5,ac1750v2
+950376,Comcast,Cable,WA,West,-8,-7,175,5,ac1750v2
+986693,Frontier,Fiber,TX,South,-6,-5,50,50,skwb8
+989661,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+994217,Charter,Cable,WI,Midwest,-6,-5,200,10,skwb8
+994609,Charter,Cable,WI,Midwest,-6,-5,100,10,skwb8
+994663,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+994665,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+994707,Comcast,Cable,TX,South,-6,-5,75,5,skwb8
+996117,Cox,Cable,OK,South,-6,-5,150,10,skwb8
+996265,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+996275,Cox,Cable,GA,South,-5,-4,300,30,skwb8
+996285,Cox,Cable,VA,South,-5,-4,150,10,skwb8
+997167,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+997177,Cox,Cable,AZ,West,-7,-7,200,10,skwb8
+997203,Comcast,Cable,MN,Midwest,-6,-5,75,5,skwb8
+997205,Charter,Cable,TX,South,-6,-5,100,10,skwb8
+997207,Charter,Cable,OR,West,-8,-7,100,10,skwb8
+997359,CenturyLink,DSL,CO,West,-7,-6,3,0.64,skwb8
+997363,Cox,Cable,KS,Midwest,-6,-5,300,30,skwb8
+997371,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+997381,Cox,Cable,CT,Northeast,-5,-4,300,30,skwb8
+997389,Cox,Cable,AR,South,-6,-5,300,30,skwb8
+997741,Windstream,DSL,IA,Midwest,-6,-5,10,1,skwb8
+998079,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+998099,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+998101,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+998103,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+998105,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+998107,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+998111,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+998119,Mediacom,Cable,IL,Midwest,-6,-5,200,20,skwb8
+998121,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+998131,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+998971,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+999043,Frontier,Fiber,OR,West,-8,-7,200,200,skwb8
+999049,Cox,Cable,CA,West,-8,-7,300,30,skwb8
+999141,Charter,Cable,HI,West,-10,-10,400,20,skwb8
+999149,Charter,Cable,HI,West,-10,-10,200,10,skwb8
+999207,CenturyLink,DSL,OR,West,-8,-7,20,5,skwb8
+999211,Windstream,DSL,GA,South,-5,-4,25,1.5,skwb8
+999249,Windstream,DSL,KY,South,-5,-4,3,1,skwb8
+999297,Windstream,DSL,GA,South,-5,-4,3,1,skwb8
+999299,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+999323,Cox,Cable,VA,South,-5,-4,150,10,skwb8
+999343,Windstream,DSL,MN,Midwest,-6,-5,25,1.5,skwb8
+999489,Charter,Cable,HI,West,-10,-10,200,10,skwb8
+999493,Charter,Cable,HI,West,-10,-10,400,20,skwb8
+999555,Windstream,DSL,OH,Midwest,-5,-4,25,1.5,skwb8
+999579,Windstream,DSL,GA,South,-5,-4,25,1.5,skwb8
+999679,Windstream,DSL,PA,Northeast,-5,-4,25,1.1,skwb8
+999743,Charter,Cable,TX,South,-6,-5,400,20,skwb8
+999773,Windstream,DSL,NE,Midwest,-6,-5,25,1.5,skwb8
+999783,Windstream,DSL,KY,South,-5,-4,10,1,skwb8
+999929,Windstream,DSL,GA,South,-5,-4,3,1,skwb8
+999937,Windstream,DSL,NY,Northeast,-5,-4,3,1,skwb8
+999955,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+999957,Windstream,DSL,GA,South,-5,-4,6,1.5,skwb8
+999965,Windstream,DSL,GA,South,-5,-4,20,1.5,skwb8
+999979,Windstream,DSL,OK,South,-6,-5,20,1.5,skwb8
+1000093,Windstream,DSL,AR,South,-6,-5,25,1.5,skwb8
+1000107,Windstream,DSL,KY,South,-5,-4,6,1.5,skwb8
+1000115,Windstream,DSL,GA,South,-5,-4,3,1,skwb8
+1000127,Charter,Cable,OH,Midwest,-5,-4,200,10,skwb8
+1000135,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+1000143,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+1000147,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,skwb8
+1000151,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+1000153,Windstream,DSL,AR,South,-6,-5,20,1.5,skwb8
+1000167,Frontier,Fiber,CA,West,-8,-7,50,50,skwb8
+1000169,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+1000183,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+1000185,Frontier,Fiber,CA,West,-8,-7,50,50,skwb8
+1000211,Frontier,DSL,ID,West,-7,-6,18,1,skwb8
+1000219,Frontier,Fiber,WA,West,-8,-7,100,100,skwb8
+1000229,Frontier,DSL,NY,Northeast,-5,-4,10,1,skwb8
+1000251,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+1000265,Charter,Cable,MI,Midwest,-5,-4,100,10,skwb8
+1000275,Frontier,DSL,IN,Midwest,-5,-4,6,0.768,skwb8
+1000287,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+1000291,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+1000299,Windstream,DSL,GA,South,-5,-4,3,0.768,skwb8
+1000325,Mediacom,Cable,MN,Midwest,-6,-5,200,20,skwb8
+1000331,Cox,Cable,AZ,West,-7,-7,200,10,skwb8
+1000429,Windstream,DSL,KY,South,-5,-4,25,1.1,skwb8
+1000441,Charter,Cable,OH,Midwest,-5,-4,300,20,skwb8
+1000449,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+1000451,Windstream,DSL,PA,Northeast,-5,-4,3,1,skwb8
+1000457,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+1000463,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+1000465,Windstream,DSL,PA,Northeast,-5,-4,3,0.384,skwb8
+1000485,Charter,Cable,CA,West,-8,-7,200,10,skwb8
+1000497,Windstream,DSL,PA,Northeast,-5,-4,3,1,skwb8
+1000509,Frontier,DSL,NV,West,-8,-7,6,0.768,skwb8
+1000555,Frontier,Fiber,TX,South,-6,-5,50,50,skwb8
+1000571,Frontier,DSL,WA,West,-8,-7,3,0.384,skwb8
+1000726,Frontier,Fiber,OR,West,-8,-7,150,150,skwb8
+1000742,Windstream,DSL,MO,Midwest,-6,-5,25,1.1,skwb8
+1000748,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+1000762,Cincinnati Bell,Fiber,KY,South,-5,-4,50,5,skwb8
+1000764,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+1000768,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+1000772,Charter,Cable,OH,Midwest,-5,-4,200,10,skwb8
+1000774,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+1000776,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+1000850,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+1000852,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+1000858,Frontier,Fiber,TX,South,-6,-5,50,50,skwb8
+1000870,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+1000890,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+1000892,Frontier,Fiber,CA,West,-8,-7,75,75,skwb8
+1000894,Frontier,Fiber,CA,West,-8,-7,100,100,skwb8
+1000896,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+1000900,Frontier,Fiber,CA,West,-8,-7,50,50,skwb8
+1000906,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+1000918,Frontier,DSL,OH,Midwest,-5,-4,12,1,skwb8
+1000922,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+1000924,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+1000932,Frontier,DSL,OH,Midwest,-5,-4,24,1,skwb8
+1000946,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+1000962,Charter,Cable,FL,South,-5,-4,100,10,skwb8
+1000972,Frontier,Fiber,TX,South,-6,-5,100,100,skwb8
+1001124,Cox,Cable,AZ,West,-7,-7,150,10,skwb8
+1001126,Cox,Cable,CA,West,-8,-7,150,10,skwb8
+1001128,Comcast,Cable,TN,South,-6,-5,200,10,skwb8
+1001172,Cox,Cable,FL,South,-5,-4,150,10,skwb8
+1001180,Cox,Cable,LA,South,-6,-5,150,10,skwb8
+1001188,Verizon,Fiber,MA,Northeast,-5,-4,75,75,skwb8
+1001194,Cox,Cable,VA,South,-5,-4,300,30,skwb8
+1001196,Frontier,DSL,PA,Northeast,-5,-4,24,1,skwb8
+1001198,Cox,Cable,CA,West,-8,-7,300,30,skwb8
+1001208,Cox,Cable,KS,Midwest,-6,-5,150,10,skwb8
+1001232,Comcast,Cable,NJ,Northeast,-5,-4,60,5,skwb8
+1001244,Verizon,Fiber,NY,Northeast,-5,-4,100,100,skwb8
+1001302,Charter,Cable,CA,West,-8,-7,200,10,skwb8
+1001324,Windstream,DSL,GA,South,-5,-4,10,1,skwb8
+1001336,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+1001344,Frontier,DSL,CA,West,-8,-7,3,0.384,skwb8
+1001476,Charter,Cable,NC,South,-5,-4,100,10,skwb8
+1001478,Charter,Cable,NY,Northeast,-5,-4,200,20,skwb8
+1001484,Charter,Cable,NY,Northeast,-5,-4,200,10,skwb8
+1001860,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+1001886,Frontier,Fiber,NY,Northeast,-5,-4,50,50,skwb8
+1001922,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+1001962,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,skwb8
+1002040,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+1002060,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,skwb8
+1002070,Verizon,Fiber,MD,South,-5,-4,100,100,skwb8
+1002080,Charter,Cable,NY,Northeast,-5,-4,100,10,skwb8
+1002108,Cox,Cable,AR,South,-6,-5,150,10,skwb8
+1002130,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+1002188,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+1002196,Verizon,Fiber,MA,Northeast,-5,-4,100,100,skwb8
+1002200,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+1002334,Windstream,DSL,KY,South,-5,-4,15,1.5,skwb8
+1002388,Comcast,Cable,TN,South,-6,-5,100,5,skwb8
+1002436,Optimum,Cable,CT,Northeast,-5,-4,300,35,skwb8
+1002462,Verizon,Fiber,MA,Northeast,-5,-4,75,75,skwb8
+1002466,Frontier,DSL,MI,Midwest,-5,-4,3,0.384,skwb8
+1002502,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+1002504,Frontier,DSL,IN,Midwest,-5,-4,3,0.384,skwb8
+1004400,Charter,Cable,NC,South,-5,-4,300,20,skwb8
+1004402,Charter,Cable,NY,Northeast,-5,-4,200,10,skwb8
+1004410,Charter,Cable,TX,South,-6,-5,200,20,skwb8
+1006158,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+1006162,Windstream,DSL,NC,South,-5,-4,15,1.5,skwb8
+1006188,Windstream,DSL,PA,Northeast,-5,-4,25,1.5,skwb8
+1006202,CenturyLink,DSL,MN,Midwest,-6,-5,40,5,skwb8
+1006226,Cox,Cable,KS,Midwest,-6,-5,150,10,skwb8
+1006238,Comcast,Cable,WA,West,-8,-7,150,5,skwb8
+1006246,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+1006270,CenturyLink,DSL,CO,West,-7,-6,20,0.896,skwb8
+1006272,CenturyLink,DSL,WA,West,-8,-7,40,20,skwb8
+1006274,CenturyLink,DSL,NM,West,-7,-6,12,0.896,skwb8
+1006292,CenturyLink,DSL,OR,West,-8,-7,12,0.896,skwb8
+1006296,CenturyLink,DSL,NC,South,-5,-4,10,0.768,skwb8
+1006300,CenturyLink,DSL,NJ,Northeast,-5,-4,3,0.64,skwb8
+1006310,CenturyLink,DSL,SD,Midwest,-6,-5,40,2,skwb8
+1006314,CenturyLink,DSL,WA,West,-8,-7,7,0.896,skwb8
+1006340,CenturyLink,DSL,NC,South,-5,-4,3,0.64,skwb8
+1006352,CenturyLink,DSL,WA,West,-8,-7,3,0.64,skwb8
+1006360,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+1006370,CenturyLink,DSL,TX,South,-6,-5,10,0.768,skwb8
+1006380,CenturyLink,DSL,AL,South,-6,-5,3,0.512,skwb8
+1006416,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+1006422,Windstream,DSL,GA,South,-5,-4,12,1.5,skwb8
+1006458,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+1006466,Charter,Cable,OH,Midwest,-5,-4,400,20,skwb8
+1006470,Cincinnati Bell,Fiber,KY,South,-5,-4,50,5,skwb8
+1006472,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+1006480,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+1006484,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+1006488,Frontier,Fiber,TX,South,-6,-5,50,50,skwb8
+1006490,Frontier,DSL,MN,Midwest,-6,-5,6,0.768,skwb8
+1006496,Frontier,DSL,GA,South,-5,-4,6,0.768,skwb8
+1006514,Frontier,DSL,WV,South,-5,-4,6,0.768,skwb8
+1006524,Comcast,Cable,DE,South,-5,-4,150,5,skwb8
+1006542,Windstream,DSL,NE,Midwest,-6,-5,25,1.5,skwb8
+1006558,Cox,Cable,CA,West,-8,-7,300,30,skwb8
+1006562,Cox,Cable,AZ,West,-7,-7,150,10,skwb8
+1006634,Comcast,Cable,UT,West,-7,-6,75,5,skwb8
+1006638,CenturyLink,DSL,WA,West,-8,-7,7,0.896,skwb8
+1006644,CenturyLink,DSL,WA,West,-8,-7,7,5,skwb8
+1006650,CenturyLink,DSL,CO,West,-7,-6,7,0.896,skwb8
+1006668,CenturyLink,DSL,MN,Midwest,-6,-5,7,0.896,skwb8
+1006676,CenturyLink,DSL,NC,South,-5,-4,3,0.512,skwb8
+1006680,CenturyLink,DSL,AZ,West,-7,-7,7,0.896,skwb8
+1006690,CenturyLink,DSL,UT,West,-7,-6,12,0.896,skwb8
+1006716,Cox,Cable,CA,West,-8,-7,200,10,skwb8
+1006718,Cox,Cable,OK,South,-6,-5,200,10,skwb8
+1006724,Comcast,Cable,PA,Northeast,-5,-4,250,10,skwb8
+1006726,Comcast,Cable,TX,South,-6,-5,250,10,skwb8
+1006734,Comcast,Cable,NM,West,-7,-6,275,10,skwb8
+1006736,Comcast,Cable,PA,Northeast,-5,-4,250,10,skwb8
+1006740,Comcast,Cable,UT,West,-7,-6,250,10,skwb8
+1006742,Comcast,Cable,DC,South,-5,-4,250,10,skwb8
+1006744,Comcast,Cable,WA,West,-8,-7,150,5,skwb8
+1006746,Comcast,Cable,VA,South,-5,-4,250,10,skwb8
+1006752,Comcast,Cable,MN,Midwest,-6,-5,175,5,skwb8
+1006754,Comcast,Cable,UT,West,-7,-6,250,10,skwb8
+1006760,Comcast,Cable,DC,South,-5,-4,250,10,skwb8
+1006762,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+1006766,Comcast,Cable,MD,South,-5,-4,250,10,skwb8
+1006778,Cincinnati Bell,Fiber,KY,South,-5,-4,50,10,skwb8
+1006786,Charter,Cable,MO,Midwest,-6,-5,200,10,skwb8
+1006822,Frontier,DSL,PA,Northeast,-5,-4,6,0.768,skwb8
+1006836,Cox,Cable,AZ,West,-7,-7,150,10,skwb8
+1006874,CenturyLink,DSL,UT,West,-7,-6,60,5,skwb8
+1006876,CenturyLink,DSL,ID,West,-7,-6,20,0.896,skwb8
+1006882,CenturyLink,DSL,IA,Midwest,-6,-5,20,0.896,skwb8
+1006906,CenturyLink,DSL,MN,Midwest,-6,-5,12,0.896,skwb8
+1006916,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+1006918,CenturyLink,DSL,IN,Midwest,-5,-4,10,0.768,skwb8
+1006922,CenturyLink,DSL,WA,West,-8,-7,7,0.896,skwb8
+1006932,CenturyLink,DSL,IA,Midwest,-6,-5,12,0.896,skwb8
+1006940,CenturyLink,DSL,AZ,West,-7,-7,7,0.896,skwb8
+1006944,CenturyLink,DSL,AZ,West,-7,-7,12,0.896,skwb8
+1006946,CenturyLink,DSL,MO,Midwest,-6,-5,10,0.768,skwb8
+1006956,CenturyLink,DSL,WA,West,-8,-7,12,2,skwb8
+1006988,CenturyLink,DSL,IA,Midwest,-6,-5,12,0.896,skwb8
+1006996,Cox,Cable,VA,South,-5,-4,200,10,skwb8
+1006998,Cox,Cable,LA,South,-6,-5,300,30,skwb8
+1007014,Comcast,Cable,IL,Midwest,-6,-5,60,5,skwb8
+1007016,Comcast,Cable,AZ,West,-7,-7,400,10,skwb8
+1007030,CenturyLink,DSL,OR,West,-8,-7,7,0.896,skwb8
+1009132,Cincinnati Bell,Fiber,KY,South,-5,-4,50,5,skwb8
+1009140,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+1009154,Cincinnati Bell,Fiber,KY,South,-5,-4,50,5,skwb8
+1009158,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+1009170,Charter,Cable,OH,Midwest,-5,-4,200,10,skwb8
+1009196,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+1009212,CenturyLink,DSL,WI,Midwest,-6,-5,60,5,skwb8
+1009214,CenturyLink,DSL,ID,West,-7,-6,60,5,skwb8
+1009218,CenturyLink,DSL,WA,West,-8,-7,3,0.64,skwb8
+1009222,CenturyLink,DSL,WI,Midwest,-6,-5,3,0.512,skwb8
+1009226,CenturyLink,DSL,NM,West,-7,-6,5,0.896,skwb8
+1009232,CenturyLink,DSL,AR,South,-6,-5,8,0.768,skwb8
+1009234,CenturyLink,DSL,MO,Midwest,-6,-5,3,0.512,skwb8
+1009246,CenturyLink,DSL,WI,Midwest,-6,-5,10,0.768,skwb8
+1009254,CenturyLink,DSL,MT,West,-7,-6,12,0.896,skwb8
+1009280,CenturyLink,DSL,MN,Midwest,-6,-5,12,5,skwb8
+1009316,CenturyLink,DSL,UT,West,-7,-6,7,0.896,skwb8
+1009348,Frontier,Fiber,CA,West,-8,-7,50,50,skwb8
+1009362,Frontier,Fiber,CA,West,-8,-7,50,50,skwb8
+1009372,CenturyLink,DSL,OR,West,-8,-7,20,0.896,skwb8
+1009382,Frontier,DSL,WI,Midwest,-6,-5,3,0.384,skwb8
+1009386,CenturyLink,DSL,OR,West,-8,-7,3,0.64,skwb8
+1009456,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+1009466,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+1009490,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+1009514,Frontier,Fiber,CA,West,-8,-7,50,50,skwb8
+1009526,Charter,Cable,KY,South,-5,-4,400,20,skwb8
+1009994,Windstream,DSL,PA,Northeast,-5,-4,3,1,skwb8
+1010030,Comcast,Cable,NH,Northeast,-5,-4,250,10,skwb8
+1010038,Charter,Cable,KY,South,-6,-5,100,10,skwb8
+1010040,Charter,Cable,MO,Midwest,-6,-5,200,10,skwb8
+1010046,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+1010050,Cox,Cable,AZ,West,-7,-7,150,10,skwb8
+1010052,CenturyLink,DSL,AZ,West,-7,-7,40,2,skwb8
+1010056,Optimum,Cable,NJ,Northeast,-5,-4,200,35,skwb8
+1010060,Comcast,Cable,NJ,Northeast,-5,-4,250,10,skwb8
+1010064,Charter,Cable,OH,Midwest,-5,-4,100,10,skwb8
+1010094,Optimum,Cable,CT,Northeast,-5,-4,200,35,skwb8
+1010348,Windstream,DSL,GA,South,-5,-4,20,1.5,skwb8
+1010388,Verizon,Fiber,NY,Northeast,-5,-4,75,75,skwb8
+1010394,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+1010408,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+1010412,Optimum,Cable,NY,Northeast,-5,-4,400,35,skwb8
+1010414,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+1010432,Windstream,DSL,GA,South,-5,-4,25,1.5,skwb8
+1010466,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+1010828,Windstream,DSL,MO,Midwest,-6,-5,10,1.1,skwb8
+1010842,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+1010844,Charter,Cable,OH,Midwest,-5,-4,400,20,skwb8
+1011920,Windstream,DSL,OK,South,-6,-5,3,0.768,skwb8
+1011922,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+1014988,Charter,Cable,SC,South,-5,-4,100,10,skwb8
+2654905,Comcast,Cable,IL,Midwest,-6,-5,150,10,skwb8
+3241923,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+3551769,Verizon,Fiber,MA,Northeast,-5,-4,100,100,skwb8
+3551805,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+3551817,Optimum,Cable,NY,Northeast,-5,-4,100,35,skwb8
+3551821,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+3551825,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+3551837,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+3551857,Optimum,Cable,CT,Northeast,-5,-4,100,35,skwb8
+3551865,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+3551869,Verizon,Fiber,MD,South,-5,-4,100,100,skwb8
+3551873,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,skwb8
+3602865,Verizon,Fiber,NY,Northeast,-5,-4,75,75,skwb8
+3602917,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+3602981,Comcast,Cable,DE,South,-5,-4,100,5,skwb8
+3602985,Comcast,Cable,PA,Northeast,-5,-4,100,5,skwb8
+3602993,Comcast,Cable,NJ,Northeast,-5,-4,100,5,skwb8
+3602997,Comcast,Cable,MI,Midwest,-5,-4,60,5,skwb8
+3603005,Comcast,Cable,CT,Northeast,-5,-4,250,10,skwb8
+3603025,Comcast,Cable,MD,South,-5,-4,100,5,skwb8
+3603029,Comcast,Cable,PA,Northeast,-5,-4,250,10,skwb8
+3603033,Comcast,Cable,CA,West,-8,-7,75,5,skwb8
+3603045,Comcast,Cable,NJ,Northeast,-5,-4,250,10,skwb8
+3603065,Comcast,Cable,NJ,Northeast,-5,-4,250,10,skwb8
+3603073,Comcast,Cable,PA,Northeast,-5,-4,250,10,skwb8
+3603081,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+3603097,Comcast,Cable,NJ,Northeast,-5,-4,250,10,skwb8
+3643633,Comcast,Cable,CT,Northeast,-5,-4,100,5,skwb8
+3643637,Comcast,Cable,PA,Northeast,-5,-4,100,5,skwb8
+3643649,Comcast,Cable,MA,Northeast,-5,-4,60,5,skwb8
+3643665,Comcast,Cable,OR,West,-8,-7,175,5,skwb8
+3643673,Charter,Cable,PA,Northeast,-5,-4,400,20,skwb8
+3643717,Comcast,Cable,PA,Northeast,-5,-4,250,10,skwb8
+3643725,Comcast,Cable,VA,South,-5,-4,250,10,skwb8
+3643733,Comcast,Cable,VA,South,-5,-4,250,10,skwb8
+3643793,Comcast,Cable,MA,Northeast,-5,-4,150,5,skwb8
+3643837,Comcast,Cable,MA,Northeast,-5,-4,250,10,skwb8
+3643869,Verizon,Fiber,MD,South,-5,-4,100,100,skwb8
+3643921,Cox,Cable,AR,South,-6,-5,200,10,skwb8
+3643925,Cox,Cable,VA,South,-5,-4,300,30,skwb8
+3643941,Cox,Cable,GA,South,-5,-4,300,30,skwb8
+3643953,Cox,Cable,CA,West,-8,-7,300,30,skwb8
+3643957,Comcast,Cable,MA,Northeast,-5,-4,250,10,skwb8
+3643961,Cox,Cable,FL,South,-5,-4,200,10,skwb8
+3643973,Cox,Cable,OK,South,-6,-5,200,10,skwb8
+3676265,Comcast,Cable,CO,West,-7,-6,175,5,skwb8
+3676317,Comcast,Cable,VA,South,-5,-4,100,5,skwb8
+3676345,Comcast,Cable,MA,Northeast,-5,-4,100,5,skwb8
+3676353,Comcast,Cable,MA,Northeast,-5,-4,100,5,skwb8
+3676365,Comcast,Cable,WA,West,-8,-7,75,5,skwb8
+3676389,Comcast,Cable,OR,West,-8,-7,75,5,skwb8
+3676401,Comcast,Cable,NH,Northeast,-5,-4,250,10,skwb8
+3693245,Comcast,Cable,TX,South,-6,-5,175,5,skwb8
+3693249,Comcast,Cable,MD,South,-5,-4,250,10,skwb8
+3693257,Comcast,Cable,PA,Northeast,-5,-4,60,5,skwb8
+3693281,Comcast,Cable,PA,Northeast,-5,-4,250,10,skwb8
+3693305,Comcast,Cable,CO,West,-7,-6,250,10,skwb8
+3693333,Verizon,Fiber,DE,South,-5,-4,100,100,skwb8
+3693341,Comcast,Cable,MA,Northeast,-5,-4,150,5,skwb8
+3693369,Verizon,Fiber,MD,South,-5,-4,100,100,skwb8
+3693397,Comcast,Cable,WA,West,-8,-7,175,5,skwb8
+3693401,Verizon,Fiber,NY,Northeast,-5,-4,100,100,skwb8
+3693421,Cox,Cable,RI,Northeast,-5,-4,30,3,skwb8
+3693453,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+3693513,Cox,Cable,NV,West,-8,-7,300,30,skwb8
+3693525,Cox,Cable,VA,South,-5,-4,300,30,skwb8
+3693537,Cox,Cable,AZ,West,-7,-7,150,10,skwb8
+3693577,Cox,Cable,VA,South,-5,-4,300,30,skwb8
+3693601,Frontier,DSL,CT,Northeast,-5,-4,12,1.5,skwb8
+3693605,Frontier,DSL,CT,Northeast,-5,-4,6,0.768,skwb8
+3708457,Comcast,Cable,CT,Northeast,-5,-4,60,5,skwb8
+3708473,Frontier,DSL,CA,West,-8,-7,18,1,skwb8
+3708493,Comcast,Cable,WA,West,-8,-7,75,5,skwb8
+3708509,Frontier,DSL,CT,Northeast,-5,-4,12,1.5,skwb8
+3708521,Frontier,DSL,CT,Northeast,-5,-4,6,0.768,skwb8
+3708549,Comcast,Cable,CT,Northeast,-5,-4,100,5,skwb8
+3708557,Frontier,DSL,TX,South,-6,-5,12,1,skwb8
+3708573,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+3708585,Frontier,Fiber,TX,South,-6,-5,50,50,skwb8
+3708593,Frontier,Fiber,TX,South,-6,-5,50,50,skwb8
+3708597,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+3708645,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+3708657,Frontier,Fiber,OR,West,-8,-7,75,75,skwb8
+3708661,Frontier,DSL,TX,South,-6,-5,3,0.384,skwb8
+3708677,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+3708681,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+3708737,Frontier,Fiber,WA,West,-8,-7,100,100,skwb8
+3708745,Frontier,DSL,TX,South,-6,-5,3,0.384,skwb8
+3708757,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+3708765,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+3708769,Frontier,Fiber,CA,West,-8,-7,75,75,skwb8
+3766937,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+3766945,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+3766953,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+3767033,Comcast,Cable,WA,West,-8,-7,60,5,skwb8
+3767073,Optimum,Cable,NY,Northeast,-5,-4,400,35,skwb8
+3767097,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+3767105,Optimum,Cable,NY,Northeast,-5,-4,100,35,skwb8
+3767129,Frontier,Fiber,FL,South,-5,-4,75,75,skwb8
+3767133,Frontier,Fiber,TX,South,-6,-5,100,100,skwb8
+3767137,Frontier,Fiber,CA,West,-8,-7,75,75,skwb8
+3767145,Cox,Cable,KS,Midwest,-6,-5,300,30,skwb8
+3767165,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+3767177,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+3767181,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+3767185,Frontier,Fiber,CA,West,-8,-7,75,75,skwb8
+3767193,Frontier,DSL,CT,Northeast,-5,-4,6,0.768,skwb8
+3767249,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+3767253,Verizon,Fiber,MD,South,-5,-4,100,100,skwb8
+3782201,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+3782225,Frontier,DSL,CT,Northeast,-5,-4,3,0.512,skwb8
+3782233,Cox,Cable,CA,West,-8,-7,30,3,skwb8
+3782245,Cox,Cable,OK,South,-6,-5,300,30,skwb8
+3782269,Frontier,DSL,WA,West,-8,-7,24,1,skwb8
+3782289,Frontier,Fiber,OR,West,-8,-7,150,150,skwb8
+3782297,Frontier,DSL,CT,Northeast,-5,-4,6,0.768,skwb8
+3782305,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+3782309,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+3782321,Frontier,DSL,WV,South,-5,-4,24,1,skwb8
+3782329,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+3782345,Frontier,DSL,NY,Northeast,-5,-4,24,1,skwb8
+3782357,Frontier,DSL,WI,Midwest,-6,-5,24,1,skwb8
+3782373,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+3782381,Comcast,Cable,FL,South,-5,-4,150,10,skwb8
+3782389,Charter,Cable,FL,South,-5,-4,400,20,skwb8
+3782393,Frontier,DSL,OH,Midwest,-5,-4,24,1,skwb8
+3782405,Frontier,DSL,MN,Midwest,-6,-5,24,1,skwb8
+3782409,Frontier,Fiber,FL,South,-5,-4,75,75,skwb8
+3782413,Frontier,DSL,TX,South,-6,-5,18,1,skwb8
+3782433,Cox,Cable,VA,South,-5,-4,300,30,skwb8
+3782453,Frontier,Fiber,TX,South,-6,-5,100,100,skwb8
+3782461,Cox,Cable,GA,South,-5,-4,30,3,skwb8
+3782465,Frontier,DSL,NE,Midwest,-6,-5,24,1,skwb8
+3782489,Verizon,Fiber,MA,Northeast,-5,-4,75,75,skwb8
+3782505,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+3798621,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+3798649,Frontier,DSL,TX,South,-6,-5,3,0.384,skwb8
+3798653,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+3798657,Charter,Cable,OH,Midwest,-5,-4,400,20,skwb8
+3798673,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+3798713,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+3798741,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+3798749,Cox,Cable,CA,West,-8,-7,30,3,skwb8
+3798757,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+3798765,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+3798789,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+3798797,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+3798801,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+3798805,Charter,Cable,FL,South,-5,-4,100,10,skwb8
+3798809,Cincinnati Bell,DSL,IN,Midwest,-5,-4,5,0.768,skwb8
+3798825,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3798865,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+3798889,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3798893,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,skwb8
+3798897,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+3798901,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+3798921,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3798925,CenturyLink,DSL,CO,West,-7,-6,12,0.896,skwb8
+3798937,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+3798953,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+3798965,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,skwb8
+3798977,CenturyLink,DSL,OR,West,-8,-7,3,0.64,skwb8
+3798985,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+3799009,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3799029,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3814501,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3814533,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3814549,CenturyLink,DSL,CO,West,-7,-6,3,0.64,skwb8
+3814553,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,skwb8
+3814561,Cincinnati Bell,Fiber,KY,South,-5,-4,250,100,skwb8
+3814565,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3814573,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+3814597,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+3814621,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+3814625,CenturyLink,DSL,CO,West,-7,-6,3,0.64,skwb8
+3814669,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+3814685,Cincinnati Bell,Fiber,KY,South,-5,-4,250,100,skwb8
+3814725,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+3814733,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+3814773,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3814777,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3814821,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3814829,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+3814837,Cincinnati Bell,Fiber,KY,South,-5,-4,50,5,skwb8
+3814845,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3814873,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+3814885,CenturyLink,DSL,ID,West,-7,-6,20,0.896,skwb8
+3814889,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3814893,Cincinnati Bell,Fiber,KY,South,-5,-4,50,10,skwb8
+3814905,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3814917,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3814937,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+3814961,Charter,Cable,AZ,West,-7,-7,100,10,skwb8
+3814977,CenturyLink,DSL,ND,Midwest,-6,-5,7,0.896,skwb8
+3814985,CenturyLink,DSL,CO,West,-7,-6,7,0.896,skwb8
+3814989,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+3815005,CenturyLink,DSL,WA,West,-8,-7,7,0.896,skwb8
+3815009,CenturyLink,DSL,IA,Midwest,-6,-5,7,0.896,skwb8
+3815017,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3815069,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,skwb8
+3815081,Comcast,Cable,TX,South,-6,-5,75,5,skwb8
+3815093,Comcast,Cable,CO,West,-7,-6,75,5,skwb8
+3815121,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+3815133,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+3815141,Cox,Cable,CA,West,-8,-7,150,10,skwb8
+3815145,Cox,Cable,KS,Midwest,-6,-5,30,3,skwb8
+3815161,Cox,Cable,NV,West,-8,-7,300,30,skwb8
+3815165,Cox,Cable,CA,West,-8,-7,300,30,skwb8
+3815177,Cox,Cable,LA,South,-6,-5,150,10,skwb8
+3815189,Frontier,DSL,CA,West,-8,-7,12,1.5,skwb8
+3866361,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+3880005,CenturyLink,DSL,MO,Midwest,-6,-5,10,0.768,skwb8
+3880013,CenturyLink,DSL,MN,Midwest,-6,-5,20,0.896,skwb8
+3880017,CenturyLink,DSL,VA,South,-5,-4,25,2,skwb8
+3880033,CenturyLink,DSL,NC,South,-5,-4,10,0.768,skwb8
+3880037,CenturyLink,DSL,WI,Midwest,-6,-5,10,0.768,skwb8
+3880069,CenturyLink,DSL,IA,Midwest,-6,-5,20,2,skwb8
+3880081,CenturyLink,DSL,NE,Midwest,-6,-5,20,5,skwb8
+3880089,CenturyLink,DSL,CO,West,-7,-6,12,0.896,skwb8
+3880097,CenturyLink,DSL,NE,Midwest,-6,-5,12,0.896,skwb8
+3880109,Comcast,Cable,CO,West,-7,-6,175,5,skwb8
+3880125,Comcast,Cable,CO,West,-7,-6,175,5,skwb8
+3880129,CenturyLink,DSL,WA,West,-8,-7,10,0.768,skwb8
+3880141,CenturyLink,DSL,NM,West,-7,-6,10,1,skwb8
+3880153,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3880177,CenturyLink,DSL,NC,South,-5,-4,10,0.768,skwb8
+3880185,CenturyLink,DSL,UT,West,-7,-6,40,5,skwb8
+3880201,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+3880205,Optimum,Cable,NJ,Northeast,-5,-4,400,35,skwb8
+3880261,CenturyLink,DSL,WI,Midwest,-6,-5,3,0.512,skwb8
+3880285,CenturyLink,DSL,FL,South,-5,-4,1.5,0.256,skwb8
+3880293,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3880305,CenturyLink,DSL,CO,West,-7,-6,1.5,0.896,skwb8
+3880321,CenturyLink,DSL,NC,South,-5,-4,25,2,skwb8
+3880373,CenturyLink,DSL,MN,Midwest,-6,-5,12,0.896,skwb8
+3880377,CenturyLink,DSL,MN,Midwest,-6,-5,40,5,skwb8
+3880401,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3880417,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+3880429,CenturyLink,DSL,WA,West,-8,-7,10,0.768,skwb8
+3880461,CenturyLink,DSL,AL,South,-6,-5,1.5,0.256,skwb8
+3880473,CenturyLink,DSL,VA,South,-5,-4,10,0.768,skwb8
+3880481,Cox,Cable,VA,South,-5,-4,300,30,skwb8
+3880497,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3880501,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+3880521,CenturyLink,DSL,MN,Midwest,-6,-5,1.5,0.896,skwb8
+3880541,CenturyLink,DSL,WI,Midwest,-6,-5,25,2,skwb8
+3880545,CenturyLink,DSL,CO,West,-7,-6,1.5,0.896,skwb8
+3880549,CenturyLink,DSL,TX,South,-6,-5,1.5,0.256,skwb8
+3880577,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,skwb8
+3880581,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3880585,CenturyLink,DSL,LA,South,-6,-5,40,2,skwb8
+3880593,CenturyLink,DSL,MN,Midwest,-6,-5,40,5,skwb8
+3880597,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+3880601,CenturyLink,DSL,ID,West,-7,-6,20,0.896,skwb8
+3880609,CenturyLink,DSL,IA,Midwest,-6,-5,40,5,skwb8
+3880633,Windstream,DSL,TX,South,-7,-6,25,1.5,skwb8
+3880637,CenturyLink,DSL,CO,West,-7,-6,12,0.896,skwb8
+3880653,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3880657,Windstream,DSL,GA,South,-5,-4,10,1,skwb8
+3880665,Windstream,DSL,AR,South,-6,-5,10,1,skwb8
+3880669,Windstream,DSL,PA,Northeast,-5,-4,25,1.5,skwb8
+3880677,Charter,Cable,NE,Midwest,-6,-5,400,20,skwb8
+3880689,Windstream,DSL,GA,South,-5,-4,10,1,skwb8
+3880701,Windstream,DSL,NC,South,-5,-4,15,1.5,skwb8
+3880709,Windstream,DSL,KY,South,-5,-4,10,1,skwb8
+3880733,CenturyLink,DSL,OR,West,-8,-7,12,0.896,skwb8
+3880761,Windstream,DSL,GA,South,-5,-4,10,1,skwb8
+3880777,Windstream,DSL,GA,South,-5,-4,10,1,skwb8
+3880781,Windstream,DSL,FL,South,-5,-4,25,1.5,skwb8
+3880801,Windstream,DSL,GA,South,-5,-4,25,1.5,skwb8
+3880813,Windstream,DSL,NE,Midwest,-6,-5,12,1.5,skwb8
+3880853,Windstream,DSL,KY,South,-5,-4,3,1,skwb8
+3880857,Windstream,DSL,GA,South,-5,-4,3,0.768,skwb8
+3892757,Frontier,Fiber,CA,West,-8,-7,100,100,skwb8
+3892777,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+3892785,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+3892789,Frontier,Fiber,CA,West,-8,-7,100,100,skwb8
+3892797,Frontier,DSL,NC,South,-5,-4,24,1,skwb8
+3892821,Frontier,DSL,TN,South,-6,-5,24,1,skwb8
+3892825,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+3892849,Frontier,Fiber,FL,South,-5,-4,50,50,skwb8
+3892869,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+3892873,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3892905,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+3892917,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,skwb8
+3892953,CenturyLink,DSL,AZ,West,-7,-7,40,2,skwb8
+3892957,CenturyLink,DSL,ID,West,-7,-6,5,0.896,skwb8
+3892969,Cox,Cable,NV,West,-8,-7,30,3,skwb8
+3892989,CenturyLink,DSL,AZ,West,-7,-7,40,5,skwb8
+3892993,CenturyLink,DSL,CO,West,-7,-6,1.5,0.896,skwb8
+3892997,CenturyLink,DSL,ID,West,-7,-6,12,0.896,skwb8
+3893009,CenturyLink,DSL,MN,Midwest,-6,-5,25,2,skwb8
+3893013,CenturyLink,DSL,WI,Midwest,-6,-5,1.5,0.256,skwb8
+3893041,CenturyLink,DSL,VA,South,-5,-4,1.5,0.256,skwb8
+3893061,CenturyLink,DSL,MN,Midwest,-6,-5,7,0.896,skwb8
+3893073,CenturyLink,DSL,WI,Midwest,-6,-5,1.5,0.256,skwb8
+3893077,CenturyLink,DSL,PA,Northeast,-5,-4,10,0.75,skwb8
+3893097,CenturyLink,DSL,NV,West,-8,-7,25,2,skwb8
+3893101,CenturyLink,DSL,VA,South,-5,-4,25,2,skwb8
+3893117,CenturyLink,DSL,TX,South,-6,-5,10,0.768,skwb8
+3893157,CenturyLink,DSL,OR,West,-8,-7,12,0.896,skwb8
+3893161,CenturyLink,DSL,NJ,Northeast,-5,-4,25,2,skwb8
+3893169,CenturyLink,DSL,NM,West,-7,-6,1.5,0.896,skwb8
+3893177,CenturyLink,DSL,AZ,West,-7,-7,20,0.896,skwb8
+3893205,CenturyLink,DSL,SC,South,-5,-4,10,0.768,skwb8
+3893209,CenturyLink,DSL,AL,South,-6,-5,8,0.768,skwb8
+3893213,CenturyLink,DSL,NC,South,-5,-4,40,5,skwb8
+3893233,CenturyLink,DSL,PA,Northeast,-5,-4,25,2,skwb8
+3893241,CenturyLink,DSL,VA,South,-5,-4,10,0.768,skwb8
+3893257,CenturyLink,DSL,OH,Midwest,-5,-4,40,5,skwb8
+3893261,CenturyLink,DSL,VA,South,-5,-4,25,2,skwb8
+3893281,CenturyLink,DSL,FL,South,-5,-4,20,2,skwb8
+3893285,CenturyLink,DSL,PA,Northeast,-5,-4,10,0.768,skwb8
+3893293,CenturyLink,DSL,FL,South,-5,-4,10,0.896,skwb8
+3893305,CenturyLink,DSL,NV,West,-8,-7,10,0.768,skwb8
+3893361,CenturyLink,DSL,MN,Midwest,-6,-5,20,0.896,skwb8
+3893365,CenturyLink,DSL,MO,Midwest,-6,-5,20,2,skwb8
+3893377,CenturyLink,DSL,WI,Midwest,-6,-5,10,0.768,skwb8
+3893385,CenturyLink,DSL,IA,Midwest,-6,-5,7,0.896,skwb8
+3893409,CenturyLink,DSL,WA,West,-8,-7,1.5,0.896,skwb8
+3893425,CenturyLink,DSL,WI,Midwest,-6,-5,1.5,0.256,skwb8
+3893433,CenturyLink,DSL,CO,West,-7,-6,12,0.896,skwb8
+3893441,CenturyLink,DSL,NC,South,-5,-4,25,2,skwb8
+3893445,CenturyLink,DSL,WI,Midwest,-6,-5,25,2,skwb8
+3893461,CenturyLink,DSL,NC,South,-5,-4,25,2,skwb8
+3893469,CenturyLink,DSL,CO,West,-7,-6,25,2,skwb8
+3893485,CenturyLink,DSL,AR,South,-6,-5,1.5,0.256,skwb8
+3893509,CenturyLink,DSL,AL,South,-6,-5,25,2,skwb8
+3893513,CenturyLink,DSL,MN,Midwest,-6,-5,12,0.896,skwb8
+3893525,CenturyLink,DSL,AL,South,-6,-5,25,2,skwb8
+3893529,CenturyLink,DSL,FL,South,-5,-4,25,2,skwb8
+3893549,CenturyLink,DSL,WA,West,-8,-7,12,0.896,skwb8
+3893565,CenturyLink,DSL,IN,Midwest,-5,-4,10,0.75,skwb8
+3893569,CenturyLink,DSL,CO,West,-7,-6,12,0.896,skwb8
+3893577,CenturyLink,DSL,IN,Midwest,-5,-4,25,2,skwb8
+3893589,CenturyLink,DSL,AL,South,-6,-5,40,2,skwb8
+3893597,CenturyLink,DSL,TX,South,-6,-5,10,0.768,skwb8
+3893985,Frontier,Fiber,TX,South,-6,-5,100,100,skwb8
+3894009,Frontier,Fiber,CA,West,-8,-7,75,75,skwb8
+3894029,Frontier,DSL,CT,Northeast,-5,-4,6,0.768,skwb8
+3894033,Cox,Cable,NV,West,-8,-7,30,3,skwb8
+3894037,Charter,Cable,TX,South,-6,-5,400,20,skwb8
+3894053,Frontier,Fiber,FL,South,-5,-4,50,50,skwb8
+3894065,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+3894069,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+3894077,Frontier,Fiber,IN,Midwest,-5,-4,150,150,skwb8
+3894089,Frontier,Fiber,TX,South,-6,-5,100,100,skwb8
+3894093,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+3894109,Frontier,DSL,CT,Northeast,-5,-4,3,0.512,skwb8
+3894117,Frontier,DSL,TX,South,-6,-5,3,0.384,skwb8
+3894121,Frontier,DSL,PA,Northeast,-5,-4,24,1,skwb8
+3894157,Comcast,Cable,MA,Northeast,-5,-4,60,5,skwb8
+3894177,Frontier,DSL,MI,Midwest,-5,-4,12,1,skwb8
+3894181,Frontier,Fiber,TX,South,-6,-5,50,50,skwb8
+3894201,Frontier,DSL,OH,Midwest,-5,-4,24,1,skwb8
+3898021,Windstream,DSL,GA,South,-5,-4,3,0.768,skwb8
+3898025,Windstream,DSL,KY,South,-5,-4,15,1.5,skwb8
+3898037,Windstream,DSL,FL,South,-5,-4,6,1,skwb8
+3898097,Comcast,Cable,TX,South,-6,-5,400,10,skwb8
+3898117,Windstream,DSL,NC,South,-5,-4,15,1.5,skwb8
+3898137,Windstream,DSL,GA,South,-5,-4,3,1,skwb8
+3898177,Windstream,DSL,PA,Northeast,-5,-4,3,0.768,skwb8
+3898197,Windstream,DSL,GA,South,-5,-4,10,1,skwb8
+3898201,Windstream,DSL,GA,South,-5,-4,3,0.768,skwb8
+3898205,Windstream,DSL,GA,South,-5,-4,10,1,skwb8
+3898221,Windstream,DSL,GA,South,-5,-4,3,0.768,skwb8
+3898233,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+3898249,Charter,Cable,KY,South,-5,-4,200,10,skwb8
+3898285,Windstream,DSL,FL,South,-5,-4,25,1.5,skwb8
+3898297,Windstream,DSL,GA,South,-5,-4,15,1.5,skwb8
+3898309,Windstream,DSL,IA,Midwest,-6,-5,6,1.5,skwb8
+3898321,CenturyLink,DSL,OR,West,-8,-7,20,2,skwb8
+3898361,Windstream,DSL,KY,South,-5,-4,12,1.5,skwb8
+3898373,Windstream,DSL,NM,West,-7,-6,10,1,skwb8
+3898377,Windstream,DSL,GA,South,-5,-4,25,1.5,skwb8
+3898385,Windstream,DSL,GA,South,-5,-4,15,1.5,skwb8
+3898397,Windstream,DSL,NM,West,-7,-6,25,1.5,skwb8
+3898401,Windstream,DSL,KY,South,-5,-4,25,1.5,skwb8
+3898429,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+3898433,Verizon,Fiber,DE,South,-5,-4,75,75,skwb8
+3898437,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+3898453,Frontier,DSL,CA,West,-8,-7,12,1,skwb8
+3898461,Frontier,DSL,WI,Midwest,-6,-5,10,1,skwb8
+3898469,Frontier,Fiber,CA,West,-8,-7,75,75,skwb8
+3898473,Charter,Cable,NY,Northeast,-5,-4,100,10,skwb8
+3898481,Mediacom,Cable,AL,South,-6,-5,100,10,skwb8
+3898493,Frontier,Fiber,CA,West,-8,-7,100,100,skwb8
+3898529,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3898545,CenturyLink,DSL,NM,West,-7,-6,10,0.768,skwb8
+3898553,CenturyLink,DSL,PA,Northeast,-5,-4,3,0.64,skwb8
+3898561,CenturyLink,DSL,WA,West,-8,-7,40,20,skwb8
+3898569,CenturyLink,DSL,MT,West,-7,-6,25,2,skwb8
+3898577,CenturyLink,DSL,CO,West,-7,-6,40,20,skwb8
+3898581,CenturyLink,DSL,PA,Northeast,-5,-4,25,2,skwb8
+3898585,CenturyLink,DSL,PA,Northeast,-5,-4,20,2,skwb8
+3898613,CenturyLink,DSL,CO,West,-7,-6,20,0.896,skwb8
+3898621,CenturyLink,DSL,NM,West,-7,-6,12,0.896,skwb8
+3898625,CenturyLink,DSL,WA,West,-8,-7,40,5,skwb8
+3898633,CenturyLink,DSL,NM,West,-7,-6,3,0.512,skwb8
+3898637,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3898641,Comcast,Cable,CT,Northeast,-5,-4,250,10,skwb8
+3898649,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+3898669,Windstream,DSL,FL,South,-5,-4,25,1.5,skwb8
+3898685,Windstream,DSL,MN,Midwest,-6,-5,15,1.5,skwb8
+3898709,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+3898725,CenturyLink,DSL,VA,South,-5,-4,25,2,skwb8
+3898745,Frontier,DSL,CA,West,-8,-7,3,0.384,skwb8
+3898753,Cox,Cable,CA,West,-8,-7,300,30,skwb8
+3898761,Frontier,DSL,CT,Northeast,-5,-4,6,0.768,skwb8
+3898769,Mediacom,Cable,MN,Midwest,-6,-5,200,20,skwb8
+3898773,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+3898789,Mediacom,Cable,FL,South,-5,-4,200,20,skwb8
+3898805,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+3898813,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+3898817,Mediacom,Cable,MN,Midwest,-6,-5,200,20,skwb8
+3898841,Mediacom,Cable,MN,Midwest,-6,-5,60,5,skwb8
+3898849,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+3898853,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+3898857,CenturyLink,DSL,NV,West,-8,-7,1.5,0.512,skwb8
+3898861,CenturyLink,DSL,MN,Midwest,-6,-5,7,0.896,skwb8
+3898865,Frontier,DSL,TX,South,-6,-5,3,0.384,skwb8
+3898869,Frontier,Fiber,NY,Northeast,-5,-4,50,50,skwb8
+3898881,Cox,Cable,KS,Midwest,-6,-5,200,10,skwb8
+3898889,Cincinnati Bell,Fiber,KY,South,-5,-4,250,100,skwb8
+3898893,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+3898905,CenturyLink,DSL,WA,West,-8,-7,3,0.512,skwb8
+3898937,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+3914085,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3914093,Cox,Cable,NV,West,-8,-7,30,3,skwb8
+3914137,CenturyLink,DSL,NM,West,-7,-6,40,20,skwb8
+3914149,CenturyLink,DSL,WY,West,-7,-6,1.5,0.896,skwb8
+3914153,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+3914233,CenturyLink,DSL,IN,Midwest,-5,-4,25,2,skwb8
+3914257,Windstream,DSL,NM,West,-7,-6,10,1,skwb8
+3914265,Windstream,DSL,PA,Northeast,-5,-4,15,1.5,skwb8
+3914289,Frontier,DSL,CT,Northeast,-5,-4,12,1.5,skwb8
+3914301,CenturyLink,DSL,AZ,West,-7,-7,3,0.64,skwb8
+3941553,Windstream,DSL,NC,South,-5,-4,3,1.5,skwb8
+3941561,Frontier,DSL,CA,West,-8,-7,12,1,skwb8
+3941569,Cox,Cable,OK,South,-6,-5,30,3,skwb8
+3941593,Optimum,Cable,NY,Northeast,-5,-4,100,35,skwb8
+3941601,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+3941613,Cox,Cable,VA,South,-5,-4,200,10,skwb8
+3941637,CenturyLink,DSL,WA,West,-8,-7,12,2,skwb8
+3941649,CenturyLink,DSL,NC,South,-5,-4,1.5,0.256,skwb8
+3941661,CenturyLink,DSL,AZ,West,-7,-7,40,5,skwb8
+3941677,CenturyLink,DSL,MO,Midwest,-6,-5,10,0.768,skwb8
+3941685,CenturyLink,DSL,NV,West,-8,-7,40,5,skwb8
+3941697,CenturyLink,DSL,MN,Midwest,-6,-5,40,5,skwb8
+3941741,CenturyLink,DSL,WA,West,-8,-7,1.5,0.896,skwb8
+3941757,CenturyLink,DSL,FL,South,-5,-4,25,2,skwb8
+3941761,Cox,Cable,AZ,West,-7,-7,150,10,skwb8
+3941801,Windstream,DSL,KY,South,-5,-4,3,1,skwb8
+3941821,Windstream,DSL,NC,South,-5,-4,10,1,skwb8
+3941829,Windstream,DSL,GA,South,-5,-4,10,1,skwb8
+3941849,CenturyLink,DSL,NM,West,-7,-6,20,0.896,skwb8
+3941865,Windstream,DSL,GA,South,-5,-4,12,1.5,skwb8
+3941877,Windstream,DSL,MO,Midwest,-6,-5,25,1.5,skwb8
+3941905,Windstream,DSL,TX,South,-6,-5,25,1.1,skwb8
+3941909,Windstream,DSL,FL,South,-5,-4,25,1.5,skwb8
+3941953,CenturyLink,DSL,MT,West,-7,-6,7,0.896,skwb8
+3941961,Frontier,Fiber,WA,West,-8,-7,200,200,skwb8
+3941973,CenturyLink,DSL,NC,South,-5,-4,10,0.768,skwb8
+3941977,Comcast,Cable,GA,South,-5,-4,150,10,skwb8
+3941997,Frontier,Fiber,CA,West,-8,-7,100,100,skwb8
+3942013,Windstream,DSL,NE,Midwest,-6,-5,25,1.5,skwb8
+3942025,Windstream,DSL,GA,South,-5,-4,25,1.5,skwb8
+3942037,Windstream,DSL,GA,South,-5,-4,25,1.5,skwb8
+3942053,Windstream,DSL,MN,Midwest,-6,-5,25,1.5,skwb8
+3942057,CenturyLink,DSL,MI,Midwest,-5,-4,10,0.768,skwb8
+3942101,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+3942113,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+3942133,Charter,Cable,OH,Midwest,-5,-4,400,20,skwb8
+3942137,Windstream,DSL,KY,South,-5,-4,25,1.5,skwb8
+3952445,Windstream,DSL,OK,South,-6,-5,25,1.5,skwb8
+3952453,Windstream,DSL,OH,Midwest,-5,-4,25,1.5,skwb8
+3952457,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3952477,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+3952481,Windstream,DSL,TX,South,-6,-5,25,1.5,skwb8
+3952489,Windstream,DSL,GA,South,-5,-4,10,1,skwb8
+3952493,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+3952501,Windstream,DSL,OK,South,-6,-5,25,1.5,skwb8
+3952549,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+3952581,Frontier,Fiber,OR,West,-8,-7,150,150,skwb8
+3952589,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+3952593,Windstream,DSL,KY,South,-5,-4,10,1.1,skwb8
+3952605,Optimum,Cable,NY,Northeast,-5,-4,100,35,skwb8
+3952613,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+3952617,Mediacom,Cable,IL,Midwest,-6,-5,100,10,skwb8
+3952621,Optimum,Cable,NY,Northeast,-5,-4,100,35,skwb8
+3952629,Optimum,Cable,NJ,Northeast,-5,-4,200,35,skwb8
+3952669,Frontier,DSL,PA,Northeast,-5,-4,12,1,skwb8
+3952693,Optimum,Cable,NJ,Northeast,-5,-4,200,35,skwb8
+3952713,Frontier,DSL,WA,West,-8,-7,24,1,skwb8
+3952737,Charter,Cable,CT,Northeast,-5,-4,200,10,skwb8
+3952761,Frontier,DSL,OH,Midwest,-5,-4,18,1,skwb8
+3952785,Frontier,DSL,NC,South,-5,-4,18,1,skwb8
+3952793,Windstream,DSL,GA,South,-5,-4,25,1.5,skwb8
+3952821,Windstream,DSL,GA,South,-5,-4,10,1.1,skwb8
+3952837,Frontier,DSL,WA,West,-8,-7,18,1,skwb8
+3952845,Windstream,DSL,PA,Northeast,-5,-4,25,1.5,skwb8
+3952865,Frontier,DSL,WV,South,-5,-4,18,1,skwb8
+3952881,Mediacom,Cable,MO,Midwest,-6,-5,200,20,skwb8
+3952905,Windstream,DSL,FL,South,-5,-4,10,1.5,skwb8
+3952921,Windstream,DSL,GA,South,-5,-4,25,1.5,skwb8
+3952937,CenturyLink,DSL,FL,South,-5,-4,10,0.768,skwb8
+3952965,Comcast,Cable,CO,West,-7,-6,75,5,skwb8
+3952969,Frontier,DSL,TX,South,-6,-5,3,0.384,skwb8
+3952989,Cox,Cable,VA,South,-5,-4,30,3,skwb8
+3952993,Cox,Cable,CA,West,-8,-7,150,10,skwb8
+3953017,Cox,Cable,AR,South,-6,-5,150,10,skwb8
+3953041,CenturyLink,DSL,MN,Midwest,-6,-5,7,0.896,skwb8
+3953049,CenturyLink,DSL,NM,West,-7,-6,12,0.896,skwb8
+3981785,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+3981793,Optimum,Cable,NJ,Northeast,-5,-4,200,35,skwb8
+3981797,Mediacom,Cable,MO,Midwest,-6,-5,100,10,skwb8
+3981809,Optimum,Cable,NY,Northeast,-5,-4,100,35,skwb8
+3981813,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+3981817,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+3994389,CenturyLink,DSL,WA,West,-8,-7,7,0.896,skwb8
+3994405,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+3994409,CenturyLink,DSL,WA,West,-8,-7,1.5,0.896,skwb8
+3994413,CenturyLink,DSL,NC,South,-5,-4,25,2,skwb8
+3994449,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+3994453,Windstream,DSL,PA,Northeast,-5,-4,25,1.5,skwb8
+3994457,Cox,Cable,NE,Midwest,-6,-5,30,3,skwb8
+3994465,Windstream,DSL,PA,Northeast,-5,-4,25,1.5,skwb8
+3994469,Windstream,DSL,KY,South,-5,-4,10,1.1,skwb8
+3994473,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+3994497,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+3994501,Comcast,Cable,FL,South,-5,-4,200,10,skwb8
+3994509,CenturyLink,DSL,KS,Midwest,-6,-5,10,0.768,skwb8
+3994513,Frontier,DSL,NV,West,-8,-7,12,2,skwb8
+3994533,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+3994557,CenturyLink,DSL,NE,Midwest,-6,-5,12,0.896,skwb8
+3994573,Frontier,DSL,MS,South,-6,-5,18,1,skwb8
+3994589,CenturyLink,DSL,OH,Midwest,-5,-4,10,0.768,skwb8
+3994593,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+3994625,Windstream,DSL,FL,South,-5,-4,10,1,skwb8
+3994641,Comcast,Cable,OR,West,-8,-7,250,10,skwb8
+3994645,Comcast,Cable,PA,Northeast,-5,-4,150,5,skwb8
+3994661,Windstream,DSL,MN,Midwest,-6,-5,25,1.5,skwb8
+3994669,Frontier,DSL,WV,South,-5,-4,18,1,skwb8
+3994721,Mediacom,Cable,IL,Midwest,-6,-5,60,5,skwb8
+3994729,Mediacom,Cable,MN,Midwest,-6,-5,200,20,skwb8
+3994737,Mediacom,Cable,GA,South,-5,-4,100,10,skwb8
+3994753,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+3994757,Mediacom,Cable,IL,Midwest,-6,-5,60,5,skwb8
+3994765,Mediacom,Cable,MN,Midwest,-6,-5,100,10,skwb8
+3994801,CenturyLink,DSL,SC,South,-5,-4,1.5,0.256,skwb8
+3994821,Windstream,DSL,GA,South,-5,-4,25,1.1,skwb8
+3994845,Windstream,DSL,FL,South,-5,-4,10,1,skwb8
+3994849,Frontier,DSL,WI,Midwest,-6,-5,24,1,skwb8
+3994865,Frontier,DSL,CA,West,-8,-7,24,1,skwb8
+3994885,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+3994893,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+3994897,Frontier,DSL,CA,West,-8,-7,18,1,skwb8
+3994933,Mediacom,Cable,IL,Midwest,-6,-5,100,10,skwb8
+3994941,Mediacom,Cable,AL,South,-6,-5,60,5,skwb8
+3994973,Mediacom,Cable,MN,Midwest,-6,-5,100,10,skwb8
+4040353,Windstream,DSL,GA,South,-5,-4,25,1.5,skwb8
+4040357,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+4040369,Mediacom,Cable,IN,Midwest,-5,-4,200,20,skwb8
+4040445,Comcast,Cable,CA,West,-8,-7,400,10,skwb8
+4040489,Comcast,Cable,CA,West,-8,-7,400,10,skwb8
+4050705,Charter,Cable,KY,South,-5,-4,200,10,skwb8
+4050713,Charter,Cable,WI,Midwest,-6,-5,200,10,skwb8
+4050725,Charter,Cable,NC,South,-5,-4,200,10,skwb8
+4050733,Charter,Cable,NY,Northeast,-5,-4,200,10,skwb8
+4062569,Windstream,DSL,OK,South,-6,-5,25,1.5,skwb8
+4062593,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+4062665,Mediacom,Cable,MS,South,-6,-5,100,10,skwb8
+4062669,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+4062673,Verizon,Fiber,DE,South,-5,-4,100,100,skwb8
+4062677,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+4080945,Charter,Cable,HI,West,-10,-10,200,20,skwb8
+4080969,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+4114285,Comcast,Cable,OR,West,-8,-7,400,10,skwb8
+4172665,Cox,Cable,AZ,West,-7,-7,150,10,skwb8
+4172669,Cox,Cable,CA,West,-8,-7,150,10,skwb8
+4172673,Cox,Cable,CT,Northeast,-5,-4,150,10,skwb8
+4172681,Cox,Cable,CA,West,-8,-7,150,10,skwb8
+4172697,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+4172701,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+4172709,Frontier,Fiber,TX,South,-6,-5,100,100,skwb8
+4172717,Frontier,Fiber,CA,West,-8,-7,100,100,skwb8
+4172721,Frontier,Fiber,WA,West,-8,-7,200,200,skwb8
+4172725,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+4172737,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+4172741,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+4172749,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+4172753,Comcast,Cable,NM,West,-7,-6,175,5,skwb8
+4172757,Comcast,Cable,MI,Midwest,-5,-4,150,10,skwb8
+4172761,Comcast,Cable,CA,West,-8,-7,175,5,skwb8
+4172765,Comcast,Cable,GA,South,-5,-4,150,10,skwb8
+4172773,Comcast,Cable,CA,West,-8,-7,150,10,skwb8
+4190273,Cox,Cable,LA,South,-6,-5,150,10,skwb8
+4190281,Comcast,Cable,FL,South,-5,-4,200,10,skwb8
+4190285,Verizon,Fiber,MD,South,-5,-4,100,100,skwb8
+4273741,Comcast,Cable,NH,Northeast,-5,-4,150,5,skwb8
+4273745,Comcast,Cable,IL,Midwest,-6,-5,150,10,skwb8
+4273757,Comcast,Cable,MI,Midwest,-5,-4,150,10,skwb8
+4273765,Comcast,Cable,WA,West,-8,-7,175,5,skwb8
+4273781,Optimum,Cable,NJ,Northeast,-5,-4,200,35,skwb8
+4273785,Optimum,Cable,CT,Northeast,-5,-4,100,35,skwb8
+4273797,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+4529613,Comcast,Cable,WA,West,-8,-7,150,5,skwb8
+4636301,CenturyLink,DSL,FL,South,-5,-4,25,2,skwb8
+4636309,Windstream,DSL,MO,Midwest,-6,-5,25,1.5,skwb8
+4803405,Comcast,Cable,FL,South,-5,-4,150,10,skwb8
+4803413,Verizon,Fiber,NY,Northeast,-5,-4,100,100,skwb8
+4803433,Comcast,Cable,NH,Northeast,-5,-4,150,5,skwb8
+4803441,Optimum,Cable,NJ,Northeast,-5,-4,200,35,skwb8
+4973133,Comcast,Cable,CA,West,-8,-7,60,5,skwb8
+5281669,Comcast,Cable,IL,Midwest,-6,-5,150,10,skwb8
+5281677,Comcast,Cable,CO,West,-7,-6,250,10,skwb8
+6432485,Frontier,Fiber,OR,West,-8,-7,75,75,skwb8
+6432493,Comcast,Cable,FL,South,-5,-4,150,10,skwb8
+21449969,Comcast,Cable,OR,West,-8,-7,400,10,skwb8
+21449977,Comcast,Cable,PA,Northeast,-5,-4,100,5,skwb8
+21678585,Optimum,Cable,CT,Northeast,-5,-4,200,35,skwb8
+22074757,Comcast,Cable,PA,Northeast,-5,-4,250,10,skwb8
+22634805,Comcast,Cable,VA,South,-5,-4,400,10,skwb8
+22634821,Charter,Cable,NY,Northeast,-5,-4,400,20,skwb8
+23487169,Mediacom,Cable,MD,South,-5,-4,60,5,skwb8
+23487377,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+23487541,CenturyLink,DSL,MO,Midwest,-6,-5,8,0.768,skwb8
+23487569,CenturyLink,DSL,SD,Midwest,-7,-6,1.5,0.896,skwb8
+23665989,Comcast,Cable,LA,South,-6,-5,150,10,skwb8
+23920149,Comcast,Cable,MA,Northeast,-5,-4,250,10,skwb8
+23920421,CenturyLink,DSL,CO,West,-7,-6,1.5,0.896,skwb8
+23920769,Mediacom,Cable,DE,South,-5,-4,100,10,skwb8
+23921045,Cox,Cable,OK,South,-6,-5,30,3,skwb8
+24132349,CenturyLink,DSL,AZ,West,-7,-7,1.5,0.896,skwb8
+24195149,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+24360105,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24395073,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+24525261,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+24525377,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+24525557,Comcast,Cable,VA,South,-5,-4,250,10,skwb8
+24525561,Comcast,Cable,PA,Northeast,-5,-4,250,10,skwb8
+24525589,Comcast,Cable,PA,Northeast,-5,-4,250,10,skwb8
+24525613,Optimum,Cable,CT,Northeast,-5,-4,100,35,skwb8
+24525617,Comcast,Cable,CA,West,-8,-7,250,10,skwb8
+24525633,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+24525653,Comcast,Cable,GA,South,-5,-4,250,20,skwb8
+24525665,Optimum,Cable,CT,Northeast,-5,-4,100,35,skwb8
+24525717,Comcast,Cable,MN,Midwest,-6,-5,400,10,skwb8
+24525737,Comcast,Cable,PA,Northeast,-5,-4,250,10,skwb8
+24525817,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24525837,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24525857,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24525893,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24525917,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24525937,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,skwb8
+24558725,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24558749,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24558765,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24558801,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24558809,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24558841,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24558877,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24558889,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,skwb8
+24558893,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24558901,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24558953,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24558969,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24558989,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+24559025,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+24559033,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+24559045,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+24559069,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+24559133,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+24559141,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+24559169,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+24559205,Charter,Cable,OH,Midwest,-5,-4,400,20,skwb8
+24559213,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+24559293,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+24559321,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+24559345,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,skwb8
+24559397,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+24559473,Optimum,Cable,CT,Northeast,-5,-4,200,35,skwb8
+24559509,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24559517,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+24559529,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24559541,Optimum,Cable,NJ,Northeast,-5,-4,300,35,skwb8
+24559589,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+24559605,Optimum,Cable,CT,Northeast,-5,-4,300,35,skwb8
+24559625,Optimum,Cable,NJ,Northeast,-5,-4,200,35,skwb8
+24559637,Optimum,Cable,NJ,Northeast,-5,-4,300,35,skwb8
+24559685,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24559693,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24733133,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+24733169,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733197,Comcast,Cable,GA,South,-5,-4,60,5,skwb8
+24733209,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733217,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733221,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733225,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733245,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733249,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,skwb8
+24733257,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733261,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733269,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733281,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733305,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733333,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733361,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733365,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733401,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+24733409,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+24733425,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+24733445,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+24733501,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24733513,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+24733533,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+24733569,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+24733577,Cincinnati Bell,Fiber,KY,South,-5,-4,50,5,skwb8
+24733605,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+24733613,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+24733637,Cox,Cable,AZ,West,-7,-7,200,10,skwb8
+24733645,Cox,Cable,LA,South,-6,-5,30,3,skwb8
+24733689,Cox,Cable,FL,South,-5,-4,300,30,skwb8
+24733717,Cox,Cable,LA,South,-6,-5,200,10,skwb8
+24733745,Cox,Cable,OK,South,-6,-5,300,30,skwb8
+24733757,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+24733773,Cox,Cable,CA,West,-8,-7,30,3,skwb8
+24733777,Cox,Cable,NV,West,-8,-7,300,30,skwb8
+24733793,Cox,Cable,NV,West,-8,-7,30,3,skwb8
+24733797,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+24733801,Cox,Cable,NV,West,-8,-7,30,3,skwb8
+24733841,Cox,Cable,NV,West,-8,-7,200,10,skwb8
+24733861,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+24733877,Optimum,Cable,NY,Northeast,-5,-4,100,35,skwb8
+24733901,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+24733969,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24733981,Optimum,Cable,NJ,Northeast,-5,-4,300,35,skwb8
+24733997,Optimum,Cable,CT,Northeast,-5,-4,300,35,skwb8
+24734001,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24734065,Cox,Cable,LA,South,-6,-5,200,10,skwb8
+24734073,Optimum,Cable,NY,Northeast,-5,-4,100,35,skwb8
+24734093,Frontier,DSL,TN,South,-6,-5,3,0.384,skwb8
+24734105,Frontier,Fiber,TX,South,-6,-5,50,50,skwb8
+24734117,Frontier,Fiber,WA,West,-8,-7,50,50,skwb8
+24734121,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24734125,Frontier,DSL,NY,Northeast,-5,-4,6,0.768,skwb8
+24734129,Frontier,Fiber,FL,South,-5,-4,50,50,skwb8
+24734141,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+24734165,Frontier,Fiber,FL,South,-5,-4,75,75,skwb8
+24734205,Frontier,Fiber,TX,South,-6,-5,100,100,skwb8
+24734229,Frontier,Fiber,CA,West,-8,-7,50,50,skwb8
+24734233,Frontier,Fiber,FL,South,-5,-4,50,50,skwb8
+24734253,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+24734257,Frontier,DSL,IL,Midwest,-6,-5,12,1,skwb8
+24734265,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+24734289,Frontier,Fiber,CA,West,-8,-7,75,75,skwb8
+24734293,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24734297,Frontier,Fiber,CA,West,-8,-7,75,75,skwb8
+24734305,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24734309,Frontier,Fiber,FL,South,-5,-4,75,75,skwb8
+24734333,Frontier,DSL,MN,Midwest,-6,-5,12,1,skwb8
+24734337,Frontier,DSL,WI,Midwest,-6,-5,24,1,skwb8
+24734365,Frontier,DSL,IN,Midwest,-5,-4,12,1,skwb8
+24734381,Frontier,Fiber,IN,Midwest,-5,-4,150,150,skwb8
+24734417,Frontier,Fiber,WA,West,-8,-7,150,150,skwb8
+24734421,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+24734429,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+24734433,Frontier,DSL,IN,Midwest,-5,-4,24,1,skwb8
+24734461,Frontier,DSL,WV,South,-5,-4,3,0.384,skwb8
+24734465,Frontier,DSL,MI,Midwest,-5,-4,3,0.384,skwb8
+24734481,Frontier,DSL,TX,South,-6,-5,3,0.384,skwb8
+24734497,Frontier,DSL,WV,South,-5,-4,24,1,skwb8
+24734521,Frontier,DSL,OH,Midwest,-5,-4,24,1,skwb8
+24734537,Optimum,Cable,NJ,Northeast,-5,-4,200,35,skwb8
+24767505,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24767509,Frontier,DSL,MN,Midwest,-6,-5,6,0.512,skwb8
+24767513,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+24767521,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+24767537,Comcast,Cable,MI,Midwest,-5,-4,200,10,skwb8
+24767541,Comcast,Cable,NJ,Northeast,-5,-4,100,5,skwb8
+24767545,Comcast,Cable,NH,Northeast,-5,-4,400,10,skwb8
+24767585,Comcast,Cable,OR,West,-8,-7,400,10,skwb8
+24767649,Optimum,Cable,CT,Northeast,-5,-4,100,35,skwb8
+24767653,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24767661,Cincinnati Bell,Fiber,KY,South,-5,-4,50,10,skwb8
+24767669,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+24767673,Cincinnati Bell,Fiber,KY,South,-5,-4,50,10,skwb8
+24767685,Mediacom,Cable,IN,Midwest,-6,-5,100,10,skwb8
+24767697,Mediacom,Cable,AZ,West,-7,-7,60,5,skwb8
+24767705,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+24767713,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+24767725,Mediacom,Cable,IL,Midwest,-6,-5,100,10,skwb8
+24767737,Mediacom,Cable,AL,South,-6,-5,100,10,skwb8
+24767745,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+24767757,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+24767769,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+24767789,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+24767797,Mediacom,Cable,IL,Midwest,-6,-5,60,5,skwb8
+24767805,Mediacom,Cable,MN,Midwest,-6,-5,100,10,skwb8
+24767821,Optimum,Cable,NJ,Northeast,-5,-4,200,35,skwb8
+24767833,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+24767837,Optimum,Cable,CT,Northeast,-5,-4,200,35,skwb8
+24767849,Optimum,Cable,CT,Northeast,-5,-4,100,35,skwb8
+24767853,Optimum,Cable,CT,Northeast,-5,-4,100,35,skwb8
+24767869,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24767877,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+24767893,Optimum,Cable,CT,Northeast,-5,-4,200,35,skwb8
+24767897,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24767905,Optimum,Cable,CT,Northeast,-5,-4,200,35,skwb8
+24767925,Optimum,Cable,NJ,Northeast,-5,-4,200,35,skwb8
+24767929,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24767933,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24767937,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24767945,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24767973,Frontier,DSL,IA,Midwest,-6,-5,6,0.768,skwb8
+24767985,Frontier,DSL,MN,Midwest,-6,-5,6,0.768,skwb8
+24767989,Frontier,DSL,GA,South,-5,-4,10,1,skwb8
+24767993,Frontier,DSL,MI,Midwest,-5,-4,6,0.768,skwb8
+24768025,Frontier,Fiber,CA,West,-8,-7,75,75,skwb8
+24768029,Frontier,DSL,MI,Midwest,-5,-4,6,0.768,skwb8
+24768033,Frontier,DSL,IL,Midwest,-6,-5,6,0.768,skwb8
+24768037,Frontier,Fiber,WA,West,-8,-7,200,200,skwb8
+24768045,Frontier,Fiber,NY,Northeast,-5,-4,50,50,skwb8
+24768049,Frontier,DSL,WI,Midwest,-6,-5,3,0.384,skwb8
+24768053,Frontier,DSL,WV,South,-5,-4,24,1,skwb8
+24768061,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24768081,Frontier,DSL,WV,South,-5,-4,6,0.768,skwb8
+24768085,Frontier,Fiber,NY,Northeast,-5,-4,200,200,skwb8
+24768089,Frontier,DSL,CT,Northeast,-5,-4,12,1.5,skwb8
+24768093,Frontier,DSL,WV,South,-5,-4,6,0.768,skwb8
+24768097,Frontier,DSL,OH,Midwest,-5,-4,6,0.768,skwb8
+24768101,Frontier,DSL,NY,Northeast,-5,-4,6,0.768,skwb8
+24768109,Frontier,DSL,AZ,West,-7,-7,6,0.512,skwb8
+24768121,Frontier,DSL,OH,Midwest,-5,-4,6,0.768,skwb8
+24768125,Frontier,DSL,IL,Midwest,-6,-5,6,0.768,skwb8
+24768129,Frontier,DSL,IL,Midwest,-6,-5,6,0.768,skwb8
+24806417,Frontier,DSL,MI,Midwest,-5,-4,3,0.384,skwb8
+24806437,Frontier,Fiber,IN,Midwest,-5,-4,200,200,skwb8
+24806453,Frontier,DSL,NY,Northeast,-5,-4,6,0.768,skwb8
+24806485,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+24806505,Frontier,DSL,WA,West,-8,-7,3,0.512,skwb8
+24806517,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24806529,Frontier,DSL,WI,Midwest,-6,-5,12,1,skwb8
+24806541,Frontier,DSL,NY,Northeast,-5,-4,12,1,skwb8
+24806557,Cox,Cable,VA,South,-5,-4,150,10,skwb8
+24806561,Frontier,Fiber,FL,South,-5,-4,75,75,skwb8
+24806569,Frontier,DSL,NY,Northeast,-5,-4,3,0.384,skwb8
+24806573,Frontier,DSL,SC,South,-5,-4,6,0.768,skwb8
+24806577,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+24806585,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+24806609,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+24806613,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+24806617,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24806621,Frontier,Fiber,OR,West,-8,-7,50,50,skwb8
+24806625,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+24806637,Frontier,Fiber,FL,South,-5,-4,50,50,skwb8
+24806645,Frontier,Fiber,TX,South,-6,-5,100,100,skwb8
+24806653,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24806665,Charter,Cable,FL,South,-5,-4,100,10,skwb8
+24806677,Frontier,DSL,NY,Northeast,-5,-4,6,0.768,skwb8
+24806681,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+24806689,Frontier,Fiber,FL,South,-5,-4,50,50,skwb8
+24806701,Frontier,DSL,WV,South,-5,-4,3,0.512,skwb8
+24806713,Frontier,DSL,WV,South,-5,-4,6,0.768,skwb8
+24806717,Frontier,DSL,TX,South,-6,-5,6,0.512,skwb8
+24806729,Frontier,DSL,PA,Northeast,-5,-4,3,0.384,skwb8
+24806737,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+24806741,Frontier,DSL,MI,Midwest,-5,-4,12,1,skwb8
+24806749,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+24806753,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24806757,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+24806761,Frontier,Fiber,FL,South,-5,-4,50,50,skwb8
+24806765,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+24806773,Frontier,Fiber,TX,South,-6,-5,50,50,skwb8
+24806777,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24806785,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+24806801,Frontier,Fiber,FL,South,-5,-4,50,50,skwb8
+24806821,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24806825,Frontier,Fiber,WA,West,-8,-7,200,200,skwb8
+24806829,Frontier,Fiber,CA,West,-8,-7,75,75,skwb8
+24806841,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+24806845,Frontier,DSL,TX,South,-6,-5,3,0.384,skwb8
+24806853,Frontier,Fiber,FL,South,-5,-4,50,50,skwb8
+24806861,Frontier,DSL,MI,Midwest,-5,-4,3,0.768,skwb8
+24806869,Frontier,Fiber,FL,South,-5,-4,75,75,skwb8
+24806877,Frontier,Fiber,FL,South,-5,-4,50,50,skwb8
+24806897,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24806913,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24806917,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24806925,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+24806949,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+24806957,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+24806961,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24806969,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+24806985,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24806989,Frontier,DSL,IA,Midwest,-6,-5,12,1,skwb8
+24807005,Comcast,Cable,WA,West,-8,-7,75,5,skwb8
+24807013,Frontier,Fiber,TX,South,-6,-5,100,100,skwb8
+24807017,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+24807029,Frontier,DSL,WA,West,-8,-7,12,1,skwb8
+24807033,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+24807049,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+24807053,Frontier,Fiber,FL,South,-5,-4,75,75,skwb8
+24807057,Frontier,DSL,ID,West,-7,-6,24,1,skwb8
+24807073,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+24807093,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+24807097,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+24807105,Frontier,DSL,OH,Midwest,-5,-4,12,1,skwb8
+24807145,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+24807149,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24807161,Frontier,Fiber,OR,West,-8,-7,75,75,skwb8
+24807165,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+24807173,Frontier,Fiber,FL,South,-5,-4,75,75,skwb8
+24807185,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+24807193,Frontier,DSL,NY,Northeast,-5,-4,12,1,skwb8
+24807201,Frontier,DSL,MN,Midwest,-6,-5,12,1,skwb8
+24807209,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+24807237,Frontier,Fiber,CA,West,-8,-7,75,75,skwb8
+24807241,Frontier,DSL,OH,Midwest,-5,-4,12,1,skwb8
+24807245,Frontier,DSL,CT,Northeast,-5,-4,3,0.512,skwb8
+24807277,Frontier,DSL,CA,West,-8,-7,3,0.384,skwb8
+24839445,Frontier,DSL,WA,West,-8,-7,3,0.768,skwb8
+24839453,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+24839461,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+24839469,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+24839485,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+24839493,Frontier,DSL,IN,Midwest,-5,-4,24,1,skwb8
+24839509,Frontier,DSL,TX,South,-6,-5,3,0.384,skwb8
+24839521,Frontier,DSL,MN,Midwest,-6,-5,24,1,skwb8
+24839533,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+24839541,Frontier,DSL,WI,Midwest,-6,-5,12,1,skwb8
+24839545,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+24839561,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+24839569,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24839577,Frontier,DSL,IL,Midwest,-6,-5,12,1,skwb8
+24839589,Frontier,DSL,PA,Northeast,-5,-4,12,1.5,skwb8
+24839601,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+24839613,Frontier,DSL,CA,West,-8,-7,3,0.384,skwb8
+24839617,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+24839621,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+24839629,Frontier,DSL,IL,Midwest,-6,-5,24,1,skwb8
+24839645,CenturyLink,DSL,OR,West,-8,-7,8,0.768,skwb8
+24839649,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+24839653,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+24839657,Charter,Cable,FL,South,-5,-4,400,20,skwb8
+24839665,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+24839681,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+24839693,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+24839701,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+24839705,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+24839713,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+24839717,Frontier,DSL,ID,West,-8,-7,3,0.768,skwb8
+24839729,Frontier,DSL,OR,West,-8,-7,24,1,skwb8
+24839733,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+24839737,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+24839741,Frontier,Fiber,WA,West,-8,-7,200,200,skwb8
+24839745,Frontier,Fiber,WA,West,-8,-7,200,200,skwb8
+24839753,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+24839765,Frontier,Fiber,OR,West,-8,-7,200,200,skwb8
+24839785,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+24839793,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+24839797,Comcast,Cable,OR,West,-8,-7,250,10,skwb8
+24839809,Frontier,DSL,PA,Northeast,-5,-4,24,1,skwb8
+24839817,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+24839837,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+24839841,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24839845,Frontier,DSL,WA,West,-8,-7,3,0.768,skwb8
+24839853,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+24839877,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+24839881,Frontier,DSL,MI,Midwest,-5,-4,18,1,skwb8
+24839889,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+24839893,Frontier,Fiber,OR,West,-8,-7,200,200,skwb8
+24839909,Frontier,DSL,CA,West,-8,-7,3,0.384,skwb8
+24839925,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+24839945,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+24839977,Frontier,Fiber,OR,West,-8,-7,200,200,skwb8
+24839981,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+24839985,Cox,Cable,VA,South,-5,-4,30,3,skwb8
+24840013,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+24840029,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+24840037,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+24840069,Frontier,DSL,OR,West,-8,-7,24,1,skwb8
+24840081,Frontier,DSL,WA,West,-8,-7,24,1,skwb8
+24840649,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+24840665,Mediacom,Cable,IL,Midwest,-6,-5,100,10,skwb8
+24840669,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+24840673,Cox,Cable,NV,West,-8,-7,200,10,skwb8
+24840681,Cox,Cable,AZ,West,-7,-7,200,10,skwb8
+24840685,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24840697,Optimum,Cable,NJ,Northeast,-5,-4,300,35,skwb8
+24840709,Optimum,Cable,NJ,Northeast,-5,-4,300,35,skwb8
+24840717,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24840725,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+24869129,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24869153,Frontier,Fiber,TX,South,-6,-5,50,50,skwb8
+24869157,Frontier,Fiber,CA,West,-8,-7,50,50,skwb8
+24869165,Frontier,Fiber,FL,South,-5,-4,50,50,skwb8
+24869169,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+24869173,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+24869177,Frontier,Fiber,TX,South,-6,-5,100,100,skwb8
+24869185,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+24869189,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+24869193,Cox,Cable,CA,West,-8,-7,30,3,skwb8
+24869197,Frontier,DSL,FL,South,-5,-4,3,0.384,skwb8
+24869217,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+24869221,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+24869225,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+24869229,Mediacom,Cable,IA,Midwest,-6,-5,100,10,skwb8
+24869233,Mediacom,Cable,CA,West,-8,-7,60,5,skwb8
+24869249,Mediacom,Cable,AL,South,-6,-5,100,10,skwb8
+24869261,Mediacom,Cable,GA,South,-5,-4,60,5,skwb8
+24869273,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+24869277,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+24869289,Mediacom,Cable,MN,Midwest,-6,-5,75,10,skwb8
+24869293,Mediacom,Cable,IL,Midwest,-6,-5,60,5,skwb8
+24869297,Mediacom,Cable,IN,Midwest,-5,-4,60,5,skwb8
+24869305,Mediacom,Cable,KY,South,-6,-5,60,5,skwb8
+24869309,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+24869313,Mediacom,Cable,IL,Midwest,-6,-5,60,5,skwb8
+24869317,Mediacom,Cable,MO,Midwest,-6,-5,60,5,skwb8
+24869325,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+24869337,Mediacom,Cable,IL,Midwest,-6,-5,200,20,skwb8
+24869341,Mediacom,Cable,IN,Midwest,-5,-4,60,5,skwb8
+24869345,Mediacom,Cable,IL,Midwest,-6,-5,60,5,skwb8
+24869353,Optimum,Cable,NJ,Northeast,-5,-4,300,35,skwb8
+24869361,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+24869365,CenturyLink,DSL,CO,West,-7,-6,1.5,0.896,skwb8
+24869373,CenturyLink,DSL,CO,West,-7,-6,1.5,0.896,skwb8
+24869377,CenturyLink,DSL,WA,West,-8,-7,7,0.896,skwb8
+24869389,CenturyLink,DSL,MN,Midwest,-6,-5,1.5,0.896,skwb8
+24869393,CenturyLink,DSL,MI,Midwest,-6,-5,8,0.768,skwb8
+24869397,CenturyLink,DSL,KS,Midwest,-6,-5,8,0.768,skwb8
+24869401,CenturyLink,DSL,IN,Midwest,-5,-4,8,0.768,skwb8
+24869409,CenturyLink,DSL,IA,Midwest,-6,-5,12,0.896,skwb8
+24869421,CenturyLink,DSL,NC,South,-5,-4,10,0.768,skwb8
+24869433,CenturyLink,DSL,FL,South,-5,-4,8,0.768,skwb8
+24869441,CenturyLink,DSL,MN,Midwest,-6,-5,40,2,skwb8
+24869449,CenturyLink,DSL,NV,West,-8,-7,20,2,skwb8
+24869457,CenturyLink,DSL,FL,South,-5,-4,20,2,skwb8
+24869461,CenturyLink,DSL,FL,South,-5,-4,40,5,skwb8
+24869465,CenturyLink,DSL,WI,Midwest,-6,-5,3,0.512,skwb8
+24869469,CenturyLink,DSL,MT,West,-7,-6,1.5,0.896,skwb8
+24869473,CenturyLink,DSL,NC,South,-5,-4,8,0.768,skwb8
+24869481,CenturyLink,DSL,WI,Midwest,-6,-5,3,0.512,skwb8
+24869489,CenturyLink,DSL,IN,Midwest,-5,-4,3,0.512,skwb8
+24869501,CenturyLink,DSL,MO,Midwest,-6,-5,40,5,skwb8
+24869505,CenturyLink,DSL,CO,West,-7,-6,1.5,0.896,skwb8
+24869513,CenturyLink,DSL,NC,South,-5,-4,40,5,skwb8
+24869517,CenturyLink,DSL,WI,Midwest,-6,-5,20,2,skwb8
+24869521,CenturyLink,DSL,CO,West,-7,-6,60,5,skwb8
+24869529,CenturyLink,DSL,LA,South,-6,-5,40,5,skwb8
+24869577,CenturyLink,DSL,TX,South,-6,-5,3,0.512,skwb8
+24869581,CenturyLink,DSL,VA,South,-5,-4,3,0.512,skwb8
+24869609,CenturyLink,DSL,CO,West,-7,-6,1.5,0.896,skwb8
+24869617,CenturyLink,DSL,CO,West,-7,-6,1.5,0.896,skwb8
+24869621,CenturyLink,DSL,FL,South,-5,-4,8,0.768,skwb8
+24869625,CenturyLink,DSL,FL,South,-5,-4,3,0.512,skwb8
+24869629,CenturyLink,DSL,VA,South,-5,-4,8,0.768,skwb8
+24869633,CenturyLink,DSL,FL,South,-5,-4,8,0.768,skwb8
+24869649,CenturyLink,DSL,TX,South,-6,-5,8,0.768,skwb8
+24869653,CenturyLink,DSL,WA,West,-8,-7,8,0.768,skwb8
+24869657,CenturyLink,DSL,NC,South,-5,-4,8,0.768,skwb8
+24869661,CenturyLink,DSL,CO,West,-7,-6,1.5,0.896,skwb8
+24869665,CenturyLink,DSL,NV,West,-8,-7,25,2,skwb8
+24869673,CenturyLink,DSL,IA,Midwest,-6,-5,40,2,skwb8
+24869677,CenturyLink,DSL,TX,South,-6,-5,40,5,skwb8
+24869705,CenturyLink,DSL,OR,West,-8,-7,40,20,skwb8
+24869709,CenturyLink,DSL,ND,Midwest,-6,-5,7,0.896,skwb8
+24869713,CenturyLink,DSL,WA,West,-8,-7,1.5,0.896,skwb8
+24869721,CenturyLink,DSL,MO,Midwest,-6,-5,8,0.768,skwb8
+24869725,CenturyLink,DSL,NM,West,-7,-6,7,0.896,skwb8
+24869729,CenturyLink,DSL,NC,South,-5,-4,20,1.5,skwb8
+24869733,CenturyLink,DSL,CO,West,-7,-6,7,0.896,skwb8
+24869737,CenturyLink,DSL,WY,West,-7,-6,3,0.64,skwb8
+24869741,CenturyLink,DSL,WA,West,-8,-7,7,0.896,skwb8
+24869749,CenturyLink,DSL,OH,Midwest,-5,-4,20,2,skwb8
+24869753,CenturyLink,DSL,MN,Midwest,-6,-5,12,0.896,skwb8
+24869757,CenturyLink,DSL,AZ,West,-7,-7,40,2,skwb8
+24869765,CenturyLink,DSL,FL,South,-5,-4,3,0.512,skwb8
+24869773,CenturyLink,DSL,WA,West,-8,-7,25,2,skwb8
+24869777,CenturyLink,DSL,MN,Midwest,-6,-5,20,2,skwb8
+24869781,CenturyLink,DSL,IN,Midwest,-5,-4,8,0.768,skwb8
+24869785,CenturyLink,DSL,ID,West,-7,-6,40,5,skwb8
+24869789,CenturyLink,DSL,MN,Midwest,-6,-5,3,0.64,skwb8
+24869797,CenturyLink,DSL,OH,Midwest,-5,-4,25,2,skwb8
+24869801,CenturyLink,DSL,WA,West,-8,-7,7,0.896,skwb8
+24869845,CenturyLink,DSL,NC,South,-5,-4,3,0.512,skwb8
+24869909,CenturyLink,DSL,MO,Midwest,-6,-5,8,0.768,skwb8
+24943917,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+24970785,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+24970801,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+24970825,Charter,Cable,OH,Midwest,-5,-4,400,20,skwb8
+25017637,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25017645,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25017665,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25017673,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25017689,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25017693,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25017697,Cincinnati Bell,DSL,IN,Midwest,-5,-4,5,0.768,skwb8
+25017713,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+25017717,Frontier,DSL,NY,Northeast,-5,-4,24,1,skwb8
+25017737,Mediacom,Cable,AL,South,-6,-5,60,5,skwb8
+25017749,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+25017757,Mediacom,Cable,MN,Midwest,-6,-5,60,5,skwb8
+25017761,Mediacom,Cable,IL,Midwest,-6,-5,60,5,skwb8
+25017777,CenturyLink,DSL,MN,Midwest,-6,-5,1.5,0.896,skwb8
+25017785,CenturyLink,DSL,WI,Midwest,-6,-5,8,0.768,skwb8
+25017797,CenturyLink,DSL,MO,Midwest,-6,-5,8,0.768,skwb8
+25017809,CenturyLink,DSL,AL,South,-6,-5,8,0.768,skwb8
+25017817,CenturyLink,DSL,AZ,West,-7,-7,7,0.896,skwb8
+25017821,CenturyLink,DSL,NM,West,-7,-6,40,2,skwb8
+25017825,CenturyLink,DSL,AZ,West,-7,-7,40,2,skwb8
+25017833,CenturyLink,DSL,IA,Midwest,-6,-5,7,0.896,skwb8
+25017861,CenturyLink,DSL,AZ,West,-7,-7,1.5,0.896,skwb8
+25017885,CenturyLink,DSL,WA,West,-8,-7,1.5,0.896,skwb8
+25017921,CenturyLink,DSL,NM,West,-7,-6,20,0.896,skwb8
+25017937,CenturyLink,DSL,MN,Midwest,-6,-5,20,0.896,skwb8
+25170177,Charter,Cable,OH,Midwest,-5,-4,200,10,skwb8
+25170181,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25170189,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+25170197,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+25170329,Verizon,Fiber,NY,Northeast,-5,-4,100,100,skwb8
+25170341,Verizon,Fiber,NY,Northeast,-5,-4,75,75,skwb8
+25170369,Verizon,Fiber,NY,Northeast,-5,-4,75,75,skwb8
+25170377,Verizon,Fiber,NY,Northeast,-5,-4,75,75,skwb8
+25170381,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+25170393,Verizon,Fiber,NJ,Northeast,-5,-4,75,75,skwb8
+25170409,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+25170413,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+25170453,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+25170465,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+25170469,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+25170473,Verizon,Fiber,MA,Northeast,-5,-4,75,75,skwb8
+25170477,Verizon,Fiber,NY,Northeast,-5,-4,75,75,skwb8
+25170485,Verizon,Fiber,MA,Northeast,-5,-4,75,75,skwb8
+25170505,Verizon,Fiber,NY,Northeast,-5,-4,75,75,skwb8
+25170509,Verizon,Fiber,NY,Northeast,-5,-4,75,75,skwb8
+25170517,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,skwb8
+25314061,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25314069,CenturyLink,DSL,WA,West,-8,-7,1.5,0.896,skwb8
+25314101,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+25314109,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,skwb8
+25314117,Verizon,Fiber,NY,Northeast,-5,-4,100,100,skwb8
+25314129,Verizon,Fiber,NY,Northeast,-5,-4,100,100,skwb8
+25314149,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+25314165,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+25314169,Verizon,Fiber,PA,Northeast,-5,-4,75,75,skwb8
+25314181,Verizon,Fiber,NY,Northeast,-5,-4,75,75,skwb8
+25314213,Verizon,Fiber,NY,Northeast,-5,-4,75,75,skwb8
+25314221,Verizon,Fiber,NJ,Northeast,-5,-4,75,75,skwb8
+25314225,Verizon,Fiber,VA,South,-5,-4,75,75,skwb8
+25314237,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+25314241,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+25314245,Verizon,Fiber,MA,Northeast,-5,-4,100,100,skwb8
+25314253,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,skwb8
+25314269,Verizon,Fiber,DE,South,-5,-4,100,100,skwb8
+25314289,Verizon,Fiber,PA,Northeast,-5,-4,75,75,skwb8
+25314293,Verizon,Fiber,NY,Northeast,-5,-4,75,75,skwb8
+25314317,Cox,Cable,VA,South,-5,-4,300,30,skwb8
+25314321,Cox,Cable,OK,South,-6,-5,300,30,skwb8
+25314325,Cox,Cable,KS,Midwest,-6,-5,300,30,skwb8
+25314337,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+25314361,Cox,Cable,RI,Northeast,-5,-4,300,30,skwb8
+25314365,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+25314397,Cox,Cable,CA,West,-8,-7,30,3,skwb8
+25314405,Cox,Cable,AZ,West,-7,-7,200,10,skwb8
+25314425,Cox,Cable,CA,West,-8,-7,200,10,skwb8
+25314433,Cox,Cable,CA,West,-8,-7,30,3,skwb8
+25314453,Cox,Cable,NE,Midwest,-6,-5,30,3,skwb8
+25314521,Cox,Cable,AZ,West,-7,-7,200,10,skwb8
+25619153,Verizon,Fiber,NY,Northeast,-5,-4,100,100,skwb8
+25619157,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+25619193,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+25619197,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+25619325,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+25619329,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+25619333,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+25619341,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+25619345,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+25619349,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+25619353,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+25619369,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+25619405,Mediacom,Cable,LA,South,-6,-5,200,20,skwb8
+25619409,Charter,Cable,FL,South,-5,-4,400,20,skwb8
+25619413,Charter,Cable,NY,Northeast,-5,-4,400,20,skwb8
+25619417,Charter,Cable,OH,Midwest,-5,-4,400,20,skwb8
+25619421,Frontier,DSL,GA,South,-5,-4,12,1,skwb8
+25619429,Comcast,Cable,VA,South,-5,-4,150,5,skwb8
+25657737,Comcast,Cable,CO,West,-7,-6,175,5,skwb8
+25657749,Comcast,Cable,TX,South,-6,-5,75,5,skwb8
+25657757,Comcast,Cable,VT,Northeast,-5,-4,250,10,skwb8
+25657761,Comcast,Cable,TN,South,-6,-5,200,10,skwb8
+25657765,Comcast,Cable,VA,South,-5,-4,60,5,skwb8
+25657769,Comcast,Cable,MN,Midwest,-6,-5,150,5,skwb8
+25657773,Comcast,Cable,MI,Midwest,-5,-4,60,5,skwb8
+25657785,Comcast,Cable,NJ,Northeast,-5,-4,60,5,skwb8
+25657801,Comcast,Cable,WA,West,-8,-7,400,10,skwb8
+25657821,Comcast,Cable,MN,Midwest,-6,-5,75,5,skwb8
+25657837,Comcast,Cable,FL,South,-5,-4,150,10,skwb8
+25657845,Comcast,Cable,CO,West,-7,-6,250,10,skwb8
+25657853,Comcast,Cable,PA,Northeast,-5,-4,250,10,skwb8
+25657857,Comcast,Cable,PA,Northeast,-5,-4,250,10,skwb8
+25657869,Comcast,Cable,NJ,Northeast,-5,-4,400,10,skwb8
+25657885,Comcast,Cable,NJ,Northeast,-5,-4,400,10,skwb8
+25657917,Comcast,Cable,CO,West,-7,-6,400,10,skwb8
+25657921,Comcast,Cable,PA,Northeast,-5,-4,400,10,skwb8
+25657925,Comcast,Cable,MA,Northeast,-5,-4,400,10,skwb8
+25657953,Comcast,Cable,VA,South,-5,-4,400,10,skwb8
+25657957,Comcast,Cable,PA,Northeast,-5,-4,400,10,skwb8
+25657989,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+25658009,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+25658013,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+25658017,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25658021,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+25658033,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25658041,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,skwb8
+25658049,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,skwb8
+25658073,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25658081,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25658085,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25658093,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25658097,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25658101,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25658105,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25658109,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25658121,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25658129,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25658141,Cincinnati Bell,Fiber,KY,South,-5,-4,500,125,skwb8
+25658145,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25658149,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25658157,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+25658169,Cincinnati Bell,Fiber,KY,South,-5,-4,50,10,skwb8
+25754533,Optimum,Cable,NY,Northeast,-5,-4,100,35,skwb8
+25754537,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+25754561,Optimum,Cable,CT,Northeast,-5,-4,200,35,skwb8
+25754565,Optimum,Cable,NJ,Northeast,-5,-4,300,35,skwb8
+25754569,Optimum,Cable,NJ,Northeast,-5,-4,300,35,skwb8
+25754573,Frontier,DSL,ID,West,-8,-7,3,0.384,skwb8
+25754577,Frontier,DSL,OH,Midwest,-5,-4,6,0.768,skwb8
+25754581,Frontier,DSL,WV,South,-5,-4,3,0.384,skwb8
+25754585,Frontier,DSL,CT,Northeast,-5,-4,6,0.768,skwb8
+25754593,Frontier,DSL,WI,Midwest,-6,-5,6,0.768,skwb8
+25754601,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+25754605,Frontier,Fiber,WA,West,-8,-7,50,50,skwb8
+25754609,Frontier,Fiber,TX,South,-6,-5,50,50,skwb8
+25754613,Frontier,Fiber,TX,South,-6,-5,50,50,skwb8
+25754621,Frontier,Fiber,FL,South,-5,-4,50,50,skwb8
+25754625,Frontier,Fiber,FL,South,-5,-4,50,50,skwb8
+25754645,Frontier,Fiber,FL,South,-5,-4,100,100,skwb8
+25754649,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+25754657,Frontier,Fiber,CA,West,-8,-7,100,100,skwb8
+25754661,Frontier,Fiber,CA,West,-8,-7,75,75,skwb8
+25754669,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+25754677,Frontier,Fiber,CA,West,-8,-7,75,75,skwb8
+25754681,Frontier,Fiber,TX,South,-6,-5,75,75,skwb8
+25754685,Frontier,DSL,IN,Midwest,-5,-4,12,1.5,skwb8
+25754693,Frontier,DSL,WA,West,-8,-7,12,1,skwb8
+25754697,Frontier,DSL,WV,South,-5,-4,12,1,skwb8
+25754705,Frontier,DSL,WV,South,-5,-4,12,1,skwb8
+25754709,Frontier,DSL,PA,Northeast,-5,-4,12,1,skwb8
+25754717,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+25754733,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+25754741,Frontier,DSL,TX,South,-6,-5,12,1,skwb8
+25754745,Frontier,DSL,MN,Midwest,-6,-5,12,1.5,skwb8
+25754773,Frontier,DSL,IN,Midwest,-6,-5,12,1,skwb8
+25754781,Frontier,DSL,PA,Northeast,-5,-4,12,1,skwb8
+25754789,Frontier,Fiber,WA,West,-8,-7,150,150,skwb8
+25754797,Frontier,DSL,TX,South,-6,-5,3,0.384,skwb8
+25754801,Frontier,Fiber,WA,West,-8,-7,200,200,skwb8
+25754821,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+25754837,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+25754845,Frontier,DSL,FL,South,-5,-4,3,0.384,skwb8
+25754853,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+25754857,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+25754861,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+25754869,Frontier,DSL,NY,Northeast,-5,-4,3,0.384,skwb8
+25754873,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+25754881,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+25754893,Frontier,DSL,IA,Midwest,-6,-5,12,1,skwb8
+25754897,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+25754905,Frontier,DSL,WI,Midwest,-6,-5,12,1,skwb8
+25754917,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+25754925,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+25754929,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+25754941,Frontier,DSL,MI,Midwest,-5,-4,3,0.768,skwb8
+25754945,Frontier,Fiber,CT,Northeast,-5,-4,200,200,skwb8
+25754953,Frontier,Fiber,FL,South,-5,-4,150,150,skwb8
+25754957,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+25754965,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+25754973,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+25754977,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+25754981,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+25754989,Frontier,Fiber,WA,West,-8,-7,200,200,skwb8
+25754993,Frontier,Fiber,TX,South,-6,-5,150,150,skwb8
+25755001,Frontier,Fiber,TX,South,-6,-5,200,200,skwb8
+25755009,Frontier,Fiber,CA,West,-8,-7,200,200,skwb8
+25755021,Charter,Cable,CA,West,-8,-7,200,10,skwb8
+25755025,Frontier,DSL,IN,Midwest,-5,-4,3,0.384,skwb8
+25755029,Frontier,DSL,MI,Midwest,-5,-4,24,1,skwb8
+25755049,Frontier,DSL,MI,Midwest,-5,-4,24,1,skwb8
+25755069,Frontier,DSL,OR,West,-8,-7,24,1,skwb8
+25755073,Frontier,DSL,WV,South,-5,-4,24,1,skwb8
+25755081,Frontier,DSL,WV,South,-5,-4,24,1,skwb8
+25755089,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+25755093,Optimum,Cable,NY,Northeast,-5,-4,100,35,skwb8
+25755097,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+25755105,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+25755121,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+25755125,Mediacom,Cable,GA,South,-5,-4,100,10,skwb8
+25755133,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+25755137,Mediacom,Cable,DE,South,-5,-4,60,5,skwb8
+25755141,Verizon,Fiber,MD,South,-5,-4,100,100,skwb8
+25755153,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+25755157,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,skwb8
+25755161,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+25755165,Verizon,Fiber,MD,South,-5,-4,100,100,skwb8
+25755173,Verizon,Fiber,MD,South,-5,-4,100,100,skwb8
+25755201,Mediacom,Cable,IA,Midwest,-6,-5,60,5,skwb8
+25755205,Cox,Cable,VA,South,-5,-4,300,30,skwb8
+25755213,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+25755217,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+25755221,Cox,Cable,CT,Northeast,-5,-4,300,30,skwb8
+25755229,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+25755233,Cox,Cable,FL,South,-5,-4,300,30,skwb8
+25755237,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+25755241,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+25755253,Cincinnati Bell,DSL,IN,Midwest,-5,-4,5,0.768,skwb8
+25755261,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+25755269,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+25834621,Charter,Cable,MN,Midwest,-6,-5,200,10,skwb8
+25834633,Comcast,Cable,CA,West,-8,-7,175,5,skwb8
+25834665,Comcast,Cable,MD,South,-5,-4,250,10,skwb8
+25834673,Comcast,Cable,FL,South,-5,-4,200,10,skwb8
+25834689,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25834693,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25834701,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25834709,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+25834717,Cincinnati Bell,Fiber,KY,South,-5,-4,250,100,skwb8
+25834725,Optimum,Cable,NJ,Northeast,-5,-4,300,35,skwb8
+25834749,Frontier,DSL,IL,Midwest,-6,-5,12,1,skwb8
+25834753,Frontier,DSL,IL,Midwest,-6,-5,12,1,skwb8
+25834765,Frontier,Fiber,FL,South,-5,-4,200,200,skwb8
+25886289,Frontier,Fiber,IN,Midwest,-5,-4,200,200,skwb8
+25886297,Frontier,DSL,WV,South,-5,-4,24,1,skwb8
+25886301,Frontier,DSL,WI,Midwest,-6,-5,9,1,skwb8
+25886325,Optimum,Cable,CT,Northeast,-5,-4,100,35,skwb8
+25886329,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+25886333,Optimum,Cable,NY,Northeast,-5,-4,400,35,skwb8
+25886341,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+25886357,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+25886361,Mediacom,Cable,IL,Midwest,-6,-5,60,5,skwb8
+25886365,Optimum,Cable,NJ,Northeast,-5,-4,300,35,skwb8
+25886369,Verizon,Fiber,PA,Northeast,-5,-4,75,75,skwb8
+25886373,Optimum,Cable,NJ,Northeast,-5,-4,300,35,skwb8
+25886401,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+25886405,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+25886417,Charter,Cable,NC,South,-5,-4,400,20,skwb8
+25886421,Charter,Cable,FL,South,-5,-4,200,20,skwb8
+25886425,Charter,Cable,OH,Midwest,-5,-4,400,20,skwb8
+25886437,Charter,Cable,TX,South,-6,-5,400,20,skwb8
+25886441,Charter,Cable,CA,West,-8,-7,400,20,skwb8
+25886445,Charter,Cable,NE,Midwest,-6,-5,400,20,skwb8
+25886457,Charter,Cable,KY,South,-5,-4,400,20,skwb8
+25886465,Charter,Cable,OH,Midwest,-5,-4,400,20,skwb8
+25886481,Charter,Cable,WI,Midwest,-6,-5,400,20,skwb8
+25886505,Charter,Cable,AL,South,-6,-5,200,10,skwb8
+25886513,Charter,Cable,AL,South,-6,-5,400,20,skwb8
+25886517,Charter,Cable,TX,South,-6,-5,400,20,skwb8
+25886525,Charter,Cable,NY,Northeast,-5,-4,400,20,skwb8
+25886529,Charter,Cable,CA,West,-8,-7,400,20,skwb8
+25886533,Charter,Cable,SC,South,-5,-4,400,20,skwb8
+25886537,Charter,Cable,FL,South,-5,-4,300,20,skwb8
+25886545,Charter,Cable,NC,South,-5,-4,400,20,skwb8
+25886577,Charter,Cable,NC,South,-5,-4,400,20,skwb8
+25886585,Charter,Cable,MI,Midwest,-5,-4,400,20,skwb8
+25886589,Charter,Cable,WI,Midwest,-6,-5,200,10,skwb8
+25886593,Charter,Cable,HI,West,-10,-10,200,20,skwb8
+25886617,Charter,Cable,WI,Midwest,-6,-5,200,10,skwb8
+25886625,Charter,Cable,NC,South,-5,-4,400,20,skwb8
+25886629,Charter,Cable,WI,Midwest,-6,-5,200,10,skwb8
+25886645,Charter,Cable,NY,Northeast,-5,-4,400,20,skwb8
+25886657,Charter,Cable,TX,South,-6,-5,200,10,skwb8
+25886661,Charter,Cable,OH,Midwest,-5,-4,300,20,skwb8
+25886677,Charter,Cable,FL,South,-5,-4,400,20,skwb8
+25886681,Charter,Cable,NY,Northeast,-5,-4,200,10,skwb8
+25886689,Charter,Cable,CA,West,-8,-7,400,20,skwb8
+25886705,Charter,Cable,NC,South,-5,-4,200,10,skwb8
+25886729,Charter,Cable,TN,South,-6,-5,200,10,skwb8
+25886741,Charter,Cable,TX,South,-6,-5,400,20,skwb8
+25886745,Charter,Cable,MN,Midwest,-6,-5,200,10,skwb8
+25886761,Charter,Cable,HI,West,-10,-10,400,20,skwb8
+25886765,Charter,Cable,TX,South,-6,-5,400,20,skwb8
+25886769,Charter,Cable,GA,South,-5,-4,200,10,skwb8
+25886781,Charter,Cable,OH,Midwest,-5,-4,200,10,skwb8
+25886793,Charter,Cable,MO,Midwest,-6,-5,400,20,skwb8
+25886797,Charter,Cable,CA,West,-8,-7,200,20,skwb8
+25886805,Charter,Cable,NY,Northeast,-5,-4,400,20,skwb8
+25886817,Charter,Cable,NC,South,-5,-4,200,20,skwb8
+25886821,Charter,Cable,MO,Midwest,-6,-5,200,10,skwb8
+25886825,Charter,Cable,AL,South,-6,-5,200,10,skwb8
+25886833,Charter,Cable,OH,Midwest,-5,-4,400,20,skwb8
+25886849,Charter,Cable,NC,South,-5,-4,200,10,skwb8
+25886865,Charter,Cable,KY,South,-5,-4,200,10,skwb8
+25886869,Charter,Cable,OH,Midwest,-5,-4,400,20,skwb8
+25886885,Charter,Cable,KY,South,-5,-4,200,10,skwb8
+25886889,Charter,Cable,WI,Midwest,-6,-5,200,10,skwb8
+25886921,Charter,Cable,NY,Northeast,-5,-4,400,20,skwb8
+25886925,Charter,Cable,WI,Midwest,-6,-5,200,10,skwb8
+25886933,Charter,Cable,SC,South,-5,-4,200,10,skwb8
+25886941,Charter,Cable,SC,South,-5,-4,400,20,skwb8
+25886945,Charter,Cable,NC,South,-5,-4,400,20,skwb8
+25886949,Charter,Cable,CA,West,-8,-7,400,20,skwb8
+25886957,Charter,Cable,MO,Midwest,-6,-5,400,20,skwb8
+25886961,Charter,Cable,SC,South,-5,-4,400,20,skwb8
+25886965,Charter,Cable,TX,South,-6,-5,400,20,skwb8
+25886977,Charter,Cable,KY,South,-5,-4,400,20,skwb8
+25886989,Charter,Cable,CA,West,-8,-7,400,20,skwb8
+25887017,Charter,Cable,CA,West,-8,-7,400,20,skwb8
+25887021,Charter,Cable,CT,Northeast,-5,-4,300,20,skwb8
+25887037,Charter,Cable,NY,Northeast,-5,-4,400,20,skwb8
+26113861,Comcast,Cable,IN,Midwest,-5,-4,150,10,skwb8
+26113877,Cox,Cable,CA,West,-8,-7,30,3,skwb8
+26113885,Frontier,Fiber,CA,West,-8,-7,150,150,skwb8
+26113893,CenturyLink,DSL,ID,West,-7,-6,12,0.896,skwb8
+26113897,CenturyLink,DSL,FL,South,-5,-4,20,2,skwb8
+26113905,CenturyLink,DSL,NC,South,-5,-4,20,2,skwb8
+26113913,CenturyLink,DSL,OR,West,-8,-7,12,0.896,skwb8
+26113925,CenturyLink,DSL,CO,West,-7,-6,12,0.896,skwb8
+26113929,CenturyLink,DSL,WA,West,-8,-7,1.5,0.896,skwb8
+26113937,CenturyLink,DSL,AZ,West,-7,-7,40,20,skwb8
+26113941,CenturyLink,DSL,IA,Midwest,-6,-5,12,0.896,skwb8
+26113945,CenturyLink,DSL,AZ,West,-7,-7,20,0.896,skwb8
+26113949,CenturyLink,DSL,AZ,West,-7,-7,12,0.896,skwb8
+26113969,CenturyLink,DSL,IN,Midwest,-5,-4,40,5,skwb8
+26113977,CenturyLink,DSL,OR,West,-8,-7,12,0.896,skwb8
+26113981,CenturyLink,DSL,MN,Midwest,-6,-5,1.5,0.896,skwb8
+26113985,CenturyLink,DSL,AZ,West,-7,-7,1.5,0.896,skwb8
+26113993,CenturyLink,DSL,MN,Midwest,-6,-5,20,2,skwb8
+26114001,CenturyLink,DSL,WI,Midwest,-6,-5,40,5,skwb8
+26114013,CenturyLink,DSL,NC,South,-5,-4,20,2,skwb8
+26114017,CenturyLink,DSL,WA,West,-8,-7,12,0.896,skwb8
+26114021,CenturyLink,DSL,NM,West,-7,-6,1.5,0.896,skwb8
+26114041,CenturyLink,DSL,IA,Midwest,-6,-5,12,0.896,skwb8
+26114045,CenturyLink,DSL,OR,West,-8,-7,20,0.896,skwb8
+26114049,CenturyLink,DSL,OR,West,-8,-7,40,2,skwb8
+26114053,CenturyLink,DSL,CO,West,-7,-6,1.5,0.896,skwb8
+26114057,CenturyLink,DSL,MT,West,-7,-6,1.5,0.896,skwb8
+26114077,CenturyLink,DSL,NM,West,-7,-6,3,0.64,skwb8
+26114081,CenturyLink,DSL,WA,West,-8,-7,5,0.896,skwb8
+26114085,CenturyLink,DSL,NC,South,-5,-4,3,0.512,skwb8
+26114097,CenturyLink,DSL,WA,West,-8,-7,1.5,0.896,skwb8
+26114113,CenturyLink,DSL,OH,Midwest,-5,-4,3,0.512,skwb8
+26114121,CenturyLink,DSL,MN,Midwest,-6,-5,3,0.64,skwb8
+26114125,CenturyLink,DSL,IN,Midwest,-5,-4,20,2,skwb8
+26114129,CenturyLink,DSL,TX,South,-6,-5,3,0.512,skwb8
+26114141,Comcast,Cable,WA,West,-8,-7,175,5,skwb8
+26114149,CenturyLink,DSL,MN,Midwest,-6,-5,12,0.896,skwb8
+26114153,CenturyLink,DSL,NE,Midwest,-6,-5,12,0.896,skwb8
+26114157,CenturyLink,DSL,TX,South,-6,-5,20,2,skwb8
+26114161,CenturyLink,DSL,MN,Midwest,-6,-5,12,0.896,skwb8
+26114165,CenturyLink,DSL,NM,West,-7,-6,12,2,skwb8
+26114177,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+26114181,Cox,Cable,NV,West,-8,-7,30,3,skwb8
+26114185,Cox,Cable,FL,South,-5,-4,300,30,skwb8
+26114201,Charter,Cable,CA,West,-8,-7,400,20,skwb8
+26114209,Mediacom,Cable,KY,South,-6,-5,200,20,skwb8
+26114213,Mediacom,Cable,GA,South,-5,-4,200,20,skwb8
+26114217,Mediacom,Cable,AZ,West,-7,-7,100,10,skwb8
+26114225,Mediacom,Cable,MO,Midwest,-6,-5,200,20,skwb8
+26114241,Mediacom,Cable,MO,Midwest,-6,-5,200,20,skwb8
+26114245,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+26114249,Mediacom,Cable,IL,Midwest,-6,-5,200,20,skwb8
+26114257,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+26114265,Mediacom,Cable,MO,Midwest,-6,-5,200,20,skwb8
+26114285,Mediacom,Cable,IL,Midwest,-6,-5,200,20,skwb8
+26114293,Mediacom,Cable,FL,South,-5,-4,200,20,skwb8
+26114297,Mediacom,Cable,AL,South,-6,-5,200,20,skwb8
+26114301,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+26114305,Mediacom,Cable,MN,Midwest,-6,-5,200,20,skwb8
+26114309,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+26114325,Mediacom,Cable,GA,South,-5,-4,200,20,skwb8
+26114329,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+26114341,Mediacom,Cable,GA,South,-5,-4,200,20,skwb8
+26114345,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+26114357,Mediacom,Cable,MO,Midwest,-6,-5,200,20,skwb8
+26114361,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+26114377,Mediacom,Cable,MO,Midwest,-6,-5,200,20,skwb8
+26114385,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+26114393,Mediacom,Cable,MO,Midwest,-6,-5,200,20,skwb8
+26114397,Mediacom,Cable,GA,South,-5,-4,200,20,skwb8
+26114405,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+26114413,Mediacom,Cable,MD,South,-5,-4,200,20,skwb8
+26114425,Mediacom,Cable,MO,Midwest,-6,-5,200,20,skwb8
+26114429,Mediacom,Cable,AL,South,-6,-5,200,20,skwb8
+26114469,Charter,Cable,OH,Midwest,-5,-4,100,10,skwb8
+26114493,Windstream,DSL,MO,Midwest,-6,-5,3,0.768,skwb8
+26114501,Windstream,DSL,KY,South,-5,-4,3,0.768,skwb8
+26159713,Windstream,DSL,NY,Northeast,-5,-4,10,1,skwb8
+26159737,Windstream,DSL,FL,South,-5,-4,10,1,skwb8
+26159741,Windstream,DSL,PA,Northeast,-5,-4,3,1,skwb8
+26159761,Windstream,DSL,MN,Midwest,-6,-5,12,1.5,skwb8
+26159765,Windstream,DSL,IA,Midwest,-6,-5,3,0.768,skwb8
+26159769,Windstream,DSL,NE,Midwest,-6,-5,3,0.768,skwb8
+26159825,Windstream,DSL,GA,South,-5,-4,10,1.1,skwb8
+26159853,Windstream,DSL,AR,South,-6,-5,20,1.5,skwb8
+26159897,Windstream,DSL,PA,Northeast,-5,-4,25,1.5,skwb8
+26159901,Windstream,DSL,OH,Midwest,-5,-4,25,1.5,skwb8
+26159905,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+26159909,Windstream,DSL,GA,South,-5,-4,15,1.5,skwb8
+26159913,Windstream,DSL,KY,South,-5,-4,25,1.5,skwb8
+26159917,Windstream,DSL,KY,South,-5,-4,20,1.5,skwb8
+26159925,Windstream,DSL,GA,South,-5,-4,25,1.5,skwb8
+26159929,Windstream,DSL,MO,Midwest,-6,-5,25,1.1,skwb8
+26159937,Windstream,DSL,MN,Midwest,-6,-5,25,1.5,skwb8
+26159941,Windstream,DSL,TX,South,-6,-5,25,1.5,skwb8
+26159945,Windstream,DSL,NC,South,-5,-4,25,1.1,skwb8
+26159949,Windstream,DSL,NC,South,-5,-4,20,1.5,skwb8
+26159965,Windstream,DSL,NC,South,-5,-4,15,1.5,skwb8
+26160281,CenturyLink,DSL,MT,West,-7,-6,10,0.768,skwb8
+26160289,Mediacom,Cable,MO,Midwest,-6,-5,200,20,skwb8
+26160297,Comcast,Cable,UT,West,-7,-6,150,5,skwb8
+26160305,Mediacom,Cable,IL,Midwest,-6,-5,60,5,skwb8
+26160317,Optimum,Cable,NY,Northeast,-5,-4,100,35,skwb8
+26160349,Mediacom,Cable,NC,South,-5,-4,60,5,skwb8
+26160361,CenturyLink,DSL,NM,West,-7,-6,1.5,0.896,skwb8
+26160373,CenturyLink,DSL,OR,West,-8,-7,1.5,0.896,skwb8
+26160385,CenturyLink,DSL,ID,West,-7,-6,7,0.896,skwb8
+26160389,CenturyLink,DSL,SD,Midwest,-7,-6,1.5,0.896,skwb8
+26160409,CenturyLink,DSL,WA,West,-8,-7,10,1,skwb8
+26160413,CenturyLink,DSL,NM,West,-7,-6,10,0.768,skwb8
+26160417,CenturyLink,DSL,IA,Midwest,-6,-5,1.5,0.896,skwb8
+26160425,CenturyLink,DSL,MN,Midwest,-6,-5,3,0.512,skwb8
+26160437,CenturyLink,DSL,CO,West,-7,-6,10,0.768,skwb8
+26160441,CenturyLink,DSL,NM,West,-7,-6,1.5,0.896,skwb8
+26160457,CenturyLink,DSL,IA,Midwest,-6,-5,12,0.896,skwb8
+26160461,CenturyLink,DSL,FL,South,-5,-4,3,0.512,skwb8
+26160465,CenturyLink,DSL,AZ,West,-7,-7,7,0.896,skwb8
+26160477,Mediacom,Cable,MO,Midwest,-6,-5,60,5,skwb8
+26160489,CenturyLink,DSL,IN,Midwest,-5,-4,10,0.768,skwb8
+26160493,CenturyLink,DSL,WA,West,-8,-7,10,0.768,skwb8
+26160497,CenturyLink,DSL,OR,West,-8,-7,1.5,0.896,skwb8
+26160501,CenturyLink,DSL,MO,Midwest,-6,-5,10,0.768,skwb8
+26160505,CenturyLink,DSL,UT,West,-7,-6,7,0.896,skwb8
+26160509,CenturyLink,DSL,WA,West,-8,-7,10,0.768,skwb8
+26160517,CenturyLink,DSL,WA,West,-8,-7,8,0.768,skwb8
+26160537,CenturyLink,DSL,WA,West,-8,-7,3,0.64,skwb8
+26160541,CenturyLink,DSL,IA,Midwest,-6,-5,1.5,0.896,skwb8
+26160545,CenturyLink,DSL,MN,Midwest,-6,-5,1.5,0.896,skwb8
+26160549,CenturyLink,DSL,AZ,West,-7,-7,1.5,0.896,skwb8
+26160553,CenturyLink,DSL,OR,West,-8,-7,1.5,0.896,skwb8
+26160557,CenturyLink,DSL,IN,Midwest,-5,-4,3,0.512,skwb8
+26160565,CenturyLink,DSL,CO,West,-7,-6,7,0.896,skwb8
+26160569,CenturyLink,DSL,ID,West,-7,-6,1.5,0.896,skwb8
+26160581,CenturyLink,DSL,AL,South,-6,-5,3,0.512,skwb8
+26160585,CenturyLink,DSL,VA,South,-5,-4,3,0.512,skwb8
+26160589,CenturyLink,DSL,PA,Northeast,-5,-4,3,0.512,skwb8
+26160597,CenturyLink,DSL,WA,West,-8,-7,1.5,0.896,skwb8
+26160601,CenturyLink,DSL,AZ,West,-7,-7,1.5,0.896,skwb8
+26160613,CenturyLink,DSL,IA,Midwest,-6,-5,1.5,0.896,skwb8
+26160617,CenturyLink,DSL,OR,West,-8,-7,3,0.64,skwb8
+26160621,CenturyLink,DSL,OR,West,-8,-7,3,0.512,skwb8
+26160625,CenturyLink,DSL,WA,West,-8,-7,1.5,0.896,skwb8
+26160629,CenturyLink,DSL,ID,West,-7,-6,12,0.896,skwb8
+26160633,CenturyLink,DSL,AZ,West,-7,-7,3,0.64,skwb8
+26160637,CenturyLink,DSL,OR,West,-8,-7,1.5,0.896,skwb8
+26160645,CenturyLink,DSL,TX,South,-6,-5,3,0.512,skwb8
+26160649,CenturyLink,DSL,WA,West,-8,-7,3,0.512,skwb8
+26160653,CenturyLink,DSL,IA,Midwest,-6,-5,3,0.64,skwb8
+26160665,CenturyLink,DSL,CO,West,-7,-6,7,0.896,skwb8
+26160673,CenturyLink,DSL,VA,South,-5,-4,3,0.512,skwb8
+26160677,CenturyLink,DSL,AZ,West,-7,-7,40,2,skwb8
+26160693,CenturyLink,DSL,WA,West,-8,-7,7,0.896,skwb8
+26226001,Verizon,Fiber,NJ,Northeast,-5,-4,75,75,skwb8
+26226005,Verizon,Fiber,NY,Northeast,-5,-4,100,100,skwb8
+26226013,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+26226033,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+26226037,Verizon,Fiber,VA,South,-5,-4,75,75,skwb8
+26226041,Verizon,Fiber,MA,Northeast,-5,-4,100,100,skwb8
+26226053,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,skwb8
+26226061,Verizon,Fiber,NY,Northeast,-5,-4,100,100,skwb8
+26226073,CenturyLink,DSL,MN,Midwest,-6,-5,12,0.896,skwb8
+26226089,CenturyLink,DSL,CO,West,-7,-6,7,0.896,skwb8
+26226093,Cincinnati Bell,DSL,KY,South,-5,-4,5,0.768,skwb8
+26226113,Mediacom,Cable,IL,Midwest,-6,-5,200,20,skwb8
+26226117,Mediacom,Cable,MO,Midwest,-6,-5,200,20,skwb8
+26226129,Mediacom,Cable,AL,South,-6,-5,200,20,skwb8
+26226133,Mediacom,Cable,MO,Midwest,-6,-5,200,20,skwb8
+26226141,Mediacom,Cable,IL,Midwest,-6,-5,200,20,skwb8
+26226145,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+26226153,Mediacom,Cable,AL,South,-6,-5,200,20,skwb8
+26226161,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+26226169,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+26226193,Cox,Cable,VA,South,-5,-4,300,30,skwb8
+26226237,Windstream,DSL,TX,South,-6,-5,25,1.5,skwb8
+26226241,Windstream,DSL,MO,Midwest,-6,-5,25,1.5,skwb8
+26226249,Windstream,DSL,NC,South,-5,-4,25,1.1,skwb8
+26226261,Windstream,DSL,FL,South,-5,-4,25,1.5,skwb8
+26226341,Windstream,DSL,TX,South,-6,-5,20,1.5,skwb8
+26226365,Windstream,DSL,OH,Midwest,-5,-4,12,1.5,skwb8
+26226385,Windstream,DSL,FL,South,-5,-4,3,0.768,skwb8
+26226401,Windstream,DSL,GA,South,-5,-4,10,1.1,skwb8
+26226405,Windstream,DSL,PA,Northeast,-5,-4,10,1,skwb8
+26226437,Windstream,DSL,SC,South,-5,-4,3,0.768,skwb8
+26226441,Windstream,DSL,OH,Midwest,-5,-4,25,1.5,skwb8
+26226473,Windstream,DSL,PA,Northeast,-5,-4,3,0.768,skwb8
+26226489,Windstream,DSL,IA,Midwest,-6,-5,10,1,skwb8
+26226505,Windstream,DSL,NC,South,-5,-4,3,0.768,skwb8
+26226553,Cox,Cable,OK,South,-6,-5,300,30,skwb8
+26226557,Windstream,DSL,NM,West,-7,-6,3,1,skwb8
+26226589,Windstream,DSL,GA,South,-5,-4,10,1,skwb8
+26226593,Windstream,DSL,GA,South,-5,-4,3,0.768,skwb8
+26226601,Windstream,DSL,NY,Northeast,-5,-4,10,1.1,skwb8
+26226613,Windstream,DSL,TX,South,-6,-5,10,1,skwb8
+26226617,Windstream,DSL,TX,South,-7,-6,3,0.768,skwb8
+26226641,Windstream,DSL,GA,South,-5,-4,3,0.768,skwb8
+26226669,Windstream,DSL,PA,Northeast,-5,-4,10,1,skwb8
+26226677,Windstream,DSL,OK,South,-6,-5,3,0.768,skwb8
+26226681,Windstream,DSL,GA,South,-5,-4,3,1,skwb8
+26226693,Windstream,DSL,GA,South,-5,-4,10,1.1,skwb8
+26226701,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+26226709,Windstream,DSL,GA,South,-5,-4,3,1.1,skwb8
+26226713,Windstream,DSL,OK,South,-6,-5,10,1.1,skwb8
+26226725,Windstream,DSL,GA,South,-5,-4,10,1,skwb8
+26226737,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+26226741,Windstream,DSL,TX,South,-6,-5,10,1,skwb8
+26226757,Windstream,DSL,GA,South,-5,-4,10,1,skwb8
+26226773,Windstream,DSL,MN,Midwest,-6,-5,10,1.1,skwb8
+26226785,Windstream,DSL,FL,South,-5,-4,10,1,skwb8
+26226789,Windstream,DSL,NC,South,-5,-4,10,1,skwb8
+26226793,Windstream,DSL,OH,Midwest,-5,-4,10,1.1,skwb8
+26226801,Windstream,DSL,NC,South,-5,-4,10,1,skwb8
+26226809,Windstream,DSL,NE,Midwest,-6,-5,3,0.768,skwb8
+26226817,Windstream,DSL,GA,South,-5,-4,10,1,skwb8
+26226841,Windstream,DSL,GA,South,-5,-4,25,1.1,skwb8
+26226857,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+26226865,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+26226869,Windstream,DSL,NC,South,-5,-4,25,1.1,skwb8
+26226885,Windstream,DSL,KY,South,-5,-4,20,1.5,skwb8
+26226901,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+26226909,Windstream,DSL,KY,South,-5,-4,25,1.1,skwb8
+26226913,Windstream,DSL,KY,South,-5,-4,15,1.5,skwb8
+26226925,Windstream,DSL,IA,Midwest,-6,-5,25,1.5,skwb8
+26226929,CenturyLink,DSL,IA,Midwest,-6,-5,7,0.896,skwb8
+26226933,CenturyLink,DSL,UT,West,-7,-6,7,0.896,skwb8
+26226949,CenturyLink,DSL,MN,Midwest,-6,-5,7,0.896,skwb8
+26226953,CenturyLink,DSL,WY,West,-7,-6,7,0.896,skwb8
+26226957,CenturyLink,DSL,CO,West,-7,-6,20,5,skwb8
+26397857,Cincinnati Bell,Fiber,KY,South,-5,-4,250,100,skwb8
+26397869,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,250,100,skwb8
+26397873,Cox,Cable,CA,West,-8,-7,300,30,skwb8
+26397881,Charter,Cable,WI,Midwest,-6,-5,200,10,skwb8
+26397889,Verizon,Fiber,NY,Northeast,-5,-4,100,100,skwb8
+26397893,Verizon,Fiber,PA,Northeast,-5,-4,100,100,skwb8
+26397905,Verizon,Fiber,MA,Northeast,-5,-4,100,100,skwb8
+26397921,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+26437309,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,5,skwb8
+26437337,CenturyLink,DSL,NE,Midwest,-6,-5,7,0.896,skwb8
+26437341,CenturyLink,DSL,TN,South,-5,-4,10,0.768,skwb8
+26437349,CenturyLink,DSL,TX,South,-6,-5,3,0.64,skwb8
+26437353,CenturyLink,DSL,CO,West,-7,-6,5,0.896,skwb8
+26437369,CenturyLink,DSL,TX,South,-6,-5,10,0.768,skwb8
+26437377,CenturyLink,DSL,AL,South,-6,-5,40,5,skwb8
+26437381,CenturyLink,DSL,MT,West,-7,-6,10,0.768,skwb8
+26437393,Verizon,Fiber,VA,South,-5,-4,100,100,skwb8
+26437405,Verizon,Fiber,NJ,Northeast,-5,-4,100,100,skwb8
+26437409,Verizon,Fiber,PA,Northeast,-5,-4,75,75,skwb8
+26437417,Verizon,Fiber,MD,South,-5,-4,75,75,skwb8
+26437429,Cox,Cable,RI,Northeast,-5,-4,300,30,skwb8
+26437437,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+26437441,Charter,Cable,SC,South,-5,-4,400,20,skwb8
+26437449,Charter,Cable,MO,Midwest,-6,-5,400,20,skwb8
+26437473,Charter,Cable,CA,West,-8,-7,400,20,skwb8
+26437489,Charter,Cable,SC,South,-5,-4,400,20,skwb8
+26437493,Charter,Cable,NC,South,-5,-4,400,20,skwb8
+26437497,Charter,Cable,NC,South,-5,-4,400,20,skwb8
+26437505,Charter,Cable,CA,West,-8,-7,400,20,skwb8
+26437509,Charter,Cable,MA,Northeast,-5,-4,100,10,skwb8
+26437517,Charter,Cable,TX,South,-6,-5,400,20,skwb8
+26437521,Mediacom,Cable,MO,Midwest,-6,-5,200,20,skwb8
+26437529,Mediacom,Cable,MO,Midwest,-6,-5,200,20,skwb8
+26437533,Mediacom,Cable,IA,Midwest,-6,-5,200,20,skwb8
+26437541,Cox,Cable,CA,West,-8,-7,300,30,skwb8
+26437553,Windstream,DSL,NC,South,-5,-4,25,1.5,skwb8
+26437565,Windstream,DSL,MN,Midwest,-6,-5,25,1.5,skwb8
+26437573,Windstream,DSL,MO,Midwest,-6,-5,25,1.1,skwb8
+26437577,Cox,Cable,CT,Northeast,-5,-4,300,30,skwb8
+26437581,CenturyLink,DSL,NM,West,-7,-6,12,0.896,skwb8
+26437589,CenturyLink,DSL,IA,Midwest,-6,-5,7,0.896,skwb8
+26437597,CenturyLink,DSL,CO,West,-7,-6,7,0.896,skwb8
+26437601,CenturyLink,DSL,ID,West,-7,-6,7,0.896,skwb8
+26437609,CenturyLink,DSL,CO,West,-7,-6,7,0.896,skwb8
+26437613,CenturyLink,DSL,CO,West,-7,-6,5,0.896,skwb8
+26437617,CenturyLink,DSL,UT,West,-7,-6,7,0.896,skwb8
+26437621,CenturyLink,DSL,UT,West,-7,-6,5,0.896,skwb8
+26437629,CenturyLink,DSL,WA,West,-8,-7,7,0.896,skwb8
+26437633,CenturyLink,DSL,ID,West,-7,-6,3,0.64,skwb8
+26437637,CenturyLink,DSL,ID,West,-7,-6,1.5,0.896,skwb8
+26437641,CenturyLink,DSL,CO,West,-7,-6,7,0.896,skwb8
+26437645,CenturyLink,DSL,WA,West,-8,-7,7,0.896,skwb8
+26437649,CenturyLink,DSL,IA,Midwest,-6,-5,7,0.896,skwb8
+26437657,CenturyLink,DSL,CO,West,-7,-6,7,0.896,skwb8
+26437661,CenturyLink,DSL,WA,West,-8,-7,7,0.896,skwb8
+26437669,CenturyLink,DSL,NM,West,-7,-6,7,0.896,skwb8
+26490157,Charter,Cable,MA,Northeast,-5,-4,400,20,skwb8
+26490161,Charter,Cable,MI,Midwest,-5,-4,400,20,skwb8
+26490165,CenturyLink,DSL,WA,West,-8,-7,5,0.896,skwb8
+26490169,CenturyLink,DSL,AZ,West,-7,-7,7,0.896,skwb8
+26490177,CenturyLink,DSL,NE,Midwest,-6,-5,7,0.896,skwb8
+26490185,CenturyLink,DSL,AZ,West,-7,-7,12,0.896,skwb8
+26490197,CenturyLink,DSL,NM,West,-7,-6,7,0.896,skwb8
+26490209,CenturyLink,DSL,OR,West,-8,-7,7,0.896,skwb8
+26490213,CenturyLink,DSL,OR,West,-8,-7,7,0.896,skwb8
+26490217,CenturyLink,DSL,CO,West,-7,-6,7,0.896,skwb8
+26490221,CenturyLink,DSL,MN,Midwest,-6,-5,7,0.896,skwb8
+26490225,CenturyLink,DSL,CO,West,-7,-6,7,0.896,skwb8
+26490229,CenturyLink,DSL,IA,Midwest,-6,-5,7,0.896,skwb8
+26490233,CenturyLink,DSL,MN,Midwest,-6,-5,7,0.896,skwb8
+26490381,Cox,Cable,RI,Northeast,-5,-4,150,10,skwb8
+26490389,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+26490397,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,50,10,skwb8
+26490401,Cincinnati Bell,Fiber,OH,Midwest,-5,-4,500,125,skwb8
+26490413,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+26490417,Optimum,Cable,NY,Northeast,-5,-4,100,35,skwb8
+26490425,Optimum,Cable,NY,Northeast,-5,-4,200,35,skwb8
+26490429,Optimum,Cable,NJ,Northeast,-5,-4,100,35,skwb8
+26490445,Optimum,Cable,CT,Northeast,-5,-4,200,35,skwb8
+26490453,CenturyLink,DSL,WI,Midwest,-6,-5,10,0.768,skwb8
+26490465,CenturyLink,DSL,TN,South,-5,-4,10,0.768,skwb8
+26490469,CenturyLink,DSL,VA,South,-5,-4,10,0.768,skwb8
+26490481,CenturyLink,DSL,FL,South,-5,-4,10,0.768,skwb8
+26490485,CenturyLink,DSL,AR,South,-6,-5,10,0.768,skwb8
+26490489,CenturyLink,DSL,NE,Midwest,-6,-5,10,1,skwb8
+26490497,CenturyLink,DSL,WI,Midwest,-6,-5,10,0.768,skwb8
+26490505,CenturyLink,DSL,MT,West,-7,-6,10,0.64,skwb8
+26490517,CenturyLink,DSL,MO,Midwest,-6,-5,10,0.768,skwb8
+26490525,Verizon,Fiber,NY,Northeast,-5,-4,100,100,skwb8
+26490529,Verizon,Fiber,MA,Northeast,-5,-4,100,100,skwb8
+26490537,Cox,Cable,AZ,West,-7,-7,300,30,skwb8
+26490541,Cox,Cable,NV,West,-8,-7,150,10,skwb8
+26490549,Charter,Cable,SC,South,-5,-4,400,20,skwb8
+26490565,Charter,Cable,WI,Midwest,-6,-5,400,20,skwb8
+26490569,Charter,Cable,NC,South,-5,-4,400,20,skwb8
+26490581,Charter,Cable,TX,South,-6,-5,400,20,skwb8
+26490585,Charter,Cable,TX,South,-6,-5,400,20,skwb8
+26490597,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+26490605,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+26490613,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+26490617,Cox,Cable,RI,Northeast,-5,-4,30,3,skwb8
+26490621,Cox,Cable,LA,South,-6,-5,30,3,skwb8
+26490633,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+26490637,Cox,Cable,CA,West,-8,-7,30,3,skwb8
+26535553,Charter,Cable,MA,Northeast,-5,-4,400,20,skwb8
+26535565,Charter,Cable,OH,Midwest,-5,-4,400,20,skwb8
+26535573,Mediacom,Cable,FL,South,-5,-4,200,20,skwb8
+26535589,Windstream,DSL,SC,South,-5,-4,3,0.768,skwb8
+26535609,Windstream,DSL,KY,South,-5,-4,3,1,skwb8
+26535613,Windstream,DSL,PA,Northeast,-5,-4,3,0.768,skwb8
+26535617,Windstream,DSL,PA,Northeast,-5,-4,3,1,skwb8
+26535629,Windstream,DSL,GA,South,-5,-4,3,0.768,skwb8
+26535633,Windstream,DSL,IA,Midwest,-6,-5,3,0.768,skwb8
+26535649,CenturyLink,DSL,MN,Midwest,-6,-5,7,0.896,skwb8
+26535657,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+26535661,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+26535685,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+26535689,Cox,Cable,OK,South,-6,-5,30,3,skwb8
+26535697,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+26535705,Cox,Cable,NE,Midwest,-6,-5,30,3,skwb8
+26535713,Cox,Cable,KS,Midwest,-6,-5,30,3,skwb8
+26535717,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+26535721,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+26535725,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+26535729,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+26667753,CenturyLink,DSL,NM,West,-7,-6,20,0.896,skwb8
+26667757,CenturyLink,DSL,AL,South,-6,-5,10,0.768,skwb8
+26667761,CenturyLink,DSL,NM,West,-7,-6,5,0.896,skwb8
+26667773,Windstream,DSL,GA,South,-5,-4,3,1,skwb8
+26667777,Windstream,DSL,KY,South,-5,-4,3,1,skwb8
+26667781,CenturyLink,DSL,MN,Midwest,-6,-5,7,0.896,skwb8
+26667785,CenturyLink,DSL,FL,South,-5,-4,25,2,skwb8
+26667789,CenturyLink,DSL,OH,Midwest,-5,-4,8,0.768,skwb8
+26667793,Cincinnati Bell,DSL,OH,Midwest,-5,-4,5,0.768,skwb8
+26707493,Cox,Cable,KS,Midwest,-6,-5,30,3,skwb8
+26707517,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+26707521,Cox,Cable,CA,West,-8,-7,30,3,skwb8
+26707525,Optimum,Cable,NY,Northeast,-5,-4,100,35,skwb8
+26748529,CenturyLink,DSL,CO,West,-7,-6,3,0.512,skwb8
+26748533,CenturyLink,DSL,VA,South,-5,-4,3,0.64,skwb8
+26748537,CenturyLink,DSL,PA,Northeast,-5,-4,7,0.896,skwb8
+26748541,Verizon,Fiber,NJ,Northeast,-5,-4,75,75,skwb8
+26748577,Cox,Cable,KS,Midwest,-6,-5,30,3,skwb8
+26748581,Cox,Cable,NV,West,-8,-7,30,3,skwb8
+26748585,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+26748593,Cox,Cable,VA,South,-5,-4,30,3,skwb8
+26748601,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+26748617,Cox,Cable,AZ,West,-7,-7,30,3,skwb8
+26748625,Cox,Cable,KS,Midwest,-6,-5,30,3,skwb8
+26827337,CenturyLink,DSL,IA,Midwest,-6,-5,10,0.64,skwb8
+26827381,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+26827385,Optimum,Cable,CT,Northeast,-5,-4,300,35,skwb8
+26827389,Optimum,Cable,NY,Northeast,-5,-4,100,35,skwb8
+26827393,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+26827397,Optimum,Cable,NY,Northeast,-5,-4,400,35,skwb8
+26827401,Optimum,Cable,NY,Northeast,-5,-4,300,35,skwb8
+27268329,Mediacom,Cable,IN,Midwest,-5,-4,60,5,skwb8
+27608173,CenturyLink,DSL,IA,Midwest,-6,-5,1.5,0.896,skwb8
+27608497,CenturyLink,DSL,IN,Midwest,-5,-4,20,2,skwb8
